@@ -1,706 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ec558a-2b50-4258-bcf0-e6c01b2a5393" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coolemanridge.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/groupareas.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/10srcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/11sfwcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/12wcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/13yrtcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/14wmta-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/15rbfcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1amcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2awdcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3brtcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/4dwcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5gcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/6gwcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/7gfcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/8mlcr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/9mmccr-t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MothVineCoolemanRidgeIndex180215.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/_vti_cnf/silhiv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/after1b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/after2b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/after3b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/alice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/aprsa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/asc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bdfm1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bench.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/benchdam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bind.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blutong.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brochure.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/centpede.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/010906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/011010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/011206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020711.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/020911.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/021009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/021205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/021208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030612.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/030910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/031106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/031204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040211.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/040909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/041006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/041007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/041104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/041105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/041209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050210.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/050908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/051110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060511.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060612.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/060907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/061109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/070809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/071005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/071108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/071123 (really 150208).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080411.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080711.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/080906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/081004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/081010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/081206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/090911.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/091009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/091205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/100910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/101106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110211.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/110909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/111105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/111209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/120210.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/120310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/120506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/120805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/120908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/121007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/121104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/121110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/121204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130511.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/130810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/131006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/131109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/140105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/140406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/140706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/140809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/140907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/141005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/141011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/141207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150711.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/150906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/151004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/151205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/151206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160412.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160710.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/160911.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/161009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/161107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/161108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/170904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/171010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/171106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/171204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/180909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/181105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190210.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/190908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/191007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/191104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/191208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200412.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/200810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/201006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/201109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/201209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210510.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/210907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/211005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220411.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/220906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230710.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/230905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/240910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/241008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/241104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/241105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/250909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260811.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/260908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/261110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270412.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/270805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/271005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/271006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/280406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/280504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/280510.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/280809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/280907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/281103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/281206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/281207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290411.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/290906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/291004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/291010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/291208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300710.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/300905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/301009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/301107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/310305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/310306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/310709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/310807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/311008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/311204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/311209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/_vti_cnf/160410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/_vti_cnf/160412.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/_vti_cnf/250311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam/_vti_cnf/290509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dam2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/damwalk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/damwalks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/davedoug.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/desc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/doug.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/doug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/douglas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dragon_a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/drgbw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/drgbw1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/drgn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/echidna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/echidnac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/echidnas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feb03-21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/fernemb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/fernembl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/froglet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/frogspawn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/geol.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/geolgy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hibert.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hibertic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jun02-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/kestrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/kestrels.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lz1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nov01-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nov01-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nov01-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/oct02-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/oct02-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ourmap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pdf_icon_16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/potted.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/potting.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/reet-feb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/reet-jun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/regrowth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rocks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rocksnow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/silhcen5g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/silhiv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/snake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stakes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/strpdsknk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/treesil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/treesn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/treesnow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/individualareas.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/individualareas1.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr18.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Apr97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug91.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Aug97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/CFPW.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Chapmanbrolores.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Cooleman_Constitution.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec08.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Dec93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb18.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb92.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Feb98.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan18.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jan97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul91.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul92.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jul96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/July09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/July12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun91.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Jun97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Katy Gallagher.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Letter to Chief Minister.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar18.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar92.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Mar97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May92.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/May97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov08.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Nov97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct91.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Oct97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/RegenReport.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept92.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept93.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept94.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept95.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept96.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/Sept97.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/draft_plan.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/news.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialpurposeareas1.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trails.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trails1.kmz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Cooleman.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animals.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aster.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/birds.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blackberry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blackberry1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blackberry2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blackberrys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2004.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2005.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2006.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2007.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2008.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2009.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2010.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2011.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/2012.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dam/years.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbinfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamitable.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/families.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/family.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fauna.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fire.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fires.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flora.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genera.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geology.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/groupareas.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hills.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/history.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/individualareas.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/location.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/map.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/members.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/place.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plantations.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/previous.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redfearns.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ridge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialpurposeareas.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialpurposeareas.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/species.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/redactor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trails.kml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treesurvey.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/walks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workpart.php" />
-    </list>
+    <list default="true" id="75ec558a-2b50-4258-bcf0-e6c01b2a5393" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -711,105 +12,44 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Cooleman" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="previous.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/previous.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2669">
-              <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="969">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images.php">
+      <file leaf-file-name="info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/info.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="dbinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbinfo.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="error_log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/error_log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="1615">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pictures.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
+      <file leaf-file-name="setup.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Foo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -829,6 +69,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -847,10 +92,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from WAMP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP from WAMP" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -859,50 +107,22 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cooleman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cooleman" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cooleman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cooleman" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Cooleman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cooleman" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -918,37 +138,20 @@
       <recent name="E:\Dev\Cooleman" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.previous.php">
-    <configuration default="false" name="previous.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63350/Cooleman/previous.php">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="previous.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63350/Cooleman/previous.php" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -956,39 +159,12 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.previous.php" />
-    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.previous.php" />
+      <list>
+        <item itemvalue="JavaScript Debug.previous.php" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1006,34 +182,78 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6258000" />
+    <option name="totallyTimeSpent" value="7073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="0" />
-    <editor active="false" />
+    <frame x="1272" y="-8" width="1296" height="1010" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.50566345" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.49433658" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50323623" side_tool="true" weight="0.32902467" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4911003" weight="0.89824563" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.7072893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7450292" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4938704" visible="true" weight="0.33009708" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5061296" side_tool="true" weight="0.22572815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49433658" visible="true" weight="0.32902467" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="SQL Generator" order="9" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="9" visible="true" weight="0.5763098" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="8" visible="true" weight="0.32915717" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.30994153" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50566345" side_tool="true" visible="true" weight="0.32902467" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.32915717" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49676377" weight="0.7072893" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5061296" side_tool="true" weight="0.22572815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4938704" visible="true" weight="0.29530746" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="8" />
+      <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="17" visible="true" weight="0.5763098" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="14" visible="true" weight="0.32915717" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.30994153" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3847953" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Find" order="2" visible="true" weight="0.47017545" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4911003" weight="0.3859649" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50323623" side_tool="true" weight="0.32902467" />
+      <window_info anchor="bottom" id="File Transfer" order="15" visible="true" weight="0.32915717" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1056,32 +276,77 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/specie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurposeareas.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walks.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animals.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bar.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plants.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/previous.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2669">
-          <caret line="157" column="0" lean-forward="true" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-          <folding />
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,7 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,31 +361,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <caret line="8" lean-forward="true" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-          <folding />
+          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1129,85 +389,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Foo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1208">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2004.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2006.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2008.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2009.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2010.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2011.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2012.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dam/2007.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1221,80 +443,113 @@
     <entry file="file://$PROJECT_DIR$/previous.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2669">
-          <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-          <folding />
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-          <folding />
+          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Foo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pictures.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding />
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="1190">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="969">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Foo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbinfo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Bar.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Plants.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularSPA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roadmap.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" lean-forward="true" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>

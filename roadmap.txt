@@ -1,0 +1,55 @@
+Files
+    1. Remove unneeded files
+    2. Restructure into folders
+    3. Create dedicated www folder for web content
+
+Newsletters
+    1. Scan Newsletters
+    2. Create PDFs
+    3. Index for Lists (Plants and Animals)
+
+Lists
+    1. Extract Data
+    2. Merge with Canberra Nature Map
+    3. Collate missing information
+    4. Convert from statically to dynamically generated
+    5. Change styles
+
+Menu
+    1. Create Menubar
+    2. Create Single Page Application
+    3. Convert pages to sub pages
+        - About
+        - Contact
+        - Plants
+        - Animals
+        - Earth
+        - Water
+        - Fire
+   4. Create new landing page
+   5. Create sub menu
+
+Convert web pages from PHP to HTML.
+    1. Sub pages?
+
+Image Gallery
+    1. Compress images
+    2. Create Image Gallery
+    - Plants
+    - Animals
+
+Taxonomy
+    1. Create specific taxonomic pages
+    2. Update lists to point to them
+    3. Allow live editing.
+
+Maps
+    1. Integrate maps
+
+Contact
+    1. Create contact form.
+    2. Generate email
+    3. Update email mailbox.
+
+Authentication
+

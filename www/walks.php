@@ -12,7 +12,7 @@
 				Dogs in the ACT</a> and <a href="http://www.tams.act.gov.au/live/pets">http://www.tams.act.gov.au/live/pets</a>.
 				</p>
 				
-				<p>Our <a href="images/brochure.pdf">brochure</a> on the Cooleman Ridge 
+				<p>Our <a href="../images/brochure.pdf">brochure</a> on the Cooleman Ridge
 				Nature Trail has information about the track and the interesting features 
 				of the reserve including the woodland, the wildlife and the history of the 
 				area.</p>

@@ -81,7 +81,7 @@
 										<td>pungens</td>
 										<td>Khaki Weed</td>
 										<td>Yes</td>
-										<td><a href="news/Apr11.pdf">April 2011</a></td>
+										<td><a href="../news/Apr11.pdf">April 2011</a></td>
 									</tr>
 									<tr>
 										<td>Amaranthaceae</td>
@@ -145,7 +145,7 @@
 										<td>fimbriatus</td>
 										<td>Nodding Chocolate Lily</td>
 										<td>Yes</td>
-										<td><a href="news/Jan09.pdf">January 2009</a></td>
+										<td><a href="../news/Jan09.pdf">January 2009</a></td>
 									</tr>
 									<tr>
 										<td>Anthericaceae</td>
@@ -169,7 +169,7 @@
 										<td>leptophyllum</td>
 										<td>Slender Celery</td>
 										<td>No</td>
-										<td><a href="news/Apr15.pdf">April 2015</a></td>
+										<td><a href="../news/Apr15.pdf">April 2015</a></td>
 									</tr>
 									<tr>
 										<td>Apiaceae</td>
@@ -241,7 +241,7 @@
 										<td>coeruleum</td>
 										<td>Tweedia</td>
 										<td>No</td>
-										<td><a href="news/Jan11.pdf">January 2011</a></td>
+										<td><a href="../news/Jan11.pdf">January 2011</a></td>
 									</tr>
 									<tr>
 										<td>Asphodelaceae</td>
@@ -289,7 +289,7 @@
 										<td>lappulacea</td>
 										<td>Yellow Burr Daisy</td>
 										<td>Yes</td>
-										<td><a href="news/Apr14.pdf">April 2014</a></td>
+										<td><a href="../news/Apr14.pdf">April 2014</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -385,7 +385,7 @@
 										<td>bonariensis</td>
 										<td>Flax-leaf Fleabane</td>
 										<td>No</td>
-										<td><a href="news/Jun12.pdf">June 2012</a></td>
+										<td><a href="../news/Jun12.pdf">June 2012</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -393,7 +393,7 @@
 										<td>australis</td>
 										<td>Common Cotula</td>
 										<td>Yes</td>
-										<td><a href="news/Aug09.pdf">August 2009</a></td>
+										<td><a href="../news/Aug09.pdf">August 2009</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -417,7 +417,7 @@
 										<td>lawsonianus</td>
 										<td>Bear's Ear</td>
 										<td>Yes</td>
-										<td><a href="news/Aug10.pdf">August 2010</a></td>
+										<td><a href="../news/Aug10.pdf">August 2010</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -425,7 +425,7 @@
 										<td>karvinskianus</td>
 										<td>Bony-tip Fleabane, Seaside Daisy</td>
 										<td>No</td>
-										<td><a href="news/Aug14.pdf">August 2014</a></td>
+										<td><a href="../news/Aug14.pdf">August 2014</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -465,7 +465,7 @@
 										<td>glabra</td>
 										<td>Smooth Catsear</td>
 										<td>No</td>
-										<td><a href="news/Oct09.pdf">October 2009</a></td>
+										<td><a href="../news/Oct09.pdf">October 2009</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -593,7 +593,7 @@
 										<td>dubius</td>
 										<td>Goatsbeard</td>
 										<td>No</td>
-										<td><a href="news/Feb11.pdf">February 2011</a></td>
+										<td><a href="../news/Feb11.pdf">February 2011</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -649,7 +649,7 @@
 										<td>spinosum</td>
 										<td>Bathurst Burr</td>
 										<td>No</td>
-										<td><a href="news/Jun09.pdf">Jun 2009</a><br><a href="news/May11.pdf">May 2011</a><br><a href="news/Dec11.pdf">December 2011</a></td>
+										<td><a href="../news/Jun09.pdf">Jun 2009</a><br><a href="../news/May11.pdf">May 2011</a><br><a href="../news/Dec11.pdf">December 2011</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -657,7 +657,7 @@
 										<td>occidentale</td>
 										<td>Noogoora Burr, Cockle Burr</td>
 										<td>No</td>
-										<td><a href="news/Aug11.pdf">August 2011</a></td>
+										<td><a href="../news/Aug11.pdf">August 2011</a></td>
 									</tr>
 									<tr>
 										<td>Asteraceae</td>
@@ -681,7 +681,7 @@
 										<td>aquifolium</td>
 										<td>Oregon Grape</td>
 										<td>No</td>
-										<td><a href="news/Oct12.pdf">October 2012</a></td>
+										<td><a href="../news/Oct12.pdf">October 2012</a></td>
 									</tr>
 									<tr>
 										<td>Berberidaceae</td>
@@ -785,7 +785,7 @@
 										<td>stricta</td>
 										<td>Prickly Pear</td>
 										<td>No</td>
-										<td><a href="news/Aug15.pdf">August 2015</a></td>
+										<td><a href="../news/Aug15.pdf">August 2015</a></td>
 									</tr>
 									<tr>
 										<td>Campanulaceae</td>
@@ -801,7 +801,7 @@
 										<td>communis</td>
 										<td>Tufted Bluebell</td>
 										<td>Yes</td>
-										<td><a href="news/May10.pdf">May 2010</a></td>
+										<td><a href="../news/May10.pdf">May 2010</a></td>
 									</tr>
 									<tr>
 										<td>Campanulaceae</td>
@@ -809,7 +809,7 @@
 										<td>gracilis</td>
 										<td>Australian Bluebell</td>
 										<td>Yes</td>
-										<td><a href="news/May10.pdf">May 2010</a></td>
+										<td><a href="../news/May10.pdf">May 2010</a></td>
 									</tr>
 									<tr>
 										<td>Campanulaceae</td>
@@ -849,7 +849,7 @@
 										<td>glomeratum</td>
 										<td>Mouse-ear Chickweed</td>
 										<td>No</td>
-										<td><a href="news/Oct09.pdf">October 2009</a></td>
+										<td><a href="../news/Oct09.pdf">October 2009</a></td>
 									</tr>
 									<tr>
 										<td>Caryophyllaceae</td>
@@ -889,7 +889,7 @@
 										<td>gallica</td>
 										<td>French Catchfly</td>
 										<td>No</td>
-										<td><a href="news/Nov10.pdf">Nov 2010</a></td>
+										<td><a href="../news/Nov10.pdf">Nov 2010</a></td>
 									</tr>
 									<tr>
 										<td>Caryophyllaceae</td>
@@ -929,7 +929,7 @@
 										<td>nutans subsp. nutans</td>
 										<td>Climbing Saltbush</td>
 										<td>Yes</td>
-										<td><a href="news/Jul14.pdf">July 2014</a></td>
+										<td><a href="../news/Jul14.pdf">July 2014</a></td>
 									</tr>
 									<tr>
 										<td>Chenopodiaceae</td>
@@ -977,7 +977,7 @@
 										<td>dioica</td>
 										<td>Early Nancy</td>
 										<td>Yes</td>
-										<td><a href="news/Oct10.pdf">October 2010</a></td>
+										<td><a href="../news/Oct10.pdf">October 2010</a></td>
 									</tr>
 									<tr>
 										<td>Convolvulaceae</td>
@@ -1033,7 +1033,7 @@
 										<td>acuta</td>
 										<td>Spike Rush</td>
 										<td>Yes</td>
-										<td><a href="news/Jan16.pdf">January 2016</a></td>
+										<td><a href="../news/Jan16.pdf">January 2016</a></td>
 									</tr>
 									<tr>
 										<td>Cyperaceae</td>
@@ -1041,7 +1041,7 @@
 										<td>breviculmis</td>
 										<td>Short-stem Sedge</td>
 										<td>Yes</td>
-										<td><a href="news/Sept14.pdf">September 2014</a></td>
+										<td><a href="../news/Sept14.pdf">September 2014</a></td>
 									</tr>
 									<tr>
 										<td>Cyperaceae</td>
@@ -1113,7 +1113,7 @@
 										<td>{proliferum}</td>
 										<td>Mother Shield Fern</td>
 										<td>Yes</td>
-										<td><a href="news/Sept10.pdf">September 2010</a></td>
+										<td><a href="../news/Sept10.pdf">September 2010</a></td>
 									</tr>
 									<tr>
 										<td>Dennstaedtiaceae</td>
@@ -1121,7 +1121,7 @@
 										<td>esculentum</td>
 										<td>Bracken</td>
 										<td>Yes</td>
-										<td><a href="news/Jun11.pdf">June 2011</a></td>
+										<td><a href="../news/Jun11.pdf">June 2011</a></td>
 									</tr>
 									<tr>
 										<td>Epacridaceae</td>
@@ -1297,7 +1297,7 @@
 										<td>procumbens</td>
 										<td>Bush Pea</td>
 										<td>Yes</td>
-										<td><a href="news/Nov12.pdf">November 2012</a></td>
+										<td><a href="../news/Nov12.pdf">November 2012</a></td>
 									</tr>
 									<tr>
 										<td>Fabaceae</td>
@@ -1377,7 +1377,7 @@
 										<td>tenuiflorum</td>
 										<td>&nbsp;</td>
 										<td>No</td>
-										<td><a href="news/Jan12.pdf">January 2012</a></td>
+										<td><a href="../news/Jan12.pdf">January 2012</a></td>
 									</tr>
 									<tr>
 										<td>Geraniaceae</td>
@@ -1425,7 +1425,7 @@
 										<td>australe</td>
 										<td>Native Storkbill</td>
 										<td>Yes</td>
-										<td><a href="news/Dec10.pdf">December 2010</a></td>
+										<td><a href="../news/Dec10.pdf">December 2010</a></td>
 									</tr>
 									<tr>
 										<td>Goodeniaceae</td>
@@ -1473,7 +1473,7 @@
 										<td>ovalifolia</td>
 										<td>Swamp Lily</td>
 										<td>Yes</td>
-										<td><a href="news/Mar12.pdf">March 2012</a></td>
+										<td><a href="../news/Mar12.pdf">March 2012</a></td>
 									</tr>
 									<tr>
 										<td>Iridaceae</td>
@@ -1545,7 +1545,7 @@
 										<td>densiflora</td>
 										<td>Woodrush</td>
 										<td>Yes</td>
-										<td><a href="news/Oct13.pdf">October 2013</a></td>
+										<td><a href="../news/Oct13.pdf">October 2013</a></td>
 									</tr>
 									<tr>
 										<td>Lamiaceae</td>
@@ -1577,7 +1577,7 @@
 										<td>laxiflora</td>
 										<td>Forest Mint</td>
 										<td>Yes</td>
-										<td><a href="news/Jan13.pdf">January 2013</a></td>
+										<td><a href="../news/Jan13.pdf">January 2013</a></td>
 									</tr>
 									<tr>
 										<td>Lamiaceae</td>
@@ -1681,7 +1681,7 @@
 										<td>eucalyptoides</td>
 										<td>Mistletoe</td>
 										<td>Yes</td>
-										<td><a href="news/Oct11.pdf">October 2011</a><br><a href="news/Jun15.pdf">June 2015</a></td>
+										<td><a href="../news/Oct11.pdf">October 2011</a><br><a href="../news/Jun15.pdf">June 2015</a></td>
 									</tr>
 									<tr>
 										<td>Lythraceae</td>
@@ -1769,7 +1769,7 @@
 										<td>dealbata</td>
 										<td>Silver Wattle</td>
 										<td>Yes</td>
-										<td><a href="news/Sept16.pdf">September 2016</a></td>
+										<td><a href="../news/Sept16.pdf">September 2016</a></td>
 									</tr>
 									<tr>
 										<td>Mimosaceae</td>
@@ -1785,7 +1785,7 @@
 										<td>doratoxylon</td>
 										<td>Currawang</td>
 										<td>Yes</td>
-										<td><a href="news/Oct15.pdf">October 2015</a></td>
+										<td><a href="../news/Oct15.pdf">October 2015</a></td>
 									</tr>
 									<tr>
 										<td>Mimosaceae</td>
@@ -1833,7 +1833,7 @@
 										<td>melanoxylon</td>
 										<td>Blackwood</td>
 										<td>Yes</td>
-										<td><a href="news/Oct12.pdf">October 2012</a></td>
+										<td><a href="../news/Oct12.pdf">October 2012</a></td>
 									</tr>
 									<tr>
 										<td>Mimosaceae</td>
@@ -1857,7 +1857,7 @@
 										<td>pravissima</td>
 										<td>Wedge-leaved Wattle</td>
 										<td>Yes</td>
-										<td><a href="news/Oct16.pdf">October 2016</a></td>
+										<td><a href="../news/Oct16.pdf">October 2016</a></td>
 									</tr>
 									<tr>
 										<td>Mimosaceae</td>
@@ -2009,7 +2009,7 @@
 										<td>sideroxylon</td>
 										<td>Red Ironbark</td>
 										<td>No</td>
-										<td><a href="news/Nov11.pdf">November 2011</a></td>
+										<td><a href="../news/Nov11.pdf">November 2011</a></td>
 									</tr>
 									<tr>
 										<td>Oleaceae</td>
@@ -2025,7 +2025,7 @@
 										<td>sinense</td>
 										<td>Small-leaved Privet</td>
 										<td>No</td>
-										<td><a href="news/May12.pdf">May 2012</a></td>
+										<td><a href="../news/May12.pdf">May 2012</a></td>
 									</tr>
 									<tr>
 										<td>Onagraceae</td>
@@ -2065,7 +2065,7 @@
 										<td>unifolia</td>
 										<td>Common Onion Orchid</td>
 										<td>Yes</td>
-										<td><a href="news/Jan11.pdf">January 2011</a></td>
+										<td><a href="../news/Jan11.pdf">January 2011</a></td>
 									</tr>
 									<tr>
 										<td>Oxalidaceae</td>
@@ -2153,7 +2153,7 @@
 										<td>lanceolata</td>
 										<td>Plantain</td>
 										<td>No</td>
-										<td><a href="news/Aug12.pdf">August 2012</a></td>
+										<td><a href="../news/Aug12.pdf">August 2012</a></td>
 									</tr>
 									<tr>
 										<td>Plantaginaceae</td>
@@ -2193,7 +2193,7 @@
 										<td>ramosa</td>
 										<td>Purple Wire Grass</td>
 										<td>Yes</td>
-										<td><a href="news/May09.pdf">May 2009</a></td>
+										<td><a href="../news/May09.pdf">May 2009</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2217,7 +2217,7 @@
 										<td>carphoides</td>
 										<td>Short Wallaby Grass</td>
 										<td>Yes</td>
-										<td><a href="news/Dec09.pdf">December 2009</a></td>
+										<td><a href="../news/Dec09.pdf">December 2009</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2417,7 +2417,7 @@
 										<td>sericeum</td>
 										<td>Queensland Blue Grass</td>
 										<td>Yes</td>
-										<td><a href="news/Apr10.pdf">April 2010</a></td>
+										<td><a href="../news/Apr10.pdf">April 2010</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2441,7 +2441,7 @@
 										<td>sanguinalis</td>
 										<td>&nbsp;</td>
 										<td>No</td>
-										<td><a href="news/Mar10.pdf">March 2010</a></td>
+										<td><a href="../news/Mar10.pdf">March 2010</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2449,7 +2449,7 @@
 										<td>brownii</td>
 										<td>Cotton Panic Grass</td>
 										<td>Yes</td>
-										<td><a href="news/Mar10.pdf">March 2010</a><br><a href="news/Jun14.pdf">June 2014</a><br><a href="news/May15.pdf">May 2015</a></td>
+										<td><a href="../news/Mar10.pdf">March 2010</a><br><a href="../news/Jun14.pdf">June 2014</a><br><a href="../news/May15.pdf">May 2015</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2505,7 +2505,7 @@
 										<td>nigricans</td>
 										<td>Niggerhead</td>
 										<td>Yes</td>
-										<td><a href="news/May09.pdf">May 2009</a></td>
+										<td><a href="../news/May09.pdf">May 2009</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2537,7 +2537,7 @@
 										<td>parviflora</td>
 										<td>Weeping Lovegrass</td>
 										<td>Yes</td>
-										<td><a href="news/Apr10.pdf">April 2010</a></td>
+										<td><a href="../news/Apr10.pdf">April 2010</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2633,7 +2633,7 @@
 										<td>distichum</td>
 										<td>Water Couch</td>
 										<td>Yes</td>
-										<td><a href="news/Feb12.pdf">February 2012</a></td>
+										<td><a href="../news/Feb12.pdf">February 2012</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2649,7 +2649,7 @@
 										<td>neesiana</td>
 										<td>Chilean Needle Grass</td>
 										<td>No</td>
-										<td><a href="news/Dec08.pdf">December 2008</a></td>
+										<td><a href="../news/Dec08.pdf">December 2008</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2657,7 +2657,7 @@
 										<td>trichotoma</td>
 										<td>Serrated tussock</td>
 										<td>No</td>
-										<td><a href="news/Jul11.pdf">July 2011</a></td>
+										<td><a href="../news/Jul11.pdf">July 2011</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2681,7 +2681,7 @@
 										<td>bulbosa</td>
 										<td>Bulbous Poa</td>
 										<td>No</td>
-										<td><a href="news/Nov08.pdf">November 2008</a></td>
+										<td><a href="../news/Nov08.pdf">November 2008</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2689,7 +2689,7 @@
 										<td>labillardieri</td>
 										<td>Tussock</td>
 										<td>Yes</td>
-										<td><a href="news/Nov08.pdf">November 2008</a></td>
+										<td><a href="../news/Nov08.pdf">November 2008</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2697,7 +2697,7 @@
 										<td>sieberiana</td>
 										<td>Fine-leaf Tussock Grass</td>
 										<td>Yes</td>
-										<td><a href="news/Nov08.pdf">November 2008</a></td>
+										<td><a href="../news/Nov08.pdf">November 2008</a></td>
 									</tr>
 									<tr>
 										<td>Poaceae</td>
@@ -2825,7 +2825,7 @@
 										<td>lapathifolia</td>
 										<td>Pale Knotweed</td>
 										<td>Yes</td>
-										<td><a href="news/Apr09.pdf">April 2009</a></td>
+										<td><a href="../news/Apr09.pdf">April 2009</a></td>
 									</tr>
 									<tr>
 										<td>Polygonaceae</td>
@@ -2833,7 +2833,7 @@
 										<td>prostrata</td>
 										<td>Creeping Knotweed</td>
 										<td>Yes</td>
-										<td><a href="news/Apr09.pdf">April 2009</a></td>
+										<td><a href="../news/Apr09.pdf">April 2009</a></td>
 									</tr>
 									<tr>
 										<td>Polygonaceae</td>
@@ -2841,7 +2841,7 @@
 										<td>aviculare</td>
 										<td>Wire Weed</td>
 										<td>No</td>
-										<td><a href="news/Feb13.pdf">February 2013</a></td>
+										<td><a href="../news/Feb13.pdf">February 2013</a></td>
 									</tr>
 									<tr>
 										<td>Polygonaceae</td>
@@ -2897,7 +2897,7 @@
 										<td>microphylla v. leptophylla</td>
 										<td>Small-leafed Clematis</td>
 										<td>Yes</td>
-										<td><a href="news/Oct14.pdf">October 2014</a></td>
+										<td><a href="../news/Oct14.pdf">October 2014</a></td>
 									</tr>
 									<tr>
 										<td>Ranunculaceae</td>
@@ -2913,7 +2913,7 @@
 										<td>sceleratus</td>
 										<td>Celery Buttercup</td>
 										<td>Yes</td>
-										<td><a href="news/Aug13.pdf">August 2013</a></td>
+										<td><a href="../news/Aug13.pdf">August 2013</a></td>
 									</tr>
 									<tr>
 									  <td>Rhamnaceae</td>
@@ -2961,7 +2961,7 @@
 										<td>monogyna</td>
 										<td>Hawthorn</td>
 										<td>No</td>
-										<td><a href="news/Mar14.pdf">March 2014</a></td>
+										<td><a href="../news/Mar14.pdf">March 2014</a></td>
 									</tr>
 									<tr>
 										<td>Rosaceae</td>
@@ -3033,7 +3033,7 @@
 										<td>aparine</td>
 										<td>Cleavers, Goose Grass, Cachweed, Stickyweed</td>
 										<td>No</td>
-										<td><a href="news/Nov15.pdf">November 2015</a></td>
+										<td><a href="../news/Nov15.pdf">November 2015</a></td>
 									</tr>
 									<tr>
 										<td>Rubiaceae</td>
@@ -3073,7 +3073,7 @@
 										<td>domestica</td>
 										<td>Service Tree</td>
 										<td>No</td>
-										<td><a href="news/May13.pdf">May 2013</a></td>
+										<td><a href="../news/May13.pdf">May 2013</a></td>
 									</tr>
 									<tr>
 										<td>Santalaceae</td>
@@ -3089,7 +3089,7 @@
 										<td>viscosa ssp. angustissima</td>
 										<td>Sticky Hop Bush</td>
 										<td>Yes</td>
-										<td><a href="news/Nov09.pdf">November 2009</a></td>
+										<td><a href="../news/Nov09.pdf">November 2009</a></td>
 									</tr>
 									<tr>
 										<td>Sapindaceae</td>
@@ -3097,7 +3097,7 @@
 										<td>viscosa ssp. spatulata</td>
 										<td>Sticky Hop Bush</td>
 										<td>Yes</td>
-										<td><a href="news/Nov09.pdf">November 2009</a></td>
+										<td><a href="../news/Nov09.pdf">November 2009</a></td>
 									</tr>
 									<tr>
 										<td>Sapindaceae</td>
@@ -3209,7 +3209,7 @@
 										<td>cinereum</td>
 										<td>Narrawa Burr</td>
 										<td>Yes</td>
-										<td><a href="news/Jun10.pdf">June 2010</a><br><a href="news/Dec15.pdf">December 2015</a></td>
+										<td><a href="../news/Jun10.pdf">June 2010</a><br><a href="../news/Dec15.pdf">December 2015</a></td>
 									</tr>
 									<tr>
 										<td>Solanaceae</td>
@@ -3265,7 +3265,7 @@
 										<td>monogyna</td>
 										<td>Creamy Candles</td>
 										<td>Yes</td>
-										<td><a href="news/Sept09.pdf">Septeber 2009</a></td>
+										<td><a href="../news/Sept09.pdf">Septeber 2009</a></td>
 									</tr>
 									<tr>
 										<td>Sterculiaceae</td>
@@ -3273,7 +3273,7 @@
 										<td>populneus</td>
 										<td>Kurrajong</td>
 										<td>Yes</td>
-										<td><a href="news/Mar09.pdf">March 2009</a></td>
+										<td><a href="../news/Mar09.pdf">March 2009</a></td>
 									</tr>
 									<tr>
 										<td>Thymelaeaceae</td>
@@ -3297,7 +3297,7 @@
 										<td>orientalis</td>
 										<td>Broadleafed Cumbungi</td>
 										<td>Yes</td>
-										<td><a href="news/Jul13.pdf">July 2013</a></td>
+										<td><a href="../news/Jul13.pdf">July 2013</a></td>
 									</tr>
 									<tr>
 										<td>Ulmaceae</td>
@@ -3313,7 +3313,7 @@
 										<td>australis</td>
 										<td>Thistle Tree, Southern Nettle Tree, European Hackberry, Micocoulier</td>
 										<td>No</td>
-										<td><a href="news/Feb14.pdf">February 2014</a></td>
+										<td><a href="../news/Feb14.pdf">February 2014</a></td>
 									</tr>
 									<tr>
 										<td>Ulmaceae</td>
@@ -3345,7 +3345,7 @@
 										<td>bonariensis</td>
 										<td>Purpletop</td>
 										<td>No</td>
-										<td><a href="news/Apr13.pdf">April 2013</a></td>
+										<td><a href="../news/Apr13.pdf">April 2013</a></td>
 									</tr>
 									<tr>
 										<td>Violaceae</td>

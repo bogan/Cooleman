@@ -28,12 +28,12 @@
 			
 			<div class="row" id="row2">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgbw.jpg" width="201">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/drgbw.jpg" width="201">
 					<p>Eastern Bearded Dragon.</p>
 					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgbw1.jpg" width="218" style="float:none">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/drgbw1.jpg" width="218" style="float:none">
 					<p>Eastern Bearded Dragon.</p>
 					
 				</div>
@@ -43,7 +43,7 @@
 			
 			<div class="row" id="row3">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/strpdsknk.jpg" width="201">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/strpdsknk.jpg" width="201">
 					<p>
 						<em>Ctenotus robustus</em> - Striped Skink. <br>This reptile grows to 
 						about 300 mm, a third of the length being tail. It is extensively distributed 
@@ -52,7 +52,7 @@
 					</p>	
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/snake.jpg" width="218">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/snake.jpg" width="218">
 					<p>
 						<em>Pseudechis porphyriacus</em> - Red-bellied black snake. <br>Upper 
 						shiny black, with reddish lower sides and belly.
@@ -64,7 +64,7 @@
 			
 			<div class="row" id="row4">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/blutong.jpg" width="289">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/blutong.jpg" width="289">
 					<p>
 						<em>Tiliqua scincoids</em> – Eastern Blue-tongued Lizard <br>This reptile 
 						is not venomous, and is often found in suburban gardens where it eats 
@@ -73,7 +73,7 @@
 					</p>					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/lz1.jpg" width="213">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/lz1.jpg" width="213">
 					<p>
 						Lizard on Kathner Street. At least 50 cm 
 						long. Presumably an Eastern Blue-tongue.
@@ -85,14 +85,14 @@
 			
 			<div class="row" id="row5">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgn.jpg" width="201">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/drgn.jpg" width="201">
 					<p>
 						Dragon <br>Dragon lizards can vary in colour according to whether they 
 						are young or adult, and whether it's breeding season or not.
 					</p>					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/dragon_a.jpg" width="151">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/dragon_a.jpg" width="151">
 					<p>
 						Dragon <br>Possibly <em>Amphibolurus muricatus</em> - Jacky Lizard or 
 						Tree Dragon. <br>If you can help with exact identification of the two 
@@ -105,13 +105,13 @@
 			
 			<div class="row" id="row6">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/froglet.jpg" width="201">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/froglet.jpg" width="201">
 					<p>
 						<em>Crinia sp.</em> – Froglet <br>Length: 2-3 cm. <br>Call: repetitive - crick-crick-crick
 					</p>					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/frogspawn.jpg" width="201">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/frogspawn.jpg" width="201">
 					<p>Frogspawn</p>					
 				</div>
 			</div>
@@ -120,11 +120,11 @@
 			
 			<div class="row" id="row7">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="177" src="images/centpede.jpg" width="144">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="177" src="../images/centpede.jpg" width="144">
 					<p>Centipede</p>					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="177" src="images/echidna.jpg" width="236"></a></td>
+					<img alt="click for larger picture" style="margin:20px" border="1" height="177" src="../images/echidna.jpg" width="236"></a></td>
 					<p>Echidna</p>					
 				</div>
 			</div>
@@ -133,7 +133,7 @@
 			
 			<div class="row" id="row8">
 				<div class="span5 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/aprsa.jpg" width="316">
+					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="../images/aprsa.jpg" width="316">
 					<p>
 						<em>Aprasia parapulchella</em> 
 						– Pink-tailed Legless Lizard <br>1 adult and 1 young pictured, of a family 

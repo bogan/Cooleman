@@ -11,11 +11,11 @@
 					<h2>Important Documents</h2>
 
 					<p>
-						<a href="news/Letter%20to%20Chief%20Minister.doc">Letter to Chief Minister</a>
+						<a href="../news/Letter%20to%20Chief%20Minister.doc">Letter to Chief Minister</a>
 					</p>
 				
 					<p>
-						<a href="news/Katy%20Gallagher.pdf">Response from Chief Minister</a>
+						<a href="../news/Katy%20Gallagher.pdf">Response from Chief Minister</a>
 					</p>
 		
 				</div>

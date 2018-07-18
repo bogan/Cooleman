@@ -16,7 +16,7 @@
 				on Cooleman Ridge. Some pictures are available to help you identify them.
 				</p>
 				
-				<p><a href="news/Cooleman_Constitution.pdf">Constitution</a> - the updated 
+				<p><a href="../news/Cooleman_Constitution.pdf">Constitution</a> - the updated
 				one. </p>
 				
 				<p><a href="pictures.php">Pictures</a> - members hard at work. </p>

@@ -7,7 +7,7 @@
 				<p><small>Contributed by Dr. John F. Lindsay former local geologist at AGSO</small></p>
 				
 				<p>
-				<img alt="Diagram showing geology of Cooleman Ridge" height="253" src="images/geol.jpg" width="556" style="float:right">
+				<img alt="Diagram showing geology of Cooleman Ridge" height="253" src="../images/geol.jpg" width="556" style="float:right">
 				The city of Canberra is built largely on rocks of Ordovician age (420 
 				million years old). At the time the rocks formed, and in fact for most of 
 				the Palaeozoic era, the eastern margin of the Australian continent was an 
@@ -40,7 +40,7 @@
 				granites formed at much greater depths in the earth's crust.</p>
 			
 				<p>
-				<img alt="Diagram showing geology of Deakin Volcanics along Tuggeranong Parkway" height="617" src="images/geolgy.jpg" width="293" style="float:right">
+				<img alt="Diagram showing geology of Deakin Volcanics along Tuggeranong Parkway" height="617" src="../images/geolgy.jpg" width="293" style="float:right">
 				At the northern end of the ridge, just outside the park in the pine forest 
 				on Narrabundah Hill, the Deakin Volcanics are exposed. They appear as rather 
 				poor outcrops of rubbly boulders scattered about the hill but are perhaps 

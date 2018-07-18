@@ -38,8 +38,8 @@ IMG {
 	BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BORDER-RIGHT-COLOR: black; BORDER-LEFT-COLOR: black
 }
 </STYLE>
-<TABLE border=0 cellSpacing=0 cellPadding=0 width=800 
-background=images/silhcen5g.png align=center height=600>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=800
+       background=../images/silhcen5g.png align=center height=600>
   <TBODY>
   <TR>
     <TD height=20 vAlign=middle colSpan=6 align=center>&nbsp;</TD><td colSpan=3><div>
@@ -58,8 +58,8 @@ background=images/silhcen5g.png align=center height=600>
 <gcse:search></gcse:search></div>
 </td></TR>
   <TR>
-    <TD height=70 vAlign=middle width=90 align=center><IMG 
-      src="images/logo1.jpg" width=54 height=50></TD>
+    <TD height=70 vAlign=middle width=90 align=center><IMG
+                src="../images/logo1.jpg" width=54 height=50></TD>
     <TD height=70 vAlign=middle colSpan=7 align=center><FONT color=#ba7025 
       size=+3 face="Arial, Helvetica, sans-serif">Cooleman Ridge Park Care 
       Group</FONT></TD>
@@ -77,20 +77,20 @@ background=images/silhcen5g.png align=center height=600>
   <TR>
     <TD height=132 vAlign=middle align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="about.php"><IMG border=1 alt="" 
-      align=middle src="images/fernembl.jpg" width=130 height=130></A></TD>
+      href="about.php"><IMG border=1 alt=""
+                            align=middle src="../images/fernembl.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="place.php"><IMG border=1 alt="" 
-      align=middle src="images/treesnow.jpg" width=130 height=130></A></TD>
+      href="place.php"><IMG border=1 alt=""
+                            align=middle src="../images/treesnow.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="geology.php"><IMG border=1 alt="" 
-      align=middle src="images/rocksnow.jpg" width=130 height=130></A></TD>
+      href="geology.php"><IMG border=1 alt=""
+                              align=middle src="../images/rocksnow.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="flora.php"><IMG border=1 align=middle 
-      src="images/hibertic.jpg" width=130 height=130></A></TD>
+      href="flora.php"><IMG border=1 align=middle
+                            src="../images/hibertic.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle align=center>&nbsp;</TD></TR>
   <TR>
     <TD height=40 vAlign=middle align=center>&nbsp;</TD>
@@ -122,20 +122,20 @@ background=images/silhcen5g.png align=center height=600>
   <TR>
     <TD height=132 vAlign=middle align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="members.php"><IMG border=1 
-      align=middle src="images/doug.jpg" width=130 height=130></A></TD>
+      href="members.php"><IMG border=1
+                              align=middle src="../images/doug.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="news.php"><IMG border=1 align=middle 
-      src="images/benchdam.jpg" width=130 height=130></A></TD>
+      href="news.php"><IMG border=1 align=middle
+                           src="../images/benchdam.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="walks.php"><IMG border=1 align=middle 
-      src="images/damwalks.jpg" width=130 height=130></A></TD>
+      href="walks.php"><IMG border=1 align=middle
+                            src="../images/damwalks.jpg" width=130 height=130></A></TD>
     <TD height=132 vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="fauna.php"><IMG border=1 align=middle 
-      src="images/kestrel.jpg" width=130 height=130></A></TD>
+      href="fauna.php"><IMG border=1 align=middle
+                            src="../images/kestrel.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle align=center>&nbsp;</TD></TR>
   <TR>
     <TD height=40 vAlign=middle align=center>&nbsp;</TD>
@@ -160,10 +160,10 @@ background=images/silhcen5g.png align=center height=600>
   <TR>
     <TD height=40 vAlign=middle colSpan=9 align=center><FACE="ARIAL, 
       sans-serif? Helvetica,><A 
-      href="news/Chapmanbrolores.pdf">Brochure</A> 
-      -:- <A href="news/draft_plan.pdf">1997 DRAFT 
+      href="../news/Chapmanbrolores.pdf">Brochure</A>
+      -:- <A href="../news/draft_plan.pdf">1997 DRAFT
       MANAGEMENT PLAN</FONT></A> -:- <A 
-      href="news/RegenReport.pdf">Regeneration 
+      href="../news/RegenReport.pdf">Regeneration
       Report</A></TD></TR>
   <TR>
     <TD height=86 vAlign=middle colSpan=9 

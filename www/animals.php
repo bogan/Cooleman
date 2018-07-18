@@ -62,7 +62,7 @@
 									<td>collesi</td>
 									<td>White-stemmed Gum Moth</td>
 									<td>Unknown</td>
-									<td><a href="news/Feb15.pdf">February 2015</a></td>
+									<td><a href="../news/Feb15.pdf">February 2015</a></td>
 								</tr>
 								<tr>
 									<td>Insect</td>
@@ -71,7 +71,7 @@
 									<td>cingulata</td>
 									<td>Common Blue banded Bee</td>
 									<td>Unknown</td>
-									<td><a href="news/Dec14.pdf">December 2014</a></td>
+									<td><a href="../news/Dec14.pdf">December 2014</a></td>
 								</tr>
 								<tr>
 									<td>Insect</td>
@@ -80,7 +80,7 @@
 									<td>mellifera</td>
 									<td>Western (European) Honeybees</td>
 									<td>Unknown</td>
-									<td><a href="news/Nov14.pdf">November 2014</a></td>
+									<td><a href="../news/Nov14.pdf">November 2014</a></td>
 								</tr>
 								<tr>
 									<td>Insect</td>
@@ -89,7 +89,7 @@
 									<td>augur</td>
 									<td>Lesser Brown Blowfly or Bluebodied Blowfly</td>
 									<td>Unknown</td>
-									<td><a href="news/Jan14.pdf">January 2014</a></td>
+									<td><a href="../news/Jan14.pdf">January 2014</a></td>
 								</tr>
 								<tr>
 									<td>Reptile</td>
@@ -116,7 +116,7 @@
 									<td>marmoratus</td>
 									<td>Marbled Gecko</td>
 									<td>Unknown</td>
-									<td><a href="news/Apr12.pdf">April 2012</a></td>
+									<td><a href="../news/Apr12.pdf">April 2012</a></td>
 								</tr>
 								<tr>
 									<td>Mammal</td>
@@ -134,7 +134,7 @@
 									<td>rufogriseus</td>
 									<td>Red-necked Wallaby</td>
 									<td>Unknown</td>
-									<td><a href="news/Mar15.pdf">March 2015</a></td>
+									<td><a href="../news/Mar15.pdf">March 2015</a></td>
 								</tr>
 								<tr>
 									<td>Insect</td>
@@ -143,7 +143,7 @@
 									<td>vetustissima</td>
 									<td>Australian bush fly</td>
 									<td>Unknown</td>
-									<td><a href="news/Nov13.pdf">November 2013</a></td>
+									<td><a href="../news/Nov13.pdf">November 2013</a></td>
 								</tr>
 								<tr>
 									<td>Insect</td>
@@ -152,7 +152,7 @@
 									<td>merope</td>
 									<td>Common Brown Butterfly</td>
 									<td>Unknown</td>
-									<td><a href="news/Apr11.pdf">April 2011</a></td>
+									<td><a href="../news/Apr11.pdf">April 2011</a></td>
 								</tr>
 								<tr>
 									<td>Crustacean</td>
@@ -161,7 +161,7 @@
 									<td>destructor</td>
 									<td>Yabby</td>
 									<td>Unknown</td>
-									<td><a href="news/Mar13.pdf">March 2013</a></td>
+									<td><a href="../news/Mar13.pdf">March 2013</a></td>
 								</tr>
 
 								<tr>
@@ -180,7 +180,7 @@
 									<td>parapulchella</td>
 									<td>Christmas Beetle</td>
 									<td>Unknown</td>
-									<td><a href="news/Jan15.pdf">January 2015</a></td>
+									<td><a href="../news/Jan15.pdf">January 2015</a></td>
 								</tr>
 								<tr>
 									<td>Reptile</td>
@@ -198,7 +198,7 @@
 									<td>cunninghami</td>
 									<td>Cunningham's skink</td>
 									<td>Unknown</td>
-									<td><a href="news/Mar11.pdf">March 2011</a></td>
+									<td><a href="../news/Mar11.pdf">March 2011</a></td>
 								</tr>
 								<tr>
 									<td>Reptile</td>
@@ -216,7 +216,7 @@
 									<td>viridiceps</td>
 									<td>Common Hover Fly</td>
 									<td>Unknown</td>
-									<td><a href="news/Dec13.pdf">December 2013</a></td>
+									<td><a href="../news/Dec13.pdf">December 2013</a></td>
 								</tr>
 								<tr>
 									<td>Mammal</td>
@@ -234,7 +234,7 @@
 									<td>ursinus</td>
 									<td>Common Wombat</td>
 									<td>Unknown</td>
-									<td><a href="news/Sept13.pdf">September 2013</a></td>
+									<td><a href="../news/Sept13.pdf">September 2013</a></td>
 								</tr>
 
 
@@ -575,7 +575,7 @@
 									<td>coronoides</td>
 									<td>Australian Raven</td>
 									<td>Common</td>
-									<td><a href="news/Jan09.pdf">January 2009</a></td>
+									<td><a href="../news/Jan09.pdf">January 2009</a></td>
 								</tr>
 								<tr>
 									<td>Bird</td>
@@ -836,7 +836,7 @@
 									<td>melanocephala</td>
 									<td>Noisy Miner</td>
 									<td>Rare</td>
-									<td><a href="news/Dec12.pdf">December 2012</a></td>
+									<td><a href="../news/Dec12.pdf">December 2012</a></td>
 								</tr>
 								<tr>
 									<td>Bird</td>
@@ -1043,7 +1043,7 @@
 									<td>chalcoptera</td>
 									<td>Common Bronzewing</td>
 									<td>Rare</td>
-									<td><a href="news/Jul10.pdf">July 2010</a></td>
+									<td><a href="../news/Jul10.pdf">July 2010</a></td>
 								</tr>
 								<tr>
 									<td>Bird</td>
@@ -1196,7 +1196,7 @@
 									<td>novaehollandiae</td>
 									<td>Australasian Grebe</td>
 									<td>Common</td>
-									<td><a href="news/Jun13.pdf">June 2013</a></td>
+									<td><a href="../news/Jun13.pdf">June 2013</a></td>
 								</tr>
 								<tr>
 									<td>Bird</td>
@@ -1205,7 +1205,7 @@
 									<td>bichenovii</td>
 									<td>Double-barred Finch</td>
 									<td>Uncommon</td>
-									<td><a href="news/Jun12.pdf">June 2012</a></td>
+									<td><a href="../news/Jun12.pdf">June 2012</a></td>
 								</tr>
 								<tr>
 									<td>Bird</td>

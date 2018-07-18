@@ -21,27 +21,27 @@
 						</tr>
 						<tr>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/nov01-3.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/nov01-3.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/nov01-5.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/nov01-5.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/nov01-4.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/nov01-4.jpg" width="201"></td>
 						</tr>
 						<tr>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-19.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-19.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-21.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-21.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-20.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-20.jpg" width="201"></td>
 						</tr>
 						<tr>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/after1b.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/after1b.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/after3b.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/after3b.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/after2b.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/after2b.jpg" width="201"></td>
 						</tr>
 						<tr>
 							<td align="left" valign="top" width="211">
@@ -65,19 +65,19 @@
 						</tr>
 						<tr>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/jun02-16.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/jun02-16.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/oct02-19.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/oct02-19.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/oct02-18.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/oct02-18.jpg" width="201"></td>
 						</tr>
 						<tr>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-14.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-14.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-13.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-13.jpg" width="201"></td>
 							<td align="center">
-							<img alt="picture" border="1" height="134" src="images/feb03-15.jpg" width="201"></td>
+							<img alt="picture" border="1" height="134" src="../images/feb03-15.jpg" width="201"></td>
 						</tr>
 						<tr>
 							<td align="left" valign="top" width="211">
@@ -107,8 +107,8 @@
 					</p>
 					
 					<p align="center">
-						<img alt="picture" border="1" height="209" src="images/reet-feb.jpg" width="310">
-						<img alt="picture" border="1" height="209" src="images/reet-jun.jpg" width="310">
+						<img alt="picture" border="1" height="209" src="../images/reet-feb.jpg" width="310">
+						<img alt="picture" border="1" height="209" src="../images/reet-jun.jpg" width="310">
 					</p>
 					
 					<br/>
@@ -122,7 +122,7 @@
 					</p>
 
 					<p align="center">
-						<img alt="picture" border="1" height="480" src="images/regrowth.jpg" width="640">
+						<img alt="picture" border="1" height="480" src="../images/regrowth.jpg" width="640">
 					</p>
 					
 					<br/>

@@ -18,7 +18,7 @@
 				of plant species.</p>
 				
 				<p>
-				<img alt="Dry dam, 27 August 2004" src="images/dam/270804.jpg" style="float:left;margin:10px;width:250px">
+				<img alt="Dry dam, 27 August 2004" src="../images/dam/270804.jpg" style="float:left;margin:10px;width:250px">
 				At the same time there was a drive to utilise Cooleman Ridge for cattle 
 				grazing for fuel reduction and also to provide a water supply for fire fighting 
 				vehicles in the event of a wildfire. For these purposes a dam had to be 
@@ -43,7 +43,7 @@
 				relaxing on that bench.</p>
 				
 				<p>
-				<img alt="Full dam, 11 July 2012"src="images/dam/110712.jpg" style="float:right;margin:10px;width:250px">
+				<img alt="Full dam, 11 July 2012" src="../images/dam/110712.jpg" style="float:right;margin:10px;width:250px">
 				However, the rainfall is not reliable and one day the dam was a dry hole 
 				with a bird platform in the middle of it. Throughout the years the water 
 				level in the dam has been varying between complete dryness like in August 
@@ -56,7 +56,7 @@
 				taken down and now the dam is better filled than at any time before. This 
 				photo is from 11 July 2012.</p>
 
-				<p>A series of almost <a href="dam/2004.php">300 photos of the dam</a> between 2003 and 2012 have been 
+				<p>A series of almost <a href="../dam/2004.php">300 photos of the dam</a> between 2003 and 2012 have been
 				taken by Pauline and Gösta Lyngå. Unfortunately, photos taken before 
 				January 2003 were destroyed in a bushfire. The photographic survey of the 
 				dam is continued by Arminel and Pat Ryan. </p>

@@ -5,7 +5,7 @@
 		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
 		<meta content="Microsoft Visual Studio 10.0" name="generator">
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
+		<link rel="stylesheet" href="../styles/style.css" type="text/css">
 	</head>
 
 	<body>
@@ -33,11 +33,11 @@
 
 			<div class="row">
 				<div class="span4 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" height="200" src="images/davedoug.jpg" width="150" style="margin:20px">
+					<img alt="click for larger picture" height="200" src="../images/davedoug.jpg" width="150" style="margin:20px">
 					<p>Doug presents David with park care gear</p>
 				</div>
 				<div class="span6 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" height="200" src="images/potting.jpg" width="267" style="margin:20px">
+					<img alt="click for larger picture" height="200" src="../images/potting.jpg" width="267" style="margin:20px">
 					<p>Group potting 116 eucalypt seedlings for later replanting</p>
 				</div>
 			</div>
@@ -46,13 +46,13 @@
 
 			<div class="row">
 				<div class="span4 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" height="200" src="images/potted.jpg" width="150" style="margin:20px">
+					<img alt="click for larger picture" height="200" src="../images/potted.jpg" width="150" style="margin:20px">
 					<p>Job well done</p>
 				</div>
 				<div class="span6 offset1" style="align:center;text-align:center;">
-					<img alt="click for larger picture" height="200" src="images/stakes.jpg" width="267" style="margin:20px">
+					<img alt="click for larger picture" height="200" src="../images/stakes.jpg" width="267" style="margin:20px">
 					<p>Collecting charred stakes from the Olympic Site - 
-						Gösta's bike provides useful transport.</p>
+						Gï¿½sta's bike provides useful transport.</p>
 				</div>
 			</div>
 			<?php include 'footer.php'; ?>

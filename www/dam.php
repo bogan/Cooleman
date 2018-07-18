@@ -4,7 +4,7 @@
 			<div>
 				
 				<p align="right">
-					<a href="/dam/2004.php">Photos</a>
+					<a href="/www/dam/2004.php">Photos</a>
 				</p>
 				
 				<h2>Dams</h2>
@@ -56,7 +56,7 @@
 				taken down and now the dam is better filled than at any time before. This 
 				photo is from 11 July 2012.</p>
 
-				<p>A series of almost <a href="../dam/2004.php">300 photos of the dam</a> between 2003 and 2012 have been
+				<p>A series of almost <a href="dam/2004.php">300 photos of the dam</a> between 2003 and 2012 have been
 				taken by Pauline and Gösta Lyngå. Unfortunately, photos taken before 
 				January 2003 were destroyed in a bushfire. The photographic survey of the 
 				dam is continued by Arminel and Pat Ryan. </p>

@@ -2,6 +2,7 @@
 .idea/*
 .idea/Cooleman.iml
 .idea/workspace.xml
+.idea/modules.xml
 news/Scanned/
 news/Scanned1/
 news/Scanned2/

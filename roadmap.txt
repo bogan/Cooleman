@@ -53,3 +53,19 @@ Contact
 
 Authentication
 
+Package Manager
+    1. Add bower support
+    2. Add composer support.
+
+Hosting
+    Setup remote database access
+    Set up SSH access.
+
+Database
+    figure out how to remove header row from import
+
+Beta
+    Sort out beta site
+
+Wiki
+    Sort out wiki site

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+</head>
+
+<body ng-app="myApp">
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <!-- Brand -->
+    <a class="navbar-brand" href="#/!">Home</a>
+
+    <!-- Menu -->
+    <ul class="navbar-nav">
+
+        <!-- Our Group -->
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="ourgroup" data-toggle="dropdown">
+                Our Group
+            </a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#!about">About</a>
+                <a class="dropdown-item" href="#!flora">Flora</a>
+                <a class="dropdown-item" href="#!fauna">Fauna</a>
+            </div>
+        </li>
+
+        <!-- Our Ridge -->
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="ourridge" data-toggle="dropdown">
+                Our Ridge
+            </a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#!about">About</a>
+                <a class="dropdown-item" href="#!flora">Flora</a>
+                <a class="dropdown-item" href="#!fauna">Fauna</a>
+            </div>
+        </li>
+
+        <!-- Our Work -->
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="ourwork" data-toggle="dropdown">
+                Our Work
+            </a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#!about">About</a>
+                <a class="dropdown-item" href="#!flora">Flora</a>
+                <a class="dropdown-item" href="#!fauna">Fauna</a>
+            </div>
+        </li>
+    </ul>
+</nav>
+
+<!--<p><a href="#/!">Home</a></p>-->
+
+<!--<a href="#!about">About</a>-->
+<!--<a href="#!flora">Flora</a>-->
+<!--<a href="#!fauna">Fauna</a>-->
+
+<div ng-view class="container"></div>
+
+<script>
+    var app = angular.module("myApp", ["ngRoute"]);
+    app.config(function($routeProvider) {
+        $routeProvider
+            .when("/", {
+                templateUrl : "home.html"
+            })
+            .when("/about", {
+                templateUrl : "about.html"
+            })
+            .when("/fauna", {
+                templateUrl : "fauna.html"
+            })
+            .when("/flora", {
+                templateUrl : "flora.html"
+            });
+    });
+</script>
+
+</body>
+</html>

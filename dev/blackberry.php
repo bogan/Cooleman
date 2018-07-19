@@ -449,7 +449,7 @@ function Redirect($url, $permanent = false)
 </form>
 
 <div>
-	<a href="blackberrys.php">Return to main list</a>
+	<a href="../www/blackberrys.php">Return to main list</a>
 </div>
 
 <?php

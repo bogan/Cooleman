@@ -32,6 +32,7 @@ td.news {
 th.news.month {
 	width:20%
 }
+
 td.news A:link {
 	color: red;
 	font-weight: 600;
@@ -64,7 +65,7 @@ img {
 	font-weight: bold;
 }
 th.header{
-	background-image: url(/images/bg.gif);
+	background-image: url(/www/images/bg.gif);
 	background-repeat: no-repeat;
 	background-position-x:right;
 	background-position-y:center;
@@ -72,7 +73,7 @@ th.header{
 	
 }
 th.headerSortUp {     
-	background-image: url(/images/asc.gif);     
+	background-image: url(/www/images/asc.gif);
 	background-repeat: no-repeat;
 	background-position-x:right;
 	background-position-y:center;
@@ -80,7 +81,7 @@ th.headerSortUp {
 } 
 
 th.headerSortDown {     
-	background-image: url(/images/desc.gif);
+	background-image: url(/www/images/desc.gif);
 	background-repeat: no-repeat;
 	background-position-x:right;
 	background-position-y:center;

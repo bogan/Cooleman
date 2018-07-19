@@ -3,29 +3,14 @@
 
 	<head>
 		<title><?php echo "$title" ?> </title>
-		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta content="Microsoft Visual Studio 10.0" name="generator">
-        <!--<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
-
-                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-            <link rel="stylesheet" href="style.css" type="text/css">
-             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-             <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-             <!--script src="http://maps.googleapis.com/maps/api/js"></script-->
-		        <script type="text/javascript" src="jquery/jquery.tablesorter.min.js"></script>
-		        <script type="text/javascript">
-
-			$(document).ready(function() {         
-					$("#myTable").tablesorter({         
-					sortList: [[1,0]] 
-					});
-			 }); 
-		</script>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<style type="text/css">
-
 
 			td
 			{
@@ -40,18 +25,21 @@
 				border-style:solid;
 				border-color:black 
 			}
+
 			td.news
 			{
 				text-align:center;
 				border:thin;
 				border-style:solid 
 			}
+
 			th.news
 			{
 				text-align:center;
 				border:thin;
 				border-style:solid 
-			}		
+			}
+
 		</style>
 	</head>
 

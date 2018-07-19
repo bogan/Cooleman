@@ -122,6 +122,6 @@
     </table>
 </div>
 
-<script src="dynamitable.jquery.min.js"></script>
+<script src="js/dynamitable.jquery.min.js"></script>
 
 <?php include 'footer.php'; ?>

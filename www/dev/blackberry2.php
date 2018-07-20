@@ -1,4 +1,4 @@
-<?php $title = 'Blackberry';	?>
+<?php $title = 'blackberry';	?>
 <?php include 'header.php'; ?>
 
 <script>

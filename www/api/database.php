@@ -3,9 +3,9 @@ class Database{
 
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "parkcare";
-    private $username = "root";
-    private $password = "";
+    private $db_name = "cooleman_db";
+    private $username = "cooleman_web";
+    private $password = "Eucalyptus1!";
     public $conn;
 
     // get the database connection

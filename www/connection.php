@@ -1,17 +1,9 @@
 <?php
 
-
-// local
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "parkcare";
-
-// remote
-//$servername = "localhost";
-//$username="cooleman_test";
-//$password="Eucalyptus1!";
-//$dbname="cooleman_test";
+$username="cooleman_web";
+$password="Eucalyptus1!";
+$dbname="cooleman_db";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

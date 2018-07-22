@@ -3,11 +3,11 @@ class Animal{
 
     // database connection and table name
     private $conn;
-    private $table_name = "products";
 
     // object properties
     public $id;
     public $category;
+    public $sub_category;
     public $family;
     public $genus;
     public $species;
@@ -25,7 +25,7 @@ class Animal{
     // read products
     function read(){
 
-        $query = "SELECT id, category, family, genus, species, common_name, native, frequency, newsletter, source FROM animal";
+        $query = "SELECT id, category, sub_category, family, genus, species, common_name, native, frequency, newsletter, source FROM animal";
 
         // prepare query statement
         $stmt = $this->conn->prepare($query);

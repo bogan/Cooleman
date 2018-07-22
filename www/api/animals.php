@@ -37,6 +37,7 @@ if($num>0){
         $animal_item=array(
             "id" => $id,
             "category" => $category,
+            "sub_category" => $sub_category,
             "family" => $family,
             "genus" => $genus,
             "species" => $species,

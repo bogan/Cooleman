@@ -33,21 +33,23 @@
 												* js-sorter-desc => desending sorter trigger
 												-->
                     <tr>
-                        <th>Category <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Family <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Genus <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Species <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Common Name <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th style="width:100px">Native <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Frequency <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Newsletter <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
-                        <th>Source <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Category <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Sub Category <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+<!--                        <th>Family <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>-->
+                        <th nowrap>Genus <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Species <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Common Name <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap style="width:100px">Native <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Frequency <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Newsletter <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
+                        <th nowrap>Source <span class="js-sorter-desc glyphicon glyphicon-chevron-down pull-right"></span> <span class="js-sorter-asc glyphicon glyphicon-chevron-up pull-right"></span> </th>
                     </tr>
 
                     <!-- Filtering * js-filter => filter trigger (input, select) -->
                     <tr>
-                        <th><input  class="js-filter form-control" type="text" value=""></th>
-                        <th><input  class="js-filter form-control" type="text" value=""></th>
+                        <th><input class="js-filter form-control" type="text" value=""></th>
+                        <th><input class="js-filter form-control" type="text" value=""></th>
+<!--                        <th><input class="js-filter form-control" type="text" value=""></th>-->
                         <th><input class="js-filter form-control" type="text" value=""></th>
                         <th><input class="js-filter form-control" type="text" value=""></th>
                         <th><input class="js-filter form-control" type="text" value=""></th>
@@ -82,7 +84,9 @@
 
                         echo "<td>" . $row["category"]. "</td>";
 
-                        echo "<td>" . $row["family"]. "</td>";
+                        echo "<td>" . $row["sub_category"]. "</td>";
+
+//                        echo "<td>" . $row["family"]. "</td>";
 
                         echo "<td>" . $row["genus"]. "</td>";
 

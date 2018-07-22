@@ -24,7 +24,7 @@
 </div>
 
 <div>
-    <table id="example" class="display table table-bordered table-small table-striped" style="width:100%">
+    <table id="plants" class="display table table-bordered table-small table-striped" style="width:100%">
         <thead>
         <tr>
             <th>Category</th>
@@ -81,6 +81,74 @@
         </tfoot>
     </table>
 </div>
+
+<script>
+    $(document).ready(function() {
+        // Setup - add a text input to each footer cell
+        $('#plants tfoot th').each( function () {
+            var title = $(this).text();
+            $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+        } );
+
+        // Create DataTable
+        $(document).ready(function() {
+            var table = $('#plants').DataTable( {
+                "ajax": 'api/plants.php',
+                "columns": [
+                    { "data": "category" },
+                    // { "data": "sub_category" },
+                    { "data": "family" },
+                    { "data": "genus" },
+                    { "data": "species" },
+                    { "data": "common_name" },
+                    { "data": "native" },
+                    { "data": "frequency" },
+                    { "data": "newsletter" },
+                    { "data": "source" }
+                ]
+            } );
+
+            // Add event handler to set up searching and column selection after AJAX has loaded/
+            // NOTE: Eventing hooking Must happen after AJAX has loaded.
+            table.on( 'xhr', function ( e, settings, json ) {
+
+                // Apply the search
+                table.columns().every( function () {
+                    var that = this;
+
+                    $( 'input', this.footer() ).on( 'keyup change', function () {
+                        if ( that.search() !== this.value ) {
+                            that
+                                .search( this.value )
+                                .draw();
+                        }
+                    } );
+                } );
+
+                // Move the column search fields to the top instead of the bottom
+                $('#plants tfoot tr').appendTo('#plants thead');
+
+                // Add event handler to check box to toggle the visibility of the columns
+                $('input.toggle-vis').on( 'change', function (e) {
+                    e.preventDefault();
+
+                    // Get the column API object
+                    var column = table.column( $(this).attr('data-column') );
+
+                    // Toggle the visibility
+                    column.visible( ! column.visible() );
+                } );
+
+                // Hide certain columns by default
+                table.column( 1 ).visible(false);
+                table.column( 5 ).visible(false);
+                table.column( 6 ).visible(false);
+                table.column( 7 ).visible(false);
+                table.column( 8 ).visible(false);
+            } );
+        } );
+    } );
+</script>
 
 <script>
     $(document).ready(function() {

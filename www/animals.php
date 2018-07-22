@@ -24,7 +24,7 @@
     </div>
 
     <div>
-        <table id="example" class="display table table-bordered table-small table-striped" style="width:100%">
+        <table id="animals" class="display table table-bordered table-small table-striped" style="width:100%">
             <thead>
             <tr>
                 <th>Category</th>
@@ -39,32 +39,7 @@
                 <th>Source</th>
             </tr>
             </thead>
-            <tbody>
 
-            <?php
-
-            $result->data_seek(0);
-
-            while($row = $result->fetch_assoc()) {
-                $id = $row["id"];
-
-                echo "<tr>";
-                echo "<td>" . $row["category"]. "</td>";
-                echo "<td>" . $row["sub_category"]. "</td>";
-                echo "<td>" . $row["family"]. "</td>";
-                echo "<td>" . $row["genus"]. "</td>";
-                echo "<td>" . $row["species"]. "</td>";
-                echo "<td>" . $row["common_name"]. "</td>";
-                echo "<td>" . $row["native"]. "</td>";
-                echo "<td>" . $row["frequency"]. "</td>";
-                echo "<td>" . $row["newsletter"]. "</td>";
-                echo "<td>" . $row["source"]. "</td>";
-                echo "</tr>";
-            }
-
-            ?>
-
-            </tbody>
             <tfoot>
             <tr>
                 <th>Category</th>
@@ -85,56 +60,68 @@
     <script>
         $(document).ready(function() {
             // Setup - add a text input to each footer cell
-            $('#example tfoot th').each( function () {
+            $('#animals tfoot th').each( function () {
                 var title = $(this).text();
                 $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
             } );
 
-            // DataTable
-            var table = $('#example').DataTable();
+            // Create DataTable
+            $(document).ready(function() {
+                var table = $('#animals').DataTable( {
+                    "ajax": 'api/animals.php',
+                    "columns": [
+                        { "data": "category" },
+                        { "data": "sub_category" },
+                        { "data": "family" },
+                        { "data": "genus" },
+                        { "data": "species" },
+                        { "data": "common_name" },
+                        { "data": "native" },
+                        { "data": "frequency" },
+                        { "data": "newsletter" },
+                        { "data": "source" }
+                    ]
+                } );
 
-            // Apply the search
-            table.columns().every( function () {
-                var that = this;
+                // Add event handler to set up searching and column selection after AJAX has loaded/
+                // NOTE: Eventing hooking Must happen after AJAX has loaded.
+                table.on( 'xhr', function ( e, settings, json ) {
 
-                $( 'input', this.footer() ).on( 'keyup change', function () {
-                    if ( that.search() !== this.value ) {
-                        that
-                            .search( this.value )
-                            .draw();
-                    }
+                    // Apply the search
+                    table.columns().every( function () {
+                        var that = this;
+
+                        $( 'input', this.footer() ).on( 'keyup change', function () {
+                            if ( that.search() !== this.value ) {
+                                that
+                                    .search( this.value )
+                                    .draw();
+                            }
+                        } );
+                    } );
+
+                    // Move the column search fields to the top instead of the bottom
+                    $('#animals tfoot tr').appendTo('#animals thead');
+
+                    // Add event handler to check box to toggle the visibility of the columns
+                    $('input.toggle-vis').on( 'change', function (e) {
+                        e.preventDefault();
+
+                        // Get the column API object
+                        var column = table.column( $(this).attr('data-column') );
+
+                        // Toggle the visibility
+                        column.visible( ! column.visible() );
+                    } );
+
+                    // Hide certain columns by default
+                    table.column( 2 ).visible(false);
+                    table.column( 6 ).visible(false);
+                    table.column( 7 ).visible(false);
+                    table.column( 8 ).visible(false);
+                    table.column( 9 ).visible(false);
                 } );
             } );
-
-            $('#example tfoot tr').appendTo('#example thead');
-
-            $('a.toggle-vis').on( 'click', function (e) {
-                e.preventDefault();
-
-                // Get the column API object
-                var column = table.column( $(this).attr('data-column') );
-
-                // Toggle the visibility
-                column.visible( ! column.visible() );
-            } );
-
-            $('input.toggle-vis').on( 'change', function (e) {
-                e.preventDefault();
-
-                // Get the column API object
-                var column = table.column( $(this).attr('data-column') );
-
-                // Toggle the visibility
-                column.visible( ! column.visible() );
-            } );
-
-            table.column( 2 ).visible(false);
-            table.column( 6 ).visible(false);
-            table.column( 7 ).visible(false);
-            table.column( 8 ).visible(false);
-            table.column( 9 ).visible(false);
-
-            // blah
         } );
     </script>
 <?php include 'footer.php'; ?>

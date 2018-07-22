@@ -23,7 +23,7 @@ if($num>0){
 
     // plants array
     $plants_arr=array();
-    $plants_arr["records"]=array();
+    $plants_arr["data"]=array();
 
     // retrieve our table contents
     // fetch() is faster than fetchAll()
@@ -47,7 +47,7 @@ if($num>0){
             "source" => $source,
         );
 
-        array_push($plants_arr["records"], $plant_item);
+        array_push($plants_arr["data"], $plant_item);
     }
 
     echo json_encode($plants_arr);

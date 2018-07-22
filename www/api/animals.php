@@ -23,7 +23,7 @@ if($num>0){
 
     // animals array
     $animals_arr=array();
-    $animals_arr["records"]=array();
+    $animals_arr["data"]=array();
 
     // retrieve our table contents
     // fetch() is faster than fetchAll()
@@ -48,7 +48,7 @@ if($num>0){
             "source" => $source,
         );
 
-        array_push($animals_arr["records"], $animal_item);
+        array_push($animals_arr["data"], $animal_item);
     }
 
     echo json_encode($animals_arr);

@@ -5,12 +5,14 @@
 		<title><?php echo "$title" ?> </title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta content="Microsoft Visual Studio 10.0" name="generator">
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
         <link rel="stylesheet" href="css/style.css" type="text/css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<style type="text/css">
+
+        <style type="text/css">
 
 			td
 			{
@@ -19,7 +21,7 @@
 		
 			table.news
 			{
-				padding:5; 
+				padding:5px;
 				width:100%;
 				border:thin;
 				border-style:solid;
@@ -40,15 +42,19 @@
 				border-style:solid 
 			}
 
+            tfoot input {
+                width: 100%;
+                padding: 3px;
+                box-sizing: border-box;
+            }
+
 		</style>
 	</head>
 
 	<body >
 	
 		<div class="container">
-		
-			
-		
+
 			<br/>
 			
 			<div id="header" class="row">

@@ -94,6 +94,7 @@
         $(document).ready(function() {
             var table = $('#plants').DataTable( {
                 "ajax": 'api/plants.php',
+                "order": [[ 0, "asc" ]],
                 "columns": [
                     { "data": "category" },
                     // { "data": "sub_category" },

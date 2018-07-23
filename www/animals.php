@@ -69,6 +69,7 @@
             $(document).ready(function() {
                 var table = $('#animals').DataTable( {
                     "ajax": 'api/animals.php',
+                    "order": [[ 0, "asc" ]],
                     "columns": [
                         { "data": "category" },
                         { "data": "sub_category" },

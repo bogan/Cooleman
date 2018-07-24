@@ -39,33 +39,8 @@
             <th>Source</th>
         </tr>
         </thead>
-        <tbody>
 
-        <?php
-
-        $result->data_seek(0);
-
-        while($row = $result->fetch_assoc()) {
-            $id = $row["id"];
-
-            echo "<tr>";
-            echo "<td>" . $row["category"]. "</td>";
-            //echo "<td>" . $row["sub_category"]. "</td>";
-            echo "<td>" . $row["family"]. "</td>";
-            echo "<td>" . $row["genus"]. "</td>";
-            echo "<td>" . $row["species"]. "</td>";
-            echo "<td>" . $row["common_name"]. "</td>";
-            echo "<td>" . $row["native"]. "</td>";
-            echo "<td>" . $row["frequency"]. "</td>";
-            echo "<td>" . $row["newsletter"]. "</td>";
-            echo "<td>" . $row["source"]. "</td>";
-            echo "</tr>";
-        }
-
-        ?>
-
-        </tbody>
-        <tfoot>
+         <tfoot>
         <tr>
             <th>Category</th>
 <!--            //<th>Sub Category</th>-->
@@ -148,62 +123,6 @@
                 table.column( 8 ).visible(false);
             } );
         } );
-    } );
-</script>
-
-<script>
-    $(document).ready(function() {
-        // Setup - add a text input to each footer cell
-        $('#example tfoot th').each( function () {
-            var title = $(this).text();
-            $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
-        } );
-
-        // DataTable
-        var table = $('#example').DataTable();
-
-        // Apply the search
-        table.columns().every( function () {
-            var that = this;
-
-            $( 'input', this.footer() ).on( 'keyup change', function () {
-                if ( that.search() !== this.value ) {
-                    that
-                        .search( this.value )
-                        .draw();
-                }
-            } );
-        } );
-
-        $('#example tfoot tr').appendTo('#example thead');
-
-        $('a.toggle-vis').on( 'click', function (e) {
-            e.preventDefault();
-
-            // Get the column API object
-            var column = table.column( $(this).attr('data-column') );
-
-            // Toggle the visibility
-            column.visible( ! column.visible() );
-        } );
-
-        $('input.toggle-vis').on( 'change', function (e) {
-            e.preventDefault();
-
-            // Get the column API object
-            var column = table.column( $(this).attr('data-column') );
-
-            // Toggle the visibility
-            column.visible( ! column.visible() );
-        } );
-
-        table.column( 1 ).visible(false);
-        table.column( 5 ).visible(false);
-        table.column( 6 ).visible(false);
-        table.column( 7 ).visible(false);
-        table.column( 8 ).visible(false);
-
-        // blah
     } );
 </script>
 

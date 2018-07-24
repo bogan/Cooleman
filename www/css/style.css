@@ -31,7 +31,14 @@ nav h2
 	background-color: #838060;
 }
 
-/*Header*/
+/*Footer*/
+
+.footer
+{
+	background-color:#838060;
+}
+
+/*Headings*/
 
 h2,h3,h4
 {

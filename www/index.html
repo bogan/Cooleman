@@ -33,8 +33,11 @@
                 </a>
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="#!about">About</a>
-                    <a class="dropdown-item" href="#!flora">Flora</a>
-                    <a class="dropdown-item" href="#!fauna">Fauna</a>
+                    <a class="dropdown-item" href="#!organisation">Organisation</a>
+                    <a class="dropdown-item" href="#!partners">Partners</a>
+                    <a class="dropdown-item" href="#!news">News</a>
+                    <a class="dropdown-item" href="#!documents">Documents</a>
+                    <a class="dropdown-item" href="#!contact">Contact</a>
                 </div>
             </li>
 
@@ -44,9 +47,17 @@
                     Our Ridge
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#!about">About</a>
+                    <a class="dropdown-item" href="#!location">Location</a>
+                    <a class="dropdown-item" href="#!history">History</a>
+                    <a class="dropdown-item" href="#!earth">Earth</a>
+                    <a class="dropdown-item" href="#!fire">Fire</a>
+                    <a class="dropdown-item" href="#!water">Water</a>
+                    <a class="dropdown-item" href="#!hills">Hills</a>
                     <a class="dropdown-item" href="#!flora">Flora</a>
                     <a class="dropdown-item" href="#!fauna">Fauna</a>
+                    <a class="dropdown-item" href="#!plantations">Plantations</a>
+                    <a class="dropdown-item" href="#!trails">Trails</a>
+                    <a class="dropdown-item" href="#!weeds">Weeds</a>
                 </div>
             </li>
 
@@ -56,9 +67,15 @@
                     Our Work
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#!about">About</a>
-                    <a class="dropdown-item" href="#!flora">Flora</a>
-                    <a class="dropdown-item" href="#!fauna">Fauna</a>
+                    <a class="dropdown-item" href="#!strategy">Strategy</a>
+                    <a class="dropdown-item" href="#!activities">Activities</a>
+                    <a class="dropdown-item" href="#!meetings">Meetings</a>
+                    <a class="dropdown-item" href="#!areas">Areas</a>
+                    <a class="dropdown-item" href="#!dams">Dam Survey</a>
+                    <!--<a class="dropdown-item" href="#!fire">Fire Survey</a>-->
+                    <a class="dropdown-item" href="#!plants">Plant Survey</a>
+                    <a class="dropdown-item" href="#!animals">Animal Survey</a>
+                    <a class="dropdown-item" href="#!blackberries">Blackberry Survey</a>
                 </div>
             </li>
 
@@ -83,65 +100,7 @@
 </nav>
 
 
-<!--<nav class="navbar navbar-expand-sm bg-dark navbar-dark">-->
-    <!--&lt;!&ndash; Brand &ndash;&gt;-->
-    <!--<a class="navbar-brand" href="#/!">Cooleman Ridge Parkcare Group</a>-->
-
-    <!--&lt;!&ndash; Menu &ndash;&gt;-->
-    <!--<ul class="navbar-nav">-->
-
-        <!--&lt;!&ndash; Our Group &ndash;&gt;-->
-        <!--<li class="nav-item dropdown">-->
-            <!--<a class="nav-link dropdown-toggle" href="" id="ourgroup" data-toggle="dropdown">-->
-                <!--Our Group-->
-            <!--</a>-->
-            <!--<div class="dropdown-menu">-->
-                <!--<a class="dropdown-item" href="#!about">About</a>-->
-                <!--<a class="dropdown-item" href="#!flora">Flora</a>-->
-                <!--<a class="dropdown-item" href="#!fauna">Fauna</a>-->
-            <!--</div>-->
-        <!--</li>-->
-
-        <!--&lt;!&ndash; Our Ridge &ndash;&gt;-->
-        <!--<li class="nav-item dropdown">-->
-            <!--<a class="nav-link dropdown-toggle" href="" id="ourridge" data-toggle="dropdown">-->
-                <!--Our Ridge-->
-            <!--</a>-->
-            <!--<div class="dropdown-menu">-->
-                <!--<a class="dropdown-item" href="#!about">About</a>-->
-                <!--<a class="dropdown-item" href="#!flora">Flora</a>-->
-                <!--<a class="dropdown-item" href="#!fauna">Fauna</a>-->
-            <!--</div>-->
-        <!--</li>-->
-
-        <!--&lt;!&ndash; Our Work &ndash;&gt;-->
-        <!--<li class="nav-item dropdown">-->
-            <!--<a class="nav-link dropdown-toggle" href="" id="ourwork" data-toggle="dropdown">-->
-                <!--Our Work-->
-            <!--</a>-->
-            <!--<div class="dropdown-menu">-->
-                <!--<a class="dropdown-item" href="#!about">About</a>-->
-                <!--<a class="dropdown-item" href="#!flora">Flora</a>-->
-                <!--<a class="dropdown-item" href="#!fauna">Fauna</a>-->
-            <!--</div>-->
-        <!--</li>-->
-    <!--</ul>-->
-<!--</nav>-->
-
-<!--<p><a href="#/!">Home</a></p>-->
-
-<!--<a href="#!about">About</a>-->
-<!--<a href="#!flora">Flora</a>-->
-<!--<a href="#!fauna">Fauna</a>-->
-
 <div ng-view></div>
-
-<!--<footer class="py-5 bg-info">-->
-    <!--<div class="container">-->
-        <!--<p class="m-0 text-center text-white">Copyright &copy; Old Dog Software 2018</p>-->
-    <!--</div>-->
-    <!--&lt;!&ndash; /.container &ndash;&gt;-->
-<!--</footer>-->
 
 <script>
     var app = angular.module("myApp", ["ngRoute"]);
@@ -150,16 +109,91 @@
             .when("/", {
                 templateUrl : "home.html"
             })
+
+            // Our Group
             .when("/about", {
                 templateUrl : "about.html"
+            })
+            .when("/organisation", {
+                templateUrl : "organisation.html"
+            })
+            .when("/partners", {
+                templateUrl : "partners.html"
+            })
+            .when("/news", {
+                templateUrl : "news.html"
+            })
+            .when("/documents", {
+                templateUrl : "documents.html"
+            })
+            .when("/contact", {
+                templateUrl : "contact.html"
+            })
+
+            // Our Ridge
+            .when("/location", {
+                templateUrl : "location.html"
+            })
+            .when("/history", {
+                templateUrl : "history.html"
+            })
+            .when("/earth", {
+                templateUrl : "earth.html"
+            })
+            .when("/fire", {
+                templateUrl : "fire.html"
+            })
+            .when("/water", {
+                templateUrl : "water.html"
+            })
+            .when("/hills", {
+                templateUrl : "hills.html"
+            })
+            .when("/flora", {
+                templateUrl : "flora.html"
             })
             .when("/fauna", {
                 templateUrl : "fauna.html"
             })
-            .when("/flora", {
-                templateUrl : "flora.html"
-            });
-    });
+            .when("/plantations", {
+                templateUrl : "plantations.html"
+            })
+            .when("/trails", {
+                templateUrl : "trails.html"
+            })
+            .when("/weeds", {
+                templateUrl : "weeds.html"
+            })
+
+            // Our Work
+            .when("/strategy", {
+                templateUrl : "strategy.html"
+            })
+            .when("/activities", {
+                templateUrl : "activities.html"
+            })
+            .when("/meetings", {
+                templateUrl : "meetings.html"
+            })
+            .when("/areas", {
+                templateUrl : "areas.html"
+            })
+            .when("/dams", {
+                templateUrl : "dams.html"
+            })
+            .when("/fires", {
+                templateUrl : "fires.html"
+            })
+            .when("/plants", {
+                templateUrl : "plants.html"
+            })
+            .when("/animals", {
+                templateUrl : "animals.html"
+            })
+            .when("/blackberries", {
+                templateUrl : "blackberries.html"
+            })
+     });
 </script>
 
 </body>

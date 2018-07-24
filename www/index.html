@@ -1,9 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Cooleman</title>
+    <title>Cooleman Ridge Parkcare Group</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+    <meta name=title content="Cooleman Ridge Park Care Group">
+    <meta name=DC:title content="Cooleman Ridge Park Care Group">
+    <meta name=keywords content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003,">
+    <meta name=DC:subject content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003,">
+    <meta name=description content="Cooleman Ridge is situated between Chapman and Kambah lying north-west to south-east, about 3.5 km long with an area of 187 ha.  Its highest point is Mt Arawang (765 m) with a general level of 600 m above the Canberra Plain.  It offers extensive views east and north over Canberra and west over the Brindabella mountain range.">
+    <meta name=DC:description content="Cooleman Ridge is situated between Chapman and Kambah lying north-west to south-east, about 3.5 km long with an area of 187 ha.  Its highest point is Mt Arawang (765 m) with a general level of 600 m above the Canberra Plain.  It offers extensive views east and north over Canberra and west over the Brindabella mountain range.">
+    <meta name=Author content="Karina Pelling">
+    <meta name=Keywords content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003">
+    <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
@@ -15,8 +28,9 @@
 
 <body ng-app="myApp">
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-info fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
 
+    <img src="images/logotemp.png" height="70px" border="0" style="padding: 5px">
     <a class="navbar-brand" href="#"><h2>Cooleman Ridge Parkcare Group</h2></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -71,10 +85,11 @@
                     <a class="dropdown-item" href="#!activities">Activities</a>
                     <a class="dropdown-item" href="#!meetings">Meetings</a>
                     <a class="dropdown-item" href="#!areas">Areas</a>
-                    <a class="dropdown-item" href="#!dams">Dam Survey</a>
-                    <!--<a class="dropdown-item" href="#!fire">Fire Survey</a>-->
-                    <a class="dropdown-item" href="#!plants">Plant Survey</a>
-                    <a class="dropdown-item" href="#!animals">Animal Survey</a>
+                    <a class="dropdown-item" href="#!damsurvey">Dam Survey</a>
+                    <a class="dropdown-item" href="#!firesurvey">Fire Survey</a>
+                    <a class="dropdown-item" href="#!plantsurvey">Plant Survey</a>
+                    <a class="dropdown-item" href="#!treesurvey">Tree Survey</a>
+                    <a class="dropdown-item" href="#!animalsurvey">Animal Survey</a>
                     <a class="dropdown-item" href="#!blackberries">Blackberry Survey</a>
                 </div>
             </li>
@@ -178,17 +193,20 @@
             .when("/areas", {
                 templateUrl : "areas.html"
             })
-            .when("/dams", {
-                templateUrl : "dams.html"
+            .when("/damsurvey", {
+                templateUrl : "damssurvey.html"
             })
-            .when("/fires", {
-                templateUrl : "fires.html"
+            .when("/firesurvey", {
+                templateUrl : "firesurvey.html"
             })
-            .when("/plants", {
-                templateUrl : "plants.html"
+            .when("/plantsurvey", {
+                templateUrl : "plantsurvey.html"
             })
-            .when("/animals", {
-                templateUrl : "animals.html"
+            .when("/treesurvey", {
+                templateUrl : "treesurvey.html"
+            })
+            .when("/animalsurvey", {
+                templateUrl : "animalsurvey.html"
             })
             .when("/blackberries", {
                 templateUrl : "blackberries.html"

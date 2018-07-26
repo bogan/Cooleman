@@ -1,0 +1,205 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+    <!--<title>Simple Map</title>-->
+    <!--<meta name="viewport" content="initial-scale=1.0">-->
+    <!--<meta charset="utf-8">-->
+    <!--<style>-->
+        <!--/* Always set the map height explicitly to define the size of the div-->
+         <!--* element that contains the map. */-->
+        <!--#map {-->
+            <!--height: 100%;-->
+        <!--}-->
+        <!--/* Optional: Makes the sample page fill the window. */-->
+        <!--html, body {-->
+            <!--height: 100%;-->
+            <!--margin: 0;-->
+            <!--padding: 0;-->
+        <!--}-->
+    <!--</style>-->
+<!--</head>-->
+<!--<body>-->
+<!--<div id="map"></div>-->
+<!--<script>-->
+    <!--var map;-->
+    <!--function initMap() {-->
+        <!--map = new google.maps.Map(document.getElementById('map'), {-->
+            <!--center: {lat: -34.397, lng: 150.644},-->
+            <!--zoom: 8-->
+        <!--});-->
+    <!--}-->
+<!--</script>-->
+<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap"-->
+        <!--async defer></script>-->
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <meta charset="utf-8">
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {
+            height: 100%;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <script>
+
+        var map;
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+
+                center: { lat: -35.361451, lng: 149.033615 },
+
+                mapTypeId: google.maps.MapTypeId.SATELLITE
+            });
+
+            // NOTE: This uses cross-domain XHR, and may not work on older browsers.
+//            map.data.loadGeoJson('https://storage.googleapis.com/mapsdevsite/json/google.json');
+            //map.data.loadGeoJson('blackberrys.geojson');
+            map.data.loadGeoJson('geojson.json');
+
+            var infowindow = new google.maps.InfoWindow({
+            });
+
+            map.data.addListener('click', function (event) {
+                var feat = event.feature;
+
+                var url = "http://maps.google.com/?q=loc:" + feat.getProperty('latitude') + "," + feat.getProperty('longitude') + "&z=17&t=k";
+
+                var contentString = "";
+
+                contentString += "<div>";
+                contentString += "<p><b>ID:</b> " + feat.getProperty('id') + "</p>";
+                contentString += "<p><b>Source:</b> " + feat.getProperty('source') + "</p>";
+                contentString += "<p><b>Latitude:</b> " + feat.getProperty('latitude') + "</p>";
+                contentString += "<p><b>Longitude:</b> " + feat.getProperty('longitude') + "</p>";
+                contentString += "<p><b>Easting:</b> " + feat.getProperty('easting') + "</p>";
+                contentString += "<p><b>Northing:</b> " + feat.getProperty('northing') + "</p>";
+                contentString += "<p><b>Size:</b> " + feat.getProperty('size') + "</p>";
+                contentString += "<p><b>Density:</b> " + feat.getProperty('density') + "</p>";
+                contentString += "<p><b>Health:</b> " + feat.getProperty('health') + "</p>";
+                contentString += "<p><b>Burnt:</b> " + feat.getProperty('burnt') + "</p>";
+                contentString += "<p><b>Comment:</b> " + feat.getProperty('comment') + "</p>";
+                contentString += "<p><b>Creation Date:</b> " + feat.getProperty('creation_date') + "</p>";
+                contentString += "<p><b>Last Updated Date:</b> " + feat.getProperty('last_updated_date') + "</p>";
+                contentString += "<p><a target=\"_blank\" href=\"" + url + "\">Open in Google Maps</a></p>";
+                contentString += "</div>";
+
+                infowindow.setContent(contentString);
+                infowindow.setPosition(event.latLng);
+                infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+                infowindow.open(map);
+            });
+        }
+    </script>
+</head>
+<body>
+<div id="map"></div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap" async defer></script>
+</body>
+</body>
+</html>
+
+
+
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title>Title</title>-->
+
+    <!--<meta charset="utf-8">-->
+    <!--<style>-->
+        <!--/* Always set the map height explicitly to define the size of the div-->
+         <!--* element that contains the map. */-->
+        <!--#map-canvas {-->
+            <!--height: 100%;-->
+        <!--}-->
+        <!--/* Optional: Makes the sample page fill the window. */-->
+        <!--html, body {-->
+            <!--height: 100%;-->
+            <!--margin: 0;-->
+            <!--padding: 0;-->
+        <!--}-->
+    <!--</style>-->
+    <!--<script>-->
+
+        <!--var map;-->
+        <!--var infowindow = new google.maps.InfoWindow();-->
+
+        <!--function initialize() {-->
+            <!--map = new google.maps.Map(document.getElementById('map-canvas'), {-->
+                <!--zoom: 8,-->
+                <!--center: {lat: 45.062, lng: 7.67},-->
+                <!--mapTypeId: 'terrain'-->
+            <!--});-->
+
+            <!--// Load GeoJSON.-->
+            <!--map.data.addGeoJson({-->
+                <!--"type": "FeatureCollection",-->
+                <!--"features": [{-->
+                    <!--"type": "Feature",-->
+                    <!--"geometry": {-->
+                        <!--"title": "Mount Viso",-->
+                        <!--"type": "Point",-->
+                        <!--"coordinates": [7.090301513671875,44.66743203082226]-->
+                    <!--},-->
+                    <!--"properties": {-->
+                        <!--"name": "Mount Viso",-->
+                        <!--"description": "the highest mountain of the Cottian Alps",-->
+                        <!--"link": "https://en.wikipedia.org/wiki/Monte_Viso"-->
+                    <!--}-->
+                <!--}, {-->
+                    <!--"type": "Feature",-->
+                    <!--"geometry": {-->
+                        <!--"title": "Gran Paradiso",-->
+                        <!--"type": "Point",-->
+                        <!--"coordinates": [7.266082763671875,45.51837616409498]-->
+                    <!--},-->
+                    <!--"properties": {-->
+                        <!--"name": "Gran Paradiso",-->
+                        <!--"description": "a mountain in the Graian Alps in Italy",-->
+                        <!--"link": "https://en.wikipedia.org/wiki/Gran_Paradiso"-->
+                    <!--}-->
+                <!--}]-->
+            <!--});-->
+
+            <!--map.data.addListener('click', function(event) {-->
+                <!--var feat = event.feature;-->
+                <!--var html = "<b>"+feat.getProperty('name')+"</b><br>"+feat.getProperty('description');-->
+                <!--html += "<br><a class='normal_link' target='_blank' href='"+feat.getProperty('link')+"'>link</a>";-->
+                <!--infowindow.setContent(html);-->
+                <!--infowindow.setPosition(event.latLng);-->
+                <!--infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});-->
+                <!--infowindow.open(map);-->
+            <!--});-->
+        <!--}-->
+
+        <!--google.maps.event.addDomListener(window, 'load', initialize);-->
+
+
+    <!--</script>-->
+<!--</head>-->
+<!--<body>-->
+<!--<div id="map-canvas"></div>-->
+
+<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI"></script>-->
+<!--&lt;!&ndash;<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap" async defer></script>&ndash;&gt;-->
+<!--</body>-->
+<!--</body>-->
+<!--</html>-->

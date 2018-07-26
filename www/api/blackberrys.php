@@ -22,8 +22,14 @@ $num = $stmt->rowCount();
 if($num>0){
 
     // blackberrys array
-    $blackberrys_arr=array();
-    $blackberrys_arr["records"]=array();
+//    $blackberrys_arr=array();
+//    $blackberrys_arr["records"]=array();
+
+    # Build GeoJSON feature collection array
+    $geojson = array(
+        'type'      => 'FeatureCollection',
+        'features'  => array()
+    );
 
     // retrieve our table contents
     // fetch() is faster than fetchAll()
@@ -34,22 +40,49 @@ if($num>0){
         // just $name only
         extract($row);
 
-        $blackberry_item=array(
-            "id" => $id,
-            "source" => $source,
-            "easting" => $easting,
-            "northing" => $northing,
-            "latitude" => $latitude,
-            "longitude" => $longitude,
-            "size" => $size,
-            "density" => $density,
-            "health" => $health,
-            "burnt" => $burnt,
-            "comment" => $comment,
-            "creation_date" => $creation_date,
-            "last_updated_date" => $last_updated_date,
-        );
+//        $blackberry_item=array(
+//            "id" => $id,
+//            "source" => $source,
+//            "easting" => $easting,
+//            "northing" => $northing,
+//            "latitude" => $latitude,
+//            "longitude" => $longitude,
+//            "size" => $size,
+//            "density" => $density,
+//            "health" => $health,
+//            "burnt" => $burnt,
+//            "comment" => $comment,
+//            "creation_date" => $creation_date,
+//            "last_updated_date" => $last_updated_date,
+//        );
 
+        $feature = array(
+            'id' => $id,
+            'type' => 'Feature',
+            'geometry' => array(
+                'type' => 'Point',
+                # Pass Longitude and Latitude Columns here
+                'coordinates' => array(floatval($row['longitude']), floatval($row['latitude']))
+            ),
+            # Pass other attribute columns here
+            'properties' => array(
+                    'id' => $id,
+                    "source" => $source,
+                    "easting" => $easting,
+                    "northing" => $northing,
+                    "latitude" => $latitude,
+                    "longitude" => $longitude,
+                    "size" => $size,
+                    "density" => $density,
+                    "health" => $health,
+                    "burnt" => $burnt,
+                    "comment" => $comment,
+                    "creation_date" => $creation_date,
+                    "last_updated_date" => $last_updated_date,
+            )
+        );
+        # Add feature arrays to feature collection array
+        array_push($geojson['features'], $feature);
 //        public $id;
 //        public $source;
 //        public $easting;
@@ -64,10 +97,12 @@ if($num>0){
 //        public $creation_date;
 //        public $last_updated_date;
 
-        array_push($blackberrys_arr["records"], $blackberry_item);
+//        array_push($blackberrys_arr["records"], $blackberry_item);
     }
 
-    echo json_encode($blackberrys_arr);
+//    echo json_encode($blackberrys_arr);
+
+    echo json_encode($geojson);
 }
 
 else{

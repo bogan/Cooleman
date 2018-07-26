@@ -90,7 +90,7 @@
                     <a class="dropdown-item" href="#!plantsurvey">Plant Survey</a>
                     <a class="dropdown-item" href="#!treesurvey">Tree Survey</a>
                     <a class="dropdown-item" href="#!animalsurvey">Animal Survey</a>
-                    <a class="dropdown-item" href="#!blackberries">Blackberry Survey</a>
+                    <a class="dropdown-item" href="#!blackberrysurvey">Blackberry Survey</a>
                 </div>
             </li>
 
@@ -118,6 +118,7 @@
 <div ng-view></div>
 
 <script>
+
     var app = angular.module("myApp", ["ngRoute"]);
     app.config(function($routeProvider) {
         $routeProvider
@@ -208,18 +209,114 @@
             .when("/animalsurvey", {
                 templateUrl : "animalsurvey.html"
             })
-            .when("/blackberries", {
-                templateUrl : "blackberries.html"
+            .when("/blackberrysurvey", {
+                templateUrl : "blackberrysurvey.html"
             })
      });
+
+    // Areas
+    app.controller('areas', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('areasmap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/groupareas.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+    // Trails
+    app.controller('trails', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('trailsmap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/trails.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+    // Blackberrys
+    app.controller('blackberrys', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('blackberrysmap'), mapOptions);
+
+        $scope.map.data.loadGeoJson('api/blackberrys.php');
+
+        var infowindow = new google.maps.InfoWindow({
+        });
+
+        $scope.map.data.addListener('click', function (event) {
+            var feat = event.feature;
+
+            var url = "http://maps.google.com/?q=loc:" + feat.getProperty('latitude') + "," + feat.getProperty('longitude') + "&z=17&t=k";
+
+            var contentString = "";
+
+            contentString += "<div>";
+            contentString += "<p><b>ID:</b> " + feat.getProperty('id') + "</p>";
+            contentString += "<p><b>Source:</b> " + feat.getProperty('source') + "</p>";
+            contentString += "<p><b>Latitude:</b> " + feat.getProperty('latitude') + "</p>";
+            contentString += "<p><b>Longitude:</b> " + feat.getProperty('longitude') + "</p>";
+            contentString += "<p><b>Easting:</b> " + feat.getProperty('easting') + "</p>";
+            contentString += "<p><b>Northing:</b> " + feat.getProperty('northing') + "</p>";
+            contentString += "<p><b>Size:</b> " + feat.getProperty('size') + "</p>";
+            contentString += "<p><b>Density:</b> " + feat.getProperty('density') + "</p>";
+            contentString += "<p><b>Health:</b> " + feat.getProperty('health') + "</p>";
+            contentString += "<p><b>Burnt:</b> " + feat.getProperty('burnt') + "</p>";
+            contentString += "<p><b>Comment:</b> " + feat.getProperty('comment') + "</p>";
+            contentString += "<p><b>Creation Date:</b> " + feat.getProperty('creation_date') + "</p>";
+            contentString += "<p><b>Last Updated Date:</b> " + feat.getProperty('last_updated_date') + "</p>";
+            contentString += "<p><a target=\"_blank\" href=\"" + url + "\">Open in Google Maps</a></p>";
+            contentString += "</div>";
+
+            infowindow.setContent(contentString);
+            infowindow.setPosition(event.latLng);
+            infowindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+            infowindow.open($scope.map);
+        });
+    });
+
 </script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI"></script>
+
 
 <!-- Footer -->
 <footer class="py-5 footer">
     <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Old Dog Software 2018</p>
     </div>
-    <!-- /.container -->
 </footer>
 
 </body>

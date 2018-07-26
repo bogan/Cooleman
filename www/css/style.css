@@ -211,3 +211,8 @@ tfoot input {
     border-top: 1px solid #ccc;
     padding-top: 10px;
 }
+
+.bg-default{
+	background-color: #838060;
+	color:#cab577;
+}

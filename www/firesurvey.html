@@ -8,33 +8,20 @@
         <h2>Fire Survey</h2>
 
         <p>
-            The Cooleman Ridge Nature Reserve is regularly burnt for hazard reduction files.
-            These various fires have a significant impact on the regeneration of the bush. Please see our <a href="fire.php">Fire</a> page for more information about the role fire plays on the ridge.
-            The group aims to record the location of each fire so as to better understand fire has on the ridge.
+            The Cooleman Ridge Parkcare Group conducts an ongoing Animal Survey. The main objective of the survey is to idenifiy all the animal species that occur or have occured on the ridge. This includes both planned and unplanned fires.
         </p>
 
-        <p>Please click on a coloured area for more information</p>
+        <p>
+            These various fires have had a significant impact on the regeneration of the bush. Please see our <a href="fire.php">Fire</a> page for more information about the role fire plays on the ridge. The group aims to record the location of each of these fires so as to better understand the pattern of fire on the ridge and how fires have altered the ecology of fires on the ridge.
+        </p>
 
-        <div id="fires" style="height:600px;"></div>
+        <p>The map belows records some the more recent fires that have occured on the ridge. You can click on a coloured area for more information about each individual fire.</p>
 
-        <script>
-            function initMap() {
+        <div ng-app="myApp" ng-controller="firesurvey">
 
-                var groupareasmap = new google.maps.Map(document.getElementById('groupareas'), {
-                    zoom: 10,
-                    mapTypeId: google.maps.MapTypeId.TERRAIN
-                });
+            <div id="firesmap"></div>
 
-                var groups = new google.maps.KmlLayer({
-
-                    url: 'http://www.coolemanridge.org.au/fires.kml',
-
-                    map: groupareasmap
-
-                });
-            }
-
-        </script>
+        </div>
 
     </div>
 </section>

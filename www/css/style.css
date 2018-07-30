@@ -223,3 +223,7 @@ tfoot input {
 	background-color: #838060;
 	color:#cab577;
 }
+
+.card{
+	border-width: 3px;
+}

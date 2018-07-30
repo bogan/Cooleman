@@ -206,6 +206,13 @@ tfoot input {
 	height:840px;
 	width:1200px;
 }
+
+.map
+{
+	height:840px;
+	width:1200px;
+}
+
 .infoWindowContent {
     font-size:  14px !important;
     border-top: 1px solid #ccc;

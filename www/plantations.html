@@ -23,30 +23,15 @@
 
         <p>Please click on a coloured area for more information about each plantation.</p>
 
-        <div id="plantations" style="height:600px;"></div>
+        <div ng-app="myApp" ng-controller="plantations">
 
-        <div>
-            <a href="plantations.kml">Export as KML file</a>
+            <div id="plantationsmap" class="map"></div>
+
         </div>
 
-        <script>
-            function initMap() {
-
-                var plantationsmap = new google.maps.Map(document.getElementById('plantations'), {
-                    zoom: 10,
-                    mapTypeId: google.maps.MapTypeId.TERRAIN
-                });
-
-                var groups = new google.maps.KmlLayer({
-
-                    url: 'http://www.coolemanridge.org.au/plantations.kml',
-
-                    map: plantationsmap
-
-                });
-            }
-
-        </script>
+        <div>
+            <a href="hills.kml">Export as KML file</a>
+        </div>
 
     </div>
 </section>

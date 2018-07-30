@@ -196,7 +196,7 @@
                 templateUrl : "areas.html"
             })
             .when("/damsurvey", {
-                templateUrl : "damssurvey.html"
+                templateUrl : "damsurvey.html"
             })
             .when("/firesurvey", {
                 templateUrl : "firesurvey.html"
@@ -262,7 +262,96 @@
         });
     });
 
-    // Blackberrys
+    // Hills
+    app.controller('hills', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('hillsmap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/hills1.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+    // Water
+    app.controller('water', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('watermap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/water.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+    // Plantations
+    app.controller('plantations', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('plantationsmap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/plantations.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+    // Plantations
+    app.controller('firesurvey', function($scope) {
+
+        var mapOptions = {
+            zoom: 15,
+
+            center: { lat: -35.361451, lng: 149.033615 },
+
+            mapTypeId: google.maps.MapTypeId.SATELLITE
+        }
+
+        $scope.map = new google.maps.Map(document.getElementById('firesurveymap'), mapOptions);
+
+        var groups = new google.maps.KmlLayer({
+
+            url: 'http://www.coolemanridge.org.au/maps/fires.kml',
+
+            map: $scope.map
+
+        });
+    });
+
+
+    // Blackberry Survey
     app.controller('blackberrys', function($scope) {
 
         var mapOptions = {

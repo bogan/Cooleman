@@ -2,17 +2,31 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>trails.kml</name>
-	<NetworkLinkControl><expires>2018-07-30 00:00:00</expires></NetworkLinkControl>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -24,7 +38,7 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffff0055</color>
+			<color>ffff0000</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -39,65 +53,7 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin00">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000000</color>
+			<color>ffff0055</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -112,21 +68,76 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff0000ff</color>
+			<color>ffff0000</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin3">
+	<StyleMap id="msn_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -141,9 +152,114 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -159,127 +275,18 @@
 	<StyleMap id="msn_ylw-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin12">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000000</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000000</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Folder>
 		<name>Trails</name>
 		<open>1</open>
 		<Placemark>
-			<name>&lt;h3&gt;Mt Arawang Walking Trail&lt;/h3&gt;</name>
+			<name>Mt Arawang Walking Trail</name>
 			<description><![CDATA[
 
         <p>
@@ -289,7 +296,7 @@
         <p>
             The track was upgraded in 2016 and provides a well formed path to the summit. The views from the summit are some of the best from Canberra. The walk takes approximately 1 hour return.
         </p>]]></description>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -298,7 +305,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>&lt;h3&gt;Bicentennial National Trail&lt;/h3&gt;</name>
+			<name>Bicentennial National Trail</name>
 			<description><![CDATA[
                 <p>
                     The <a href="www.bicentennialnationaltrail.com.au">Bicentennial National Trail</a> is a 5000km multipurpose trail that runs from Healesville, Victoria to Cooktown, Queensland. It is Australia's longest formally recognised track and one of the longest in the world. Part of this trail crosses the Cooleman Ridge Nature Reserve along its southern and western boundaries.
@@ -311,7 +318,7 @@
                 <p>
                      The Bicentennial National Trail is the only part of the nature reserve that horses are allowed on.</p>
                 </p>]]></description>
-			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -320,25 +327,31 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>&lt;h3&gt;Canberra Centenary Trail&lt;/h3&gt;</name>
+			<name>Canberra Centenary Trail</name>
 			<description><![CDATA[
 
         <p>
-            The <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/find-a-park/rural/canberra-centenary-trail">Canberra Centenary Trail</a> is an ACT based multipurpose track that circumnavigates the city of Canberra. The track was created in 2013 to celebrate the 100th anniversery of the founding of the city of Canberra and is intended for use by both walkers and bike rider.
+            The <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/find-a-park/rural/canberra-centenary-trail">Canberra Centenary Trail</a> is an ACT based multipurpose track that circumnavigates the city of Canberra. The track was created in 2013 to celebrate the 100th anniversery of the founding of the city of Canberra and is intended for use by both walkers and bike rider.  The CCT is very popular with Canberrans who travel its full length.
         </p>
 
         <p>
-            Foo The section that cross the nature reserve is composed of both existing management vehicular trails as well as specially contructed walking trails.
+            The Centennial Trail offers some of the best views that can be seen along the trail, looking out over the Murrumbidge River valley and beyond to the Bullen, Tidbinbilla and Brindabella ranges. The section of the trail that crosses Cooleman Ridge is composed of both existing management vehicular trails as well as specially contructed walking trails.
         </p>
 
         <p>
-            The section that crosses the Cooleman Ridge crosses all of our group work areas offers some of the best views that can be seen along the trail, looking out over the Murrumbidge River valley and beyond to the Bullen, Tidbinbilla and Brindabella ranges.
+            The trail is also significant because it crosses or passes of our group work areas and walkers and riders are often get to see the group working on one of these areas. The group tries to maximise the benefit of this by publicing the work that it does through signage.
         </p>
-
-        <p>
-            The CCT is very popular with Canberrans and many. The group tries to maximise the benefit of this by publicing the work that it does through signage.
-        </p>]]></description>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+]]></description>
+			<LookAt>
+				<longitude>149.040542904064</longitude>
+				<latitude>-35.36436903089948</latitude>
+				<altitude>0</altitude>
+				<heading>0.001139130695571086</heading>
+				<tilt>48.25626563839131</tilt>
+				<range>2608.973453629193</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -347,11 +360,11 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name> &lt;h3&gt;Cooleman Trig Walking Trail&lt;/h3&gt;</name>
+			<name>Cooleman Trig Walking Trail</name>
 			<description><![CDATA[       
 
         <p>
-            This trail provides access to the summit of Cooleman Trig - the second highest peak on the ridge. The track is short but steep and is composed off a well formed sealed path with steps. Access is from Monkman Street. allow half an hour for the return walk.
+            The Cooleman Trig Walking Trail provides access to the summit of Cooleman Trig - the second highest peak on the ridge. The track is short but steep and is composed off a well formed sealed path with steps. Access is from Monkman Street. Allow half an hour for the return walk.
         </p>
 ]]></description>
 			<LookAt>
@@ -372,7 +385,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>&lt;h3&gt;Cooleman Ridge Nature Trail&lt;/h3&gt;</name>
+			<name>Cooleman Ridge Nature Trail</name>
 			<description><![CDATA[
 
         <p>
@@ -391,7 +404,7 @@
             The trail is accessed from either Guinness Place or from Freebody Place. It is composed of both pupose built waking tracks and preexisting management trails. The walk is a circuit and you should all 1 hourto complete it.
         </p>
 ]]></description>
-			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -401,7 +414,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Darell Fire Trail</name>
-			<visibility>0</visibility>
+			<description>The Darrell Place Fire Trail is a vehicular management trail. It links the access trail to the bicentenial trai.l </description>
 			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -412,7 +425,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Dam Fire Trail</name>
-			<visibility>0</visibility>
+			<description>The Dam Fire Trail is a vehicular management trail. It links the access trail to the llop trail.</description>
 			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -423,7 +436,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Dry Dam Fire Trail</name>
-			<visibility>0</visibility>
+			<description>The Dry Dam Fire Trail is a vehicular management trail.</description>
 			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -434,7 +447,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Saddle Fire Trail</name>
-			<visibility>0</visibility>
+			<description>The Saddle Fire Trail is a vehicular management trail.</description>
 			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -445,7 +458,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Arawang Fire Trail</name>
-			<visibility>0</visibility>
+			<description>The Arawang Fire Trail is a vehicular management trail.</description>
 			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -456,8 +469,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Little Reservoir Fire Trail</name>
-			<visibility>0</visibility>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<description>The Little Reservoir Fire Trail is a vehicular management trail.</description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -467,8 +480,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Guiness Fire Trail</name>
-			<visibility>0</visibility>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<description>The Guiness Fire Trail is a vehicular management trail.</description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>

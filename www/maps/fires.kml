@@ -4,44 +4,201 @@
 	<name>fires.kml</name>
 	<Style id="sh_ylw-pushpin">
 		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff000000</color>
+			<color>ff00aa55</color>
 			<width>1.8</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d0000ff</color>
+			<color>4d00aa55</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00aa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin">
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
 		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff000000</color>
+			<color>ff00ffff</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
 			<width>1.2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>4d0000ff</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00aa55</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00aa</color>
+		</PolyStyle>
+	</Style>
 	<Folder>
 		<name>Fires</name>
-		<open>1</open>
 		<Placemark>
 			<name>April 2016</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -55,7 +212,7 @@
 		</Placemark>
 		<Placemark>
 			<name>March 2013</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -83,7 +240,7 @@
 		</Placemark>
 		<Placemark>
 			<name>March 2014</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -97,7 +254,7 @@
 		</Placemark>
 		<Placemark>
 			<name>December 2009</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -111,7 +268,7 @@
 		</Placemark>
 		<Placemark>
 			<name>November 2014</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>

@@ -2,83 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>groupareas.kml</name>
-	<StyleMap id="poly-F48FB1-1200-77">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#poly-F48FB1-1200-77-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#poly-F48FB1-1200-77-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="poly-097138-1200-77">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#poly-097138-1200-77-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#poly-097138-1200-77-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="poly-FBC02D-1200-77-highlight">
-		<LineStyle>
-			<color>ff2dc0fb</color>
-			<width>1.8</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4d2dc0fb</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin7">
-		<LineStyle>
-			<color>ff485579</color>
-			<width>1.8</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4d485579</color>
-		</PolyStyle>
-	</Style>
-	<Style id="poly-097138-1200-77-normal">
-		<LineStyle>
-			<color>ff387109</color>
-			<width>1.2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4d387109</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="poly-FBC02D-1200-77">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#poly-FBC02D-1200-77-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#poly-FBC02D-1200-77-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="poly-A52714-1200-77">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#poly-A52714-1200-77-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#poly-A52714-1200-77-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="poly-F48FB1-1200-77-normal">
-		<LineStyle>
-			<color>ffb18ff4</color>
-			<width>1.2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4db18ff4</color>
-		</PolyStyle>
-	</Style>
-	<Style id="poly-FBC02D-1200-77-normal">
+	<NetworkLinkControl><expires>2018-07-30 00:00:00</expires></NetworkLinkControl>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ff2dc0fb</color>
 			<width>1.2</width>
@@ -87,7 +14,94 @@
 			<color>4d2dc0fb</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin10">
+	<Style id="sn_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dab4939</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dab4939</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff387109</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d387109</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ff485579</color>
 			<width>1.2</width>
@@ -96,26 +110,9 @@
 			<color>4d485579</color>
 		</PolyStyle>
 	</Style>
-	<Style id="poly-A52714-1200-77-highlight">
-		<LineStyle>
-			<color>ff1427a5</color>
-			<width>1.8</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4d1427a5</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin15">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="poly-097138-1200-77-highlight">
+	<Style id="sh_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ff387109</color>
 			<width>1.8</width>
@@ -124,26 +121,9 @@
 			<color>4d387109</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="poly-3949AB-1200-77">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#poly-3949AB-1200-77-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#poly-3949AB-1200-77-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="poly-A52714-1200-77-normal">
-		<LineStyle>
-			<color>ff1427a5</color>
-			<width>1.2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4d1427a5</color>
-		</PolyStyle>
-	</Style>
-	<Style id="poly-F48FB1-1200-77-highlight">
+	<Style id="sh_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ffb18ff4</color>
 			<width>1.8</width>
@@ -152,31 +132,76 @@
 			<color>4db18ff4</color>
 		</PolyStyle>
 	</Style>
-	<Style id="poly-3949AB-1200-77-normal">
+	<Style id="sh_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
-			<color>ffab4939</color>
-			<width>1.2</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>4dab4939</color>
-		</PolyStyle>
-	</Style>
-	<Style id="poly-3949AB-1200-77-highlight">
-		<LineStyle>
-			<color>ffab4939</color>
+			<color>ff485579</color>
 			<width>1.8</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4dab4939</color>
+			<color>4d485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb18ff4</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4db18ff4</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff2dc0fb</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d2dc0fb</color>
 		</PolyStyle>
 	</Style>
 	<Folder>
 		<name>Group Areas</name>
 		<open>1</open>
 		<Placemark>
-			<name>&lt;font face=arial&gt;Group Area North&lt;/font&gt;&lt;br&gt;</name>
-			<description><![CDATA[<font face=arial>Group Area North is one of the Cooleman Ridge Parkcares Groups monthly areas for group work.l</font><br>]]></description>
-			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<name>Group Area Chauvel</name>
+			<description>Group Area North is one of the Cooleman Ridge Parkcares Groups monthly areas for group work.</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -189,9 +214,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Kathner Street Work Area</name>
-			<description>This area is used for the Friday morning weekly work group</description>
-			<styleUrl>#poly-A52714-1200-77</styleUrl>
+			<name>Group Area Kathner</name>
+			<description>Group Area Kathner is used for the Friday morning weekly work group</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -204,9 +229,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Group Area Central</name>
-			<description>This area is one of the areas used by the group for it&apos;&apos;s monthly group work meetings</description>
-			<styleUrl>#poly-097138-1200-77</styleUrl>
+			<name>Group Area Darrell</name>
+			<description>Group Area Darrell one of the areas used by the group for it&apos;s monthly group work meetings</description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -220,8 +245,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Group Area Lincoln</name>
-			<description>This area is one of the groups uses for its group work areas</description>
-			<styleUrl>#poly-3949AB-1200-77</styleUrl>
+			<description>Group Area Lincoln is one of the ....</description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -235,8 +260,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Group Area  Monkman</name>
-			<description>This area is one of the areas the group usese for its monthly work meetings</description>
-			<styleUrl>#poly-FBC02D-1200-77</styleUrl>
+			<description>Group Area Monkman is one of the areas the group uses for its monthly work meetings</description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -249,9 +274,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Group Area South</name>
-			<description>This one of the areas used by the group for its regular monthly group work</description>
-			<styleUrl>#poly-F48FB1-1200-77</styleUrl>
+			<name>Group Area Namatjira</name>
+			<description>Group Area Namatjira is one of the areas used by the group for its regular monthly group work</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>

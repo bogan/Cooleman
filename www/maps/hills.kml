@@ -2,108 +2,17 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>hills.kml</name>
-	<Style id="sn_red-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_red-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_red-pushpin0">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_red-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_red-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_red-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_red-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_red-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_red-pushpin</styleUrl>
+			<styleUrl>#sn_red-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_red-pushpin0</styleUrl>
+			<styleUrl>#sh_red-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_red-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_red-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_red-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_red-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_red-pushpin1">
+	<Style id="sn_red-pushpin2">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -114,8 +23,17 @@
 		<LabelStyle>
 			<scale>0</scale>
 		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_red-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
@@ -124,35 +42,36 @@
 		<open>1</open>
 		<Placemark>
 			<name>Mt Arawang</name>
-			<description><![CDATA[
+			<description><![CDATA[<p>Mt Arawang (753m) is the tallest hill on Cooleman Ridge. It is a significant landmark and can be seen from many parts of Canberra.</p>
 
-        <p>Mt Arawang is the tallest hill on Cooleman Ridge. It is a significant landmark and can be seen from many parts of Canberra.</p>
+<p>The summit of Mt Arawang has probably the best views of not only Canberra, but also to the west over the Bullen, Tidbinbilla and Brindabella ranges. It can be accessed by the Mt Arawan Summit Trail.</p>
 
-        <p>It has been the location of significant work by the group over the years including the planting of native trees and shrubs in the early history of the group. The summit area was extremely degraded when the group started work with large thickets of Scotch Thistle and Fleabane, Phalaris. Some of these weeds have been largely eliminated but much work still remains.</p>]]></description>
-			<styleUrl>#msn_red-pushpin1</styleUrl>
+<p>Mt Arawang has been the location of significant work by the group over the years including the planting of native trees and shrubs in the early history of the group. The summit area was extremely degraded when the group started work with large thickets of Scotch Thistle and Fleabane, Phalaris. Some of these weeds have been largely eliminated but much work still remains.</p>
+]]></description>
+			<styleUrl>#msn_red-pushpin0</styleUrl>
 			<Point>
 				<coordinates>149.0460098,-35.3667213,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>One Tree Hill</name>
-			<description><![CDATA[
+			<description><![CDATA[<p>One Tree Hill (703m) is a distinctive hill at the western end of the Cooleman Ridge</p>
 
-        <p>It has been named by the group simply on the basis that it is dominated by solitary Red Box.</p>
+<p>It has been named by the group simply on the basis that it is dominated by solitary Red Box.</p>
 
-        <p>There is no formal trail to the summit but can easily be accessed by one of the nearby management trails.</p>]]></description>
-			<styleUrl>#msn_red-pushpin1</styleUrl>
+<p>There is no formal trail to the summit but can easily be accessed by one of the nearby management trails.</p>]]></description>
+			<styleUrl>#msn_red-pushpin0</styleUrl>
 			<Point>
 				<coordinates>149.0246518047297,-35.35448067512115,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Reservoir Hill</name>
-			<description><![CDATA[
+			<description><![CDATA[<p>Reservour Hill (734m) sits at the geographic centre of the Cooleman Ridge.</p>
 
-        <p>Reservour Hill sits at the geographic centre of the Cooleman Ridge. It has been informally named by the group simply because of the small round reservoir found near the summit.</p>
+<p>It has been informally named by the group simply because of the small round reservoir found near the summit.</p>
 
-        <p>The summit is not identified with any marker but is easly accessed from nearby management trails.</p>]]></description>
+<p>The summit is not identified with any marker but is easly accessed from nearby management trails.</p>]]></description>
 			<LookAt>
 				<longitude>149.0382996621476</longitude>
 				<latitude>-35.36458510690132</latitude>
@@ -170,29 +89,27 @@
 		</Placemark>
 		<Placemark>
 			<name>Fence Post Hill</name>
-			<description><![CDATA[        <p>Fence Post Hill is the smallest of the hills on Cooleman Ridge. This name has been given to the hill informally simply because of the distinctive fence post on its small summit.</p>
+			<description><![CDATA[<p>Fence Post Hill (653m) is the smallest of the hills on Cooleman Ridge at the far western end of Cooleman Ridge.</p>
 
+<p>The name has been given to the hill informally simply because of the distinctive fence post on its small summit.</p>
 
-]]></description>
-			<styleUrl>#msn_red-pushpin</styleUrl>
+<p>Fence Post Hill is part of one of our Group Areas and has been the subject of significant work by the Cooleman Ridge Park Care Group.</p>]]></description>
+			<styleUrl>#msn_red-pushpin0</styleUrl>
 			<Point>
 				<coordinates>149.0217653,-35.3510635,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Cooleman Trig</name>
-			<description><![CDATA[
+			<description><![CDATA[<p>Cooleman Trig (732m) is the second highest hill in the reserve. It is named after the presence of the survey trigonometric station located on the summit - one of the two to be found on the ridge.</p>
 
-        <p>Cooleman Trig is the second highest hill in the reserver. It is named after the presence of the survey trigonometric station located on the summit - one of the two to be found on the ridge.</p>
+<p>The summit provides some of the best views available from the ridge. The summit is accessed via the Cooleman Trig Walking Trail.</p>
 
-        <p>The summit provides some of the best views available from the ridge. The summit is accessed via the Cooleman Trig Walking Trail.</p>
+<p>The northern slopes of the hill contain some of the best quality native areas on the ridge with a wide variety of native grasses and forbes. The southern slopes of the hill however are largely dominated by weeds such as Canary Grass and Wild Oats.</p>
 
-        <p>The northern slopes of the hill contain some of the best quality native areas on the ridge with a wide variety of native grasses and forbes. The southern slopes of the hill however are largely dominated by weeds such as Canary Grass and Wild Oats.</p>
-
-        <p>
-            The summit area is worked on once a year typically in October. The main focus of the work is to remove Euphorbia from the summit.
-        </p>
-]]></description>
+<p>
+       Cooleman Trig is part of our Group Area Monkman and is worked on once a year, typically in October. The main focus of the work is to remove Euphorbia from the summit.
+</p>]]></description>
 			<LookAt>
 				<longitude>149.0302775213532</longitude>
 				<latitude>-35.35519741424561</latitude>
@@ -202,7 +119,7 @@
 				<range>112.0314520866809</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_red-pushpin</styleUrl>
+			<styleUrl>#msn_red-pushpin0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>149.0296782949915,-35.35503167855579,0</coordinates>
@@ -210,14 +127,14 @@
 		</Placemark>
 		<Placemark>
 			<name>Sentry Box</name>
-			<description><![CDATA[        <p>Sentry Box is a distinctive by often unvisited hill on the ridge.</p>
+			<description><![CDATA[<p>Sentry Box (733m) is a distinctive but often unvisited hill on the ridge.</p>
 
-        <p>Sentry Box was named by the early settlers because it was used as a common lookout for the locals to watch over there stock.</p>
+<p>Sentry Box was named by the early settlers because it was used as a common lookout for the locals to watch over their stock.</p>
 
-        <p>The summit is not identified by any significant marker.</p>
+<p>The summit is not identified by any significant marker.</p>
 
-        <p>There is no formal walking trail to the summit but can easily be accessed from the Bicentennial Trail.</p>]]></description>
-			<styleUrl>#msn_red-pushpin</styleUrl>
+<p>There is no formal walking trail to the summit but can easily be accessed from the Bicentennial Trail.</p>]]></description>
+			<styleUrl>#msn_red-pushpin0</styleUrl>
 			<Point>
 				<coordinates>149.0310166961276,-35.35803709607022,0</coordinates>
 			</Point>

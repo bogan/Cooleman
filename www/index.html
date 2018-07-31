@@ -62,6 +62,8 @@
                 </a>
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="#!location">Location</a>
+                    <a class="dropdown-item" href="#!ecology">Ecology</a>
+                    <a class="dropdown-item" href="#!management">Management</a>
                     <a class="dropdown-item" href="#!history">History</a>
                     <a class="dropdown-item" href="#!earth">Earth</a>
                     <a class="dropdown-item" href="#!fire">Fire</a>
@@ -83,6 +85,7 @@
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="#!strategy">Strategy</a>
                     <a class="dropdown-item" href="#!activities">Activities</a>
+                    <a class="dropdown-item" href="#!weeding">Weeding</a>
                     <a class="dropdown-item" href="#!meetings">Meetings</a>
                     <a class="dropdown-item" href="#!areas">Areas</a>
                     <a class="dropdown-item" href="#!damsurvey">Dam Survey</a>
@@ -151,6 +154,12 @@
             .when("/location", {
                 templateUrl : "location.html"
             })
+            .when("/ecology", {
+                templateUrl : "ecology.html"
+            })
+            .when("/management", {
+                templateUrl : "management.html"
+            })
             .when("/history", {
                 templateUrl : "history.html"
             })
@@ -188,6 +197,9 @@
             })
             .when("/activities", {
                 templateUrl : "activities.html"
+            })
+            .when("/weeding", {
+                templateUrl : "weeding.html"
             })
             .when("/meetings", {
                 templateUrl : "meetings.html"

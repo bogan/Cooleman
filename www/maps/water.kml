@@ -2,7 +2,119 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>water.kml</name>
-	<NetworkLinkControl><expires>2018-07-30 00:00:00</expires></NetworkLinkControl>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_blu-blank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-blank">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
 	<Style id="sh_blu-blank0">
 		<IconStyle>
 			<Icon>
@@ -19,108 +131,17 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<Style id="sn_blu-blank0">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
-		</BalloonStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
 	<StyleMap id="msn_blu-blank">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_blu-blank2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_blu-blank2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_blu-blank1">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_blu-blank0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_blu-blank0</styleUrl>
+			<styleUrl>#sh_blu-blank1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_blu-blank0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_blu-blank</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_blu-blank</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_blu-blank">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<Style id="sn_blu-blank">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
 	<Style id="sn_blu-blank1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<Style id="sn_blu-blank2">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
@@ -132,22 +153,6 @@
 		</LabelStyle>
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
-		</BalloonStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
-	</Style>
-	<Style id="sh_blu-blank1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
-			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
 		</BalloonStyle>
 		<ListStyle>
 			<ItemIcon>
@@ -158,13 +163,29 @@
 	<StyleMap id="msn_blu-blank2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_blu-blank1</styleUrl>
+			<styleUrl>#sn_blu-blank</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_blu-blank1</styleUrl>
+			<styleUrl>#sh_blu-blank</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sn_blu-blank">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
 	<Style id="sh_blu-blank2">
 		<IconStyle>
 			<Icon>
@@ -181,21 +202,29 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>Water</name>
 		<open>1</open>
 		<Placemark>
 			<name>The Large Reservoir</name>
-			<styleUrl>#msn_blu-blank</styleUrl>
+			<styleUrl>#msn_blu-blank0</styleUrl>
 			<Point>
 				<coordinates>149.0311879,-35.3605661,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Old Dam</name>
-			<description><![CDATA[
-
-        <p>
+			<description><![CDATA[<p>
             The Old Dam is located on the headwaters of New Station Creek on the south western slopes of the ridge. It is the largest dam on the ridge.
         </p>
 
@@ -221,10 +250,8 @@
 
         <p>
             The dam is important habitat for many acquatic species that are not found anywhere else on the ridge such as turtles and frogs.
-        </p>
-
-]]></description>
-			<styleUrl>#msn_blu-blank0</styleUrl>
+        </p>]]></description>
+			<styleUrl>#msn_blu-blank2</styleUrl>
 			<Point>
 				<coordinates>149.0263438,-35.3569787,0</coordinates>
 			</Point>
@@ -238,7 +265,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Kathner Street Dam</name>
-			<description><![CDATA[        <p>
+			<description><![CDATA[<p>
             The Kathner Street Dam is located on the headwaters of Bulgar Creak on the north western edge of the ridge. It is easily accessed from the Kathner Street entrance to the reserve. The dam is of a medium size.
         </p>
 
@@ -259,8 +286,7 @@
 
         <p>
             The dam now provides extra facilities that have been ordangised by the group. These include a bench that is now a popular spot for the community to stop and observe the dam and its wildlife. The dam has also contained a bird platform created and maintained by the group. The platform was useful in allowing birds to nest.
-        </p>
-]]></description>
+        </p>]]></description>
 			<LookAt>
 				<longitude>149.0269547302814</longitude>
 				<latitude>-35.34565149620786</latitude>
@@ -270,7 +296,7 @@
 				<range>1467.003155360893</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_blu-blank2</styleUrl>
+			<styleUrl>#msn_blu-blank</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>149.0224939231298,-35.35000426313268,0</coordinates>
@@ -278,9 +304,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Dry Dam</name>
-			<description><![CDATA[
-
-        <p>The Dry Dam is located on the south eastern of the ridge on the south western slopes of Mt Arawang.</p>
+			<description><![CDATA[<p>The Dry Dam is located on the south eastern of the ridge on the south western slopes of Mt Arawang.</p>
 
         <p>The Dry Dam is named so simply because it is nearly always now dry.
 
@@ -300,11 +324,33 @@
 				<range>361.169722006449</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_blu-blank2</styleUrl>
+			<styleUrl>#msn_blu-blank</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>149.0417187509446,-35.3685781862574,0</coordinates>
 			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bulgar Creek</name>
+			<description>Bullgar Creek..</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					149.0244663164214,-35.35225404710916,0 149.0238099915237,-35.3518392215615,0 149.0236555129924,-35.35172223891205,0 149.0232154338818,-35.35150008934426,0 149.0229936592644,-35.35136099170874,0 149.0228053829767,-35.35120635099342,0 149.0226315269476,-35.35103619715,0 149.022598813887,-35.35082597595058,0 149.0227468969186,-35.35054786356926,0 149.022638030262,-35.35033819316352,0 149.0225777704165,-35.35016404822177,0 149.0225827808876,-35.34986336741091,0 149.0226829566224,-35.34959921412061,0 149.0221446909517,-35.34926969538536,0 149.021393234719,-35.34865275767643,0 149.020916928629,-35.34792705992917,0 149.0204960335851,-35.34685841180163,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name> New Station Creek</name>
+			<description>New Station Creek..</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					149.0301181846319,-35.35620985278016,0 149.0288761616721,-35.35653059624882,0 149.0279779864231,-35.35677116905502,0 149.027206675327,-35.35680880436484,0 149.026387696522,-35.35689308925495,0 149.0247297478095,-35.35681475169642,0 149.0238552259809,-35.35732612120538,0 149.0234495037034,-35.35791941795132,0 149.0229928264122,-35.3587053408871,0 
+				</coordinates>
+			</LineString>
 		</Placemark>
 	</Folder>
 </Document>

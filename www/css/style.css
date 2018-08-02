@@ -227,3 +227,7 @@ tfoot input {
 .card{
 	border-width: 3px;
 }
+
+.highlight{
+	color:red;
+}

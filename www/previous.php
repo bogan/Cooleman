@@ -955,7 +955,7 @@
 
                 <td class="news"><a href="news/Aug17.pdf">289</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Aug18.pdf">301</a></td>
 
                 <td class="news">&nbsp;</td>
 

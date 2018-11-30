@@ -991,7 +991,7 @@
 
                 <td class="news"><a href="news/Newsletter 291 - October 2017.pdf">291</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 303 - October 2018.pdf">303</a></td>
 
                 <td class="news">&nbsp;</td>
 
@@ -1017,7 +1017,7 @@
 
                 <td class="news"><a href="news/Newsletter 292 - November 2017.pdf">292</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 304 - November 2018.pdf">304</a></td>
 
                 <td class="news">&nbsp;</td>
 

@@ -1043,7 +1043,7 @@
 
                 <td class="news"><a href="news/Newsletter 293 - December 2017.pdf">293</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 305 - December 2018.pdf">305</a></td>
 
                 <td class="news">&nbsp;</td>
 

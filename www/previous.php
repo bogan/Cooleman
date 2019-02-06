@@ -442,7 +442,7 @@
 
                 <td class="news"><a href="news/Newsletter 175 - February 2008.pdf">175</a></td>
 
-                <td class="news"><a href="news/Newsletter 187 - January 2009.pdf">187</a></td>
+                <td class="news"><a href="news/Newsletter 187 - February 2009.pdf">187</a></td>
 
             </tr>
 

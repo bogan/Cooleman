@@ -785,7 +785,7 @@
 
                 <td class="news"><a href="news/Newsletter 295 - February 2018.pdf">295</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 307 - February 2019.pdf">307</a></td>
 
             </tr>
 

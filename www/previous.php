@@ -811,7 +811,7 @@
 
                 <td class="news"><a href="news/Newsletter 296 - March 2018.pdf">296</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 308 - March 2019.pdf">308</a></td>
 
             </tr>
 
@@ -837,7 +837,7 @@
 
                 <td class="news"><a href="news/Newsletter 297 - April 2018.pdf">297</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 309 - April 2019.pdf">309</a></td>
 
             </tr>
 
@@ -863,7 +863,7 @@
 
                 <td class="news"><a href="news/Newsletter 298 - May 2018.pdf">298</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 310 - May 2019.pdf">310</a></td>
 
             </tr>
 
@@ -889,7 +889,7 @@
 
                 <td class="news"><a href="news/Newsletter 299 - June 2018.pdf">299</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 311 - June 2019.pdf">311</a></td>
 
             </tr>
 
@@ -915,7 +915,7 @@
 
                 <td class="news"><a href="news/Newsletter 300 - July 2018.pdf">300</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 312 - July 2019.pdf">312</a></td>
 
             </tr>
 
@@ -941,7 +941,7 @@
 
                 <td class="news"><a href="news/Newsletter 301 - August 2018.pdf">301</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 313 - August 2019.pdf">313</a></td>
 
             </tr>
 
@@ -967,7 +967,7 @@
 
                 <td class="news"><a href="news/Newsletter 302 - September 2018.pdf">302</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 314 - September 2019.pdf">314</a></td>
 
             </tr>
 
@@ -993,7 +993,7 @@
 
                 <td class="news"><a href="news/Newsletter 303 - October 2018.pdf">303</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 315 - October 2019.pdf">315</a></td>
 
             </tr>
 
@@ -1019,7 +1019,7 @@
 
                 <td class="news"><a href="news/Newsletter 304 - November 2018.pdf">304</a></td>
 
-                <td class="news">&nbsp;</td>
+                <td class="news"><a href="news/Newsletter 316 - November 2019.pdf">316</a></td>
 
             </tr>
 
@@ -1044,6 +1044,349 @@
                 <td class="news"><a href="news/Newsletter 293 - December 2017.pdf">293</a></td>
 
                 <td class="news"><a href="news/Newsletter 305 - December 2018.pdf">305</a></td>
+
+                <td class="news"><a href="news/Newsletter 317 - December 2019.pdf">317</a></td>
+
+            </tr>
+
+        </table>
+
+        <br/>
+
+        <table id="3" class="news">
+
+            <tr>
+
+                <th>&nbsp;</th>
+
+                <th class="news year">2020</th>
+
+                <th class="news year">2021</th>
+
+                <th class="news year">2022</th>
+
+                <th class="news year">2023</th>
+
+                <th class="news year">2024</th>
+
+                <th class="news year">2025</th>
+
+                <th class="news year">2026</th>
+
+                <th class="news year">2027</th>
+
+                <th class="news year">2028</th>
+
+                <th class="news year">2029</th>
+            </tr>
+
+            <tr>
+
+                <th class="news month">January</th>
+
+                <td class="news"><a href="news/Newsletter 318 - January 2020.pdf">318</a></td>
+
+                <td class="news"><a href="news/Newsletter 330 - January 2021.pdf">330</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">February</th>
+
+                <td class="news"><a href="news/Newsletter 319 - February 2020.pdf">319</a></td>
+
+                <td class="news"><a href="news/Newsletter 331 - February 2021.pdf">331</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">March</th>
+
+                <td class="news"><a href="news/Newsletter 320 - March 2020.pdf">320</a></td>
+
+                <td class="news"><a href="news/Newsletter 332 - March 2021.pdf">332</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">April</th>
+
+                <td class="news"><a href="news/Newsletter 321 - April 2020.pdf">321</a></td>
+
+                <td class="news">&nbsp;</td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">May</th>
+
+                <td class="news"><a href="news/Newsletter 322 - May 2020.pdf">322</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">June</th>
+
+                <td class="news"><a href="news/Newsletter 323 - June 2020.pdf">323</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">July</th>
+
+                <td class="news"><a href="news/Newsletter 324 - July 2020.pdf">324</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">August</th>
+
+                <td class="news"><a href="news/Newsletter 325 - August 2020.pdf">325</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">September</th>
+
+                <td class="news"><a href="news/Newsletter 326 - September 2020.pdf">326</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news">&nbsp;</td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">October</th>
+
+                <td class="news"><a href="news/Newsletter 327 - October 2020.pdf">327</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news">&nbsp;</td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">November</th>
+
+                <td class="news"><a href="news/Newsletter 328 - November 2020.pdf">328</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news">&nbsp;</td>
+
+            </tr>
+
+            <tr>
+
+                <th class="news month">December</th>
+
+                <td class="news"><a href="news/Newsletter 329 - December 2020.pdf">329</a></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
+
+                <td class="news"></td>
 
                 <td class="news">&nbsp;</td>
 

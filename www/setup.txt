@@ -1,0 +1,5 @@
+Connection string = 101.0.66.80 or ftp://101.0.66.80
+Connection type = FTP
+User name = cooleman
+Password = fBwbJ7dYL
+Directory = public_html or beta

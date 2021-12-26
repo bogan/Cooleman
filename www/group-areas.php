@@ -91,7 +91,7 @@
             center: { lat: -35.361451, lng: 149.033615 },
 
             mapTypeId: google.maps.MapTypeId.SATELLITE
-        }
+        };
 
         map = new google.maps.Map(document.getElementById('areasmap'), mapOptions);
 
@@ -106,16 +106,14 @@
 </script>
 
 <div>
-    <a href="groupareas.kml">Export as KML file</a>
+    <a href="/groupareas.kml">Export as KML file</a>
 </div>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap&libraries=&v=weekly"></script>
-
-
+<?php include 'googleapi.php'; ?>
 
 <?php include 'footer.php'; ?>
 

@@ -26,7 +26,7 @@
 </p>
 
 <p>
-    If you would like to notify the group of a blackberry bush that is not currently listed then please contact us via our <a href="contacts-new.php">contact</a> page.
+    If you would like to notify the group of a blackberry bush that is not currently listed then please contact us via our <a href="/contacts-new.php">contact</a> page.
 </p>
 
 <div id="map" style="width:1000px;height:760px;"></div>
@@ -85,7 +85,7 @@
 
             ?>
 
-        ]
+        ];
 
 
 
@@ -131,7 +131,7 @@
 
         var size = location[8];
 
-        var density = location[7]
+        var density = location[7];
 
         var health = location[8];
 
@@ -214,38 +214,6 @@
 
 
 </script>
-
-<script async="" defer=""
-
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap">
-
-</script>
-
-
-
-
-
-<!--script src="http://maps.googleapis.com/maps/api/js"></script-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--<div>-->
-
-<!--	<a href="blackberry.php">Create New Record</a>-->
-
-<!--</div>-->
 
 <p>
     <a href="blackberrykml.php">Export as KML file</a> (to view in Google Earth etc)
@@ -362,6 +330,8 @@
 
 
 <p class="tbc">To Be Completed</p>
+
+<?php include 'googleapi.php'; ?>
 
 <?php include 'footer.php'; ?>
 

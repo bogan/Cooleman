@@ -10,48 +10,40 @@
 
 
 
-<div id="specialpurposeareas" style="width:750px;height:100px;"><div/>
+<div id="horseridingareas" style="width:750px;height:100px;"><div/>
+
+<script>
+    function initMap() {
 
 
 
-    <script>
-        function initMap() {
+        var horseridingareasmap = new google.maps.Map(document.getElementById('horseridingareas'), {
+
+            zoom: 11,
+
+        });
 
 
 
-            var specialpurposeareasmap = new google.maps.Map(document.getElementById('specialpurposeareas'), {
-
-                zoom: 11,
-
-            });
+        var specialpurposes = new google.maps.KmlLayer({
 
 
 
-            var specialpurposes = new google.maps.KmlLayer({
+            url: 'http://www.coolemanridge.org.au/maps/coolemanridge.kmz',
 
 
 
-                url: 'http://www.coolemanridge.org.au/maps/coolemanridge.kmz',
+            map: horseridingareasmap
 
 
 
-                map: specialpurposeareasmap
+        });
 
+    }
 
+</script>
 
-            });
-
-        }
-
-
-
-    </script>
-
-    <script async="" defer=""
-
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap">
-
-    </script>
+<?php include 'googleapi.php'; ?>
 
 <?php include 'footer.php'; ?>
 

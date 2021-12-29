@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    This information has been compiled from many sources over the years, including from local historians, newspapers, landholders and the general community. If you think you can <a href="contribute.php">contribute</a> to the history in anyway, please <a href="contact.php">contact</a> us.
+    This information has been compiled from many sources over the years, including from local historians, newspapers, landholders and the general community. If you think you can <a href="contribute">contribute</a> to the history in anyway, please <a href="contact">contact</a> us.
 </p>
 
 <p>
@@ -81,7 +81,7 @@
 </p>
 
 <p>
-    The group is now trying to accelerate this natural regeneration via its <a href="strategy.php">strategy</a>.
+    The group is now trying to accelerate this natural regeneration via its <a href="strategy">strategy</a>.
 </p>
 
 <!--p>

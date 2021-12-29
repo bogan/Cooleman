@@ -5,7 +5,7 @@
 <h2>Weeds</h2>
 
 <p>
-    Weeds and weeding are the central focus of the groups <a href="strategy.php">strategy</a> to regenerate the bush on Cooleman Ridge.
+    Weeds and weeding are the central focus of the groups <a href="strategy">strategy</a> to regenerate the bush on Cooleman Ridge.
 </p>
 
 <p>
@@ -52,13 +52,13 @@
 </p>
 
 <p>
-    The best way to determine what species is a weed and what species is not a weed according to the group is to consult our <a href="plant-survey.php">Plant Survey</a>. This survey clearly identifies the status of the plant as either a Native or a Non Native (ie. weed)
+    The best way to determine what species is a weed and what species is not a weed according to the group is to consult our <a href="plant-survey">Plant Survey</a>. This survey clearly identifies the status of the plant as either a Native or a Non Native (ie. weed)
 </p>
 
 <h3>History</h3>
 
 <p>
-    The history of weeds closely follows the <a href="history.php">history</a> of the ridge itself.
+    The history of weeds closely follows the <a href="history">history</a> of the ridge itself.
 
     The most significant factor in the history of the ridge that has influenced the history of weeds on the ridge has been the presence of grazing on the ridge.
 
@@ -89,11 +89,11 @@
 </p>
 
 <p>
-    There were large parts of the ridge that were not intensively grazed and thus still have most of their original native cover. These areas were the ones considered not suitable for grazing such as steep, rocky or heavily wooded areas. These where typically on the <a href="hills.php">hills</a> of the ridge.
+    There were large parts of the ridge that were not intensively grazed and thus still have most of their original native cover. These areas were the ones considered not suitable for grazing such as steep, rocky or heavily wooded areas. These where typically on the <a href="hills">hills</a> of the ridge.
 </p>
 
 <p>
-    Conversely there are large parts of the ridge that were intensively grazed and consequently now have large weed infestations. These areas were the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
+    Conversely there are large parts of the ridge that were intensively grazed and consequently now have large weed infestations. These areas were the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills">hills</a> on the ridge.
 </p>
 
 <p>
@@ -125,7 +125,7 @@
         </p>
 
         <p>
-            Blackberry is a major problem on the ridge. It can be found on most parts of the ridge in varying degrees of severity. However, the main infestation of Blackberry is on the eastern face of Mt Arawang where over a hundred large bushes have been identified. The group tracks the position of every known blackberry bush as part of its <a href="blackberry-survey.php">Blackberry Survey</a> to assist in its control.
+            Blackberry is a major problem on the ridge. It can be found on most parts of the ridge in varying degrees of severity. However, the main infestation of Blackberry is on the eastern face of Mt Arawang where over a hundred large bushes have been identified. The group tracks the position of every known blackberry bush as part of its <a href="blackberry-survey">Blackberry Survey</a> to assist in its control.
         </p>
 
         <p>
@@ -133,7 +133,7 @@
         </p>
 
         <p>
-            Poisoning of Blackberry is mainly performed by <a href="partners.php#parksandconservation">Parks and Conservation</a> officers or their contractors rather than the group itself. The group assists the work performed by Parks and Conservation by communicating the location of bushes to Parks and Conservation workers/contractors. The group complements the work performed by ACT Parks and Conservation by controlling smaller infestations before they become to big for the group to control.
+            Poisoning of Blackberry is mainly performed by <a href="partners#parksandconservation">Parks and Conservation</a> officers or their contractors rather than the group itself. The group assists the work performed by Parks and Conservation by communicating the location of bushes to Parks and Conservation workers/contractors. The group complements the work performed by ACT Parks and Conservation by controlling smaller infestations before they become to big for the group to control.
         </p>
 
         <p> N.B. Blackberry is easily confused with the Native Rasberry because they look very similar and are from the same genus.</p>
@@ -153,7 +153,7 @@
         </p>
 
         <p>
-            Canary Grass is also significant because it is a major fuel source for grass fires on the ridge.  Eliminating Canary Grass is important part of minimising dangerous grass fires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
+            Canary Grass is also significant because it is a major fuel source for grass fires on the ridge.  Eliminating Canary Grass is important part of minimising dangerous grass fires on the ridge. See our <a href="fire"> Fire</a> page for more information.
         </p>
 
         <p>
@@ -161,7 +161,7 @@
         </p>
 
         <p>
-            Canary Grass is not very invasive and can be controlled either by <a href="strategy.php#hacking">hacking</a> or by <a href="strategy.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="group-areas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
+            Canary Grass is not very invasive and can be controlled either by <a href="strategy#hacking">hacking</a> or by <a href="strategy#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="group-areas">Group Areas</a> but large patches still remain elsewhere on the ridge.
         </p>
 
 
@@ -181,11 +181,11 @@
         </p>
 
         <p>
-            Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="group-areas.php">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
+            Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="group-areas">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
         </p>
 
         <p>
-            Aaron's Rod is easy to control and responds well to <a href="strategy.php#hacking">hacking</a>, <a href="strategy.php#beheading">beheading</a> or <a href="strategy.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas.
+            Aaron's Rod is easy to control and responds well to <a href="strategy#hacking">hacking</a>, <a href="strategy#beheading">beheading</a> or <a href="strategy#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas.
         </p>
 
     </div>
@@ -208,7 +208,7 @@
         </p>
 
         <p>
-            Wild Sage is quite easy to control and responds well to <a href="strategy.php#hacking">hacking</a> or <a href="strategy.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas but significant infestations still exist elsewhere on the ridge.
+            Wild Sage is quite easy to control and responds well to <a href="strategy#hacking">hacking</a> or <a href="strategy#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas but significant infestations still exist elsewhere on the ridge.
         </p>
 
     </div>
@@ -231,7 +231,7 @@
         </p>
 
         <p>
-            Most techniques of weed control such as <a href="strategy.php#hacking">hacking</a> or <a href="strategy.php#poisoning">poisoning</a> are ineffective against St Johns Wort. This is partly due to the fact that St Johns Wort does not have a distinctive rosette to either hack out or poison. It is also has an extensive root system and will reshoot if all the roots are not removed. The main control method for St Johns Wort that is available is a <a href="strategy.php#biological">biological</a> control with the presence of the St Johns Wort beetle.
+            Most techniques of weed control such as <a href="strategy#hacking">hacking</a> or <a href="strategy#poisoning">poisoning</a> are ineffective against St Johns Wort. This is partly due to the fact that St Johns Wort does not have a distinctive rosette to either hack out or poison. It is also has an extensive root system and will reshoot if all the roots are not removed. The main control method for St Johns Wort that is available is a <a href="strategy#biological">biological</a> control with the presence of the St Johns Wort beetle.
         </p>
 
     </div>
@@ -254,7 +254,7 @@
         </p>
 
         <p>
-            African Lovegrass is reasonably easy to control and can be <a href="strategy.php#hacked">hacked</a> out or <a href="strategy.php#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="group-areas.php">Group Areas</a> but remains a major problem outside of them.
+            African Lovegrass is reasonably easy to control and can be <a href="strategy#hacked">hacked</a> out or <a href="strategy#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="group-areas">Group Areas</a> but remains a major problem outside of them.
         </p>
 
     </div>
@@ -277,7 +277,7 @@
         </p>
 
         <p>
-            Patterson's Curse is reasonably easy to control and can be <a href="strategy.php#hacking">hacked</a> out or <a href="strategy.php#hacking">poisoned</a>. It is critical that Pattersons curse is replaced with native cover quickly or else repeat infestations will easily occur.
+            Patterson's Curse is reasonably easy to control and can be <a href="strategy#hacking">hacked</a> out or <a href="strategy#hacking">poisoned</a>. It is critical that Pattersons curse is replaced with native cover quickly or else repeat infestations will easily occur.
         </p>
 
     </div>
@@ -300,11 +300,11 @@
         </p>
 
         <p>
-            Bearded Oats is also significant because it is major fuel source and can rapidly increase the speed and intensity of grass fires. Eliminating Bearded Oats is an important part of the groups strategy to minimise dangerous grassfires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
+            Bearded Oats is also significant because it is major fuel source and can rapidly increase the speed and intensity of grass fires. Eliminating Bearded Oats is an important part of the groups strategy to minimise dangerous grassfires on the ridge. See our <a href="fire"> Fire</a> page for more information.
         </p>
 
         <p>
-            Wild Oats is difficult to directly control because both of its speed of growth and the fact that it does not have a rosette that allows it to be easily <a href="strategy.php#hacking">hacked</a> or  <a href="strategy.php#spraying">sprayed</a>. However it does not compete very well with native grass areas and can easily be indirectly controlled by replacing infested areas with native grasses, which will quickly out competed.
+            Wild Oats is difficult to directly control because both of its speed of growth and the fact that it does not have a rosette that allows it to be easily <a href="strategy#hacking">hacked</a> or  <a href="strategy#spraying">sprayed</a>. However it does not compete very well with native grass areas and can easily be indirectly controlled by replacing infested areas with native grasses, which will quickly out competed.
         </p>
     </div>
 </div>
@@ -322,11 +322,11 @@
         </p>
 
         <p>
-            Sweet Briar Rose is the most significant woody weed on the reserve. It is widely dispersed over the ridge. The group tracks the position of every known bush as part of its <a href="woodyweeds.php">Wood Weed Survey</a>.
+            Sweet Briar Rose is the most significant woody weed on the reserve. It is widely dispersed over the ridge. The group tracks the position of every known bush as part of its <a href="woodyweeds">Wood Weed Survey</a>.
         </p>
 
         <p>
-            Sweet Briar Rose is best treated by <a href="strategy.php#poisoning">poisoining</a> using a cut-and-dab method. The group spent a significant amount of time poisoning it in its early years. The group has now largely eliminated this weed from the ridge but pockets still remain.
+            Sweet Briar Rose is best treated by <a href="strategy#poisoning">poisoining</a> using a cut-and-dab method. The group spent a significant amount of time poisoning it in its early years. The group has now largely eliminated this weed from the ridge but pockets still remain.
         </p>
 
     </div>
@@ -349,7 +349,7 @@
         </p>
 
         <p>
-            Fleabane is reasonably easy to control and can be <a href="strategy.php#heheaded">beheaded</a>, <a href="strategy.php#hacked">hacked</a> or <a href="strategy.php#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
+            Fleabane is reasonably easy to control and can be <a href="strategy#heheaded">beheaded</a>, <a href="strategy#hacked">hacked</a> or <a href="strategy#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
         </p>
 
     </div>
@@ -368,7 +368,7 @@
         </p>
 
         <p>
-            Scotch Thistle has been a major problem on the ridge. This was especially the case on the summit Mt Arawang. However, it can easily be controlled with either <a href="weeds.php#hacking">hacking</a> or <a href="weeds.php#poisoning">poisoning</a> and will not reappear once native cover has been restored. The group has largely eliminated this weed from the ridge.
+            Scotch Thistle has been a major problem on the ridge. This was especially the case on the summit Mt Arawang. However, it can easily be controlled with either <a href="weeds#hacking">hacking</a> or <a href="weeds#poisoning">poisoning</a> and will not reappear once native cover has been restored. The group has largely eliminated this weed from the ridge.
         </p>
 
     </div>
@@ -391,7 +391,7 @@
         </p>
 
         <p>
-            Plantain is best controlled with <a href="strategy.php#hacking">hacking</a>. The group has been successfully in largely controlling Plantain in the group areas but large infestations are still common elsewhere on there ridge.
+            Plantain is best controlled with <a href="strategy#hacking">hacking</a>. The group has been successfully in largely controlling Plantain in the group areas but large infestations are still common elsewhere on there ridge.
         </p>
 
     </div>

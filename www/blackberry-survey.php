@@ -26,7 +26,7 @@
 </p>
 
 <p>
-    If you would like to notify the group of a blackberry bush that is not currently listed then please contact us via our <a href="/contacts-new.php">contact</a> page.
+    If you would like to notify the group of a blackberry bush that is not currently listed then please contact us via our <a href="/contact">contact</a> page.
 </p>
 
 <div id="map" style="width:1000px;height:760px;"></div>

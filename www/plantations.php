@@ -33,7 +33,7 @@
 
     However, over the years as the tree cover has increased, the focus of the group has shifted focus from plantings to weeding. The group therefore does not create new plantations anymore.
 
-    This is also inline with the groups <a href="strategy.php">strategy</a> about how to most effectively restore the ecology of the group.
+    This is also inline with the groups <a href="strategy">strategy</a> about how to most effectively restore the ecology of the group.
 </p>
 
 
@@ -48,7 +48,7 @@
 
     Trees can be thought of weeders themselves.
 
-    The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds.php#beardedoats">Scotch Thistle</a>, <a href="weeds.php#beardedoats">Fleabane</a> and <a href="weeds.php#beardedoats">Bearded Oats</a>.
+    The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds#beardedoats">Scotch Thistle</a>, <a href="weeds#beardedoats">Fleabane</a> and <a href="weeds#beardedoats">Bearded Oats</a>.
 
     Large plantings of ecucalypts and acacia were used to suppress these weeds and they have now largely eliminated the presence of these weeds over time.
 </p-->

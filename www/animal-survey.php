@@ -15,7 +15,7 @@
 
 <p>
     The following is a list of all animal species that have been identified on Cooleman Ridge.
-    If you would like to notify the group of a animal species that is not currently listed then please contact us via our <a href="contact.php">contact</a> page.
+    If you would like to notify the group of a animal species that is not currently listed then please contact us via our <a href="contact">contact</a> page.
 </p>
 
 <div class="checkbox">

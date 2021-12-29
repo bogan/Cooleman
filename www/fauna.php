@@ -16,7 +16,7 @@
 </p>
 
 <p>
-    Please see the <a href="animal-survey.php">Animal Survey</a> page for a complete list of identified species.
+    Please see the <a href="animal-survey">Animal Survey</a> page for a complete list of identified species.
 </p>
 
 <div class="card card-success">
@@ -176,7 +176,7 @@
         </p>
 
         <p>
-            These ducks are commonly found on the ridges two main working <a href="dams.php">dams</a>. The must breed there because little duckies can also be found there.
+            These ducks are commonly found on the ridges two main working <a href="dams">dams</a>. The must breed there because little duckies can also be found there.
         </p>
 
     </div>

@@ -30,7 +30,7 @@
 <ul>
     <li>Weeding when you are simply out enjoying the ridge</li>
     <li>Propagating plants for future planting on the ridge</li>
-    <li>Writing an article for our monthly <a href="news.php">newsletter</a></li>
+    <li>Writing an article for our monthly <a href="news">newsletter</a></li>
     <li>Reporting interesting sightings of plants and animals found on the ridge to <a target="_blank" href="http://canberra.naturemapr.org">Canberra Nature Map</a></li>
     <li>Taking photos and sharing them with the group</li>
     <li>Collecting rubbish from the ridge</li>
@@ -42,7 +42,7 @@
 
 <p> Your contribution will help no matter what size, frequency or form it takes. Every little bit helps!</p>
 
-<p>If you would like to contribute to the group in some way, please <a href="contact.php">contact</a> us.</p>.
+<p>If you would like to contribute to the group in some way, please <a href="contact">contact</a> us.</p>.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -63,7 +63,7 @@
 
 <p><a target="_blank" href="https://canberra.naturemapr.org/">Canberra Nature Map</a> is a web site run by volunteers that records sightings of various plants, animals, etc in the various nature reserves throughout the ACT and its adjoining areas.</p>
 
-<p>Canberra Nature Map assists the group by allowing the group to track the location of various species found on the ridge. It also complements several of our own surveys such as the <a href="plant-survey.php">Plant Survery</a> and the <a href="animal-survey.php">Animal Survey</a>.</p>
+<p>Canberra Nature Map assists the group by allowing the group to track the location of various species found on the ridge. It also complements several of our own surveys such as the <a href="plant-survey">Plant Survery</a> and the <a href="animal-survey">Animal Survey</a>.</p>
 
 <br/>
 

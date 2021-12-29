@@ -25,7 +25,7 @@
 <p>They are simply named after the street from which they are accessed.</p>
 
 <p>
-    The main purpose of these Group Areas is to be the venue for one of our regular monthly <a href="meetings.php">group meetings</a>. The group generally rotates through each of these group areas, progressing from west to east, over a period of approximately six months. Each group area is therefore visited approximately 2 or 3 times a year.
+    The main purpose of these Group Areas is to be the venue for one of our regular monthly <a href="meetings">group meetings</a>. The group generally rotates through each of these group areas, progressing from west to east, over a period of approximately six months. Each group area is therefore visited approximately 2 or 3 times a year.
 </p>
 
 <p>
@@ -41,7 +41,7 @@
 </p>
 
 <p>
-    The Group Areas are an important part of the groups <a href="strategy.php">strategy</a> to rehabilitate the ridge. The main functions of the Group Work Areas include the following:
+    The Group Areas are an important part of the groups <a href="strategy">strategy</a> to rehabilitate the ridge. The main functions of the Group Work Areas include the following:
 
 <ul>
     <li>
@@ -66,7 +66,7 @@
 </p>
 
 <p>
-    The Group Areas were established shortly after the 2003 bushfires. The areas have each now been <a href="work.php">worked</a> on multiple times over the years and have shown major <a href="achievements.php">improvements</a>, with some of the areas now being very close to their original state.
+    The Group Areas were established shortly after the 2003 bushfires. The areas have each now been <a href="work">worked</a> on multiple times over the years and have shown major <a href="achievements">improvements</a>, with some of the areas now being very close to their original state.
 </p>
 
 <p>

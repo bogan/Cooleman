@@ -10,20 +10,20 @@
 </p>
 
 <p>
-    The ecology of the ridge, however, has been changed significantly. The flora cover is a mixture of natives and  <a href="weeds.php">weeds</a>.
+    The ecology of the ridge, however, has been changed significantly. The flora cover is a mixture of natives and  <a href="weeds">weeds</a>.
 </p>
 
 <!--Revegetation-->
 <p>
-    The <a href="mission.php">mission</a> of the Cooleman Ridge Park Care Group and <a href="strategy.php">works</a> to restore the native vegetation of the ridge. The group has cleared many of the better areas of weeds and these areas have show major improvement over approximately 25 year history of the group. In particular, the best areas of the ridge are generally our <a href="group-areas.php">Group Areas</a>, but many high quality areas also exist outside of the group areas.
+    The <a href="mission">mission</a> of the Cooleman Ridge Park Care Group and <a href="strategy">works</a> to restore the native vegetation of the ridge. The group has cleared many of the better areas of weeds and these areas have show major improvement over approximately 25 year history of the group. In particular, the best areas of the ridge are generally our <a href="group-areas">Group Areas</a>, but many high quality areas also exist outside of the group areas.
 </p>
 
 <!--Surveys-->
 <p>
-    The group also conducts various surveys that relate to the flora found on the ridge. This include the <a href="plant-survey.php">Plant Survey</a>, the <a href="tree-survey.php">Tree Survey</a> and the <a href="blackberry-survey.php">Blackberry Survey</a>. These surveys serve many purposes from management through to simple interest.
+    The group also conducts various surveys that relate to the flora found on the ridge. This include the <a href="plant-survey">Plant Survey</a>, the <a href="tree-survey">Tree Survey</a> and the <a href="blackberry-survey">Blackberry Survey</a>. These surveys serve many purposes from management through to simple interest.
 </p>
 
-<p>The following is a list of some of the more common and or easily identified native species found on the ridge. The list intended to provide people who are unfamiliar with the native flora on the ridge a gentle introduction to the dominant native flora found on the ridge. These species are relatively easy to identify, even for a novice. Exotic plants are listed on our <a href="weeds.php">weeds</a> page</p>
+<p>The following is a list of some of the more common and or easily identified native species found on the ridge. The list intended to provide people who are unfamiliar with the native flora on the ridge a gentle introduction to the dominant native flora found on the ridge. These species are relatively easy to identify, even for a novice. Exotic plants are listed on our <a href="weeds">weeds</a> page</p>
 
 <div class="card card-success">
     <div class="card-header bg-default">Blakelys Red Gum <em>(Eucalyptus blakelyii)</em></div>
@@ -40,7 +40,7 @@
         <p>
 
         <p>
-            Blakely's Red Gum is widely distributed on the ridge. It is generally found on the lower slopes of the ridge. Red Gums found on the ridge are often seasonally unhealthy. Blakely's Red Gum was planted in many of the <a href="plantations.php">plantations</a> that have been planted
+            Blakely's Red Gum is widely distributed on the ridge. It is generally found on the lower slopes of the ridge. Red Gums found on the ridge are often seasonally unhealthy. Blakely's Red Gum was planted in many of the <a href="plantations">plantations</a> that have been planted
         </p>
 
         <p>
@@ -63,11 +63,11 @@
         </p>
 
         <p>
-            Red Box is widely dispersed through out the ridge. They are generally old and healthy but with few examples of any natural regrowth. Red Box was planted in many of the <a href="plantations.php">plantations</a> that have been planted on the ridge.
+            Red Box is widely dispersed through out the ridge. They are generally old and healthy but with few examples of any natural regrowth. Red Box was planted in many of the <a href="plantations">plantations</a> that have been planted on the ridge.
         </p>
 
         <p>
-            A good example of one is found in <a href="groupareas.php">Group Area North</a>.
+            A good example of one is found in <a href="groupareas">Group Area North</a>.
         </p>
 
     </div>
@@ -90,7 +90,7 @@
         </p>
 
         <p>
-            The best examples of Yellow Box can be found in <a href="groupareas.php">Group Area North</a>.
+            The best examples of Yellow Box can be found in <a href="groupareas">Group Area North</a>.
         </p>
 
     </div>
@@ -159,7 +159,7 @@
         </p>
 
         <p>
-            The best examples are found in <a href="groupareas.php">Group Area North</a>.
+            The best examples are found in <a href="groupareas">Group Area North</a>.
         </p>
 
     </div>
@@ -182,7 +182,7 @@
         </p>
 
         <p>
-            The best examples of Weeping Grass are found in the <a href="groupareas.php">Kathner Street Group Area</a>.
+            The best examples of Weeping Grass are found in the <a href="groupareas">Kathner Street Group Area</a>.
         </p>
 
     </div>
@@ -205,7 +205,7 @@
         </p>
 
         <p>
-            The best example of Sticky Everlasting is found in  <a href="groupareas.php">Kathner Street Group Area</a> on the south western facing slopes.
+            The best example of Sticky Everlasting is found in  <a href="groupareas">Kathner Street Group Area</a> on the south western facing slopes.
         </p>
 
     </div>
@@ -228,7 +228,7 @@
         </p>
 
         <p>
-            The best exampls of Australian Bluebell are found in  <a href="groupareas.php">Group Area Central</a>.
+            The best exampls of Australian Bluebell are found in  <a href="groupareas">Group Area Central</a>.
         </p>
 
     </div>
@@ -251,7 +251,7 @@
         </p>
 
         <p>
-            The best examples of Narrawa Burr are found in  <a href="groupareas.php">Group Area North</a>.
+            The best examples of Narrawa Burr are found in  <a href="groupareas">Group Area North</a>.
         </p>
 
     </div>
@@ -356,7 +356,7 @@
         </p>
 
         <p>
-            The best examples of Dogwood are found on Mt Arawang and in  <a href="group-areas.php">Kathner Street Group Area</a>.
+            The best examples of Dogwood are found on Mt Arawang and in  <a href="group-areas">Kathner Street Group Area</a>.
         </p>
 
     </div>

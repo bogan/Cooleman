@@ -34,7 +34,7 @@
     </p>
 
     <p>
-        These dams are the focus of our Dam Survey which provides a photographic record of the dams over several years. Please see our <a href="dam-survey.php">Dam Survey</a> page for more details.
+        These dams are the focus of our Dam Survey which provides a photographic record of the dams over several years. Please see our <a href="dam-survey">Dam Survey</a> page for more details.
     </p>
 
     <p>

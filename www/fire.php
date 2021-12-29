@@ -10,7 +10,7 @@
 
 <!-- Today -->
 
-<p>The history of fire on the ridge has strongly followed the <a href="history.php">history</a> of the ridge itself. the role of humans has been the most significant factor in the frequency, intensity and effect of fires on the ridge.</p>
+<p>The history of fire on the ridge has strongly followed the <a href="history">history</a> of the ridge itself. the role of humans has been the most significant factor in the frequency, intensity and effect of fires on the ridge.</p>
 
 <p>
     Fire has been present on the ridge for millions of years.

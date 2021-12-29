@@ -1,7 +1,7 @@
 <?php $title = 'About';	?>
 
 <?php include 'header.php'; ?>
-<?php include 'blackberryrepository.php'; ?>
+<?php include 'blackberry-repository.php'; ?>
 
 <h2>Blackberry Survey</h2>
 
@@ -216,11 +216,11 @@
 </script>
 
 <p>
-    <a href="blackberrykml.php">Export as KML file</a> (to view in Google Earth etc)
+    <a href="blackberry-kml.php">Export as KML file</a> (to view in Google Earth etc)
 </p>
 
 <p>
-    <a href="blackberrycsv.php">Export as CSV file </a> (to view in Microsoft Excel etc)
+    <a href="blackberry-csv.php">Export as CSV file </a> (to view in Microsoft Excel etc)
 </p>
 
 <p>

@@ -1,22 +1,12 @@
 <?php
+
 // required headers
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
 
-// include database and object files
-include_once 'database.php';
-include_once 'blackberry.php';
-
-// instantiate database and product object
-$database = new Database();
-$db = $database->getConnection();
-
-// initialize object
-$blackberry = new Blackberry($db);
-
 // query products
-$stmt = $blackberry->read();
-$num = $stmt->rowCount();
+include '../blackberry-repository.php';
+$num = $result->num_rows;
 
 // check if more than 0 record found
 if($num>0){
@@ -28,7 +18,8 @@ if($num>0){
     // retrieve our table contents
     // fetch() is faster than fetchAll()
     // http://stackoverflow.com/questions/2770630/pdofetchall-vs-pdofetch-in-a-loop
-    while ($row = $stmt->fetch(PDO::FETCH_ASSOC)){
+    while($row = $result->fetch_assoc()) {
+
         // extract row
         // this will make $row['name'] to
         // just $name only
@@ -49,20 +40,6 @@ if($num>0){
             "creation_date" => $creation_date,
             "last_updated_date" => $last_updated_date,
         );
-
-//        public $id;
-//        public $source;
-//        public $easting;
-//        public $northing;
-//        public $latitude;
-//        public $longitude;
-//        public $size;
-//        public $density;
-//        public $health;
-//        public $burnt;
-//        public $comment;
-//        public $creation_date;
-//        public $last_updated_date;
 
         array_push($blackberrys_arr["records"], $blackberry_item);
     }

@@ -1,7 +1,7 @@
 <?php $title = 'About';	?>
 
 <?php include 'header.php'; ?>
-<?php include 'plantsrepository.php'; ?>
+<?php include 'plant-repository.php'; ?>
 
 <h2>Plant Survey</h2>
 
@@ -18,8 +18,9 @@
     If you would like to notify the group of a plant species that is not currently listed then please contact us via our <a href="!#contact">contact</a> page.
 </p>
 
-<br>
-
+<p>
+    <a href="plant-csv.php">Download as CSV</a>
+</p>
 
 <div class="checkbox">
     <label class="checkbox-inline"><input type="checkbox" class="toggle-vis" data-column="0" value="" checked>Category</label>

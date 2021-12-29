@@ -1,7 +1,7 @@
 <?php
 
 // Get data
-include 'blackberryrepository.php';
+include 'blackberry-repository.php';
 
 // Creates the Document.
 $dom = new DOMDocument('1.0', 'UTF-8');

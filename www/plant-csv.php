@@ -1,6 +1,6 @@
 <?php
 
-include 'plantsrepository.php';
+include 'plant-repository.php';
 
 // output headers so that the file is downloaded rather than displayed
 header('Content-Type: text/csv; charset=utf-8');
@@ -15,3 +15,4 @@ fputcsv($output, array('id', 'category', 'family', 'genus', 'species', 'common_n
 // loop over the rows, outputting them
 while ($row = $result->fetch_assoc()) fputcsv($output, $row);
 
+?>

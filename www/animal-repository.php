@@ -23,6 +23,7 @@ if ($result)
 }
 else
 {
+    //echo "DIE";
     die(mysqli_error($conn));
 }
 $conn->close();

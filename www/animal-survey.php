@@ -1,7 +1,7 @@
 <?php $title = 'About';	?>
 
 <?php include 'header.php'; ?>
-<?php include 'animalsrepository.php'; ?>
+<?php include 'animal-repository.php'; ?>
 
 <h2>Animal Survey</h2>
 
@@ -16,6 +16,10 @@
 <p>
     The following is a list of all animal species that have been identified on Cooleman Ridge.
     If you would like to notify the group of a animal species that is not currently listed then please contact us via our <a href="contact">contact</a> page.
+</p>
+
+<p>
+    <a href="animal-csv.php">Download as CSV</a>
 </p>
 
 <div class="checkbox">

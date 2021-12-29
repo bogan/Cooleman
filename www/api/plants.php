@@ -3,20 +3,9 @@
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
 
-// include database and object files
-include_once 'database.php';
-include_once 'plant.php';
-
-// instantiate database and product object
-$database = new Database();
-$db = $database->getConnection();
-
-// initialize object
-$plant = new Plant($db);
-
 // query products
-$stmt = $plant->read();
-$num = $stmt->rowCount();
+include '../plant-repository.php';
+$num = $result->num_rows;
 
 // check if more than 0 record found
 if($num>0){
@@ -28,7 +17,7 @@ if($num>0){
     // retrieve our table contents
     // fetch() is faster than fetchAll()
     // http://stackoverflow.com/questions/2770630/pdofetchall-vs-pdofetch-in-a-loop
-    while ($row = $stmt->fetch(PDO::FETCH_ASSOC)){
+    while($row = $result->fetch_assoc()) {
         // extract row
         // this will make $row['name'] to
         // just $name only

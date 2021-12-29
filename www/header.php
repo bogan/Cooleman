@@ -114,19 +114,19 @@
                 Our Group
             </a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="about.php">About</a>
-                <a class="dropdown-item" href="administration.php">Administration</a>
-                <a class="dropdown-item" href="membership.php">Membership</a>
-                <a class="dropdown-item" href="work.php">Work</a>
-                <a class="dropdown-item" href="strategy.php">Strategy</a>
-                <a class="dropdown-item" href="contribute.php">Contribute</a>
-                <a class="dropdown-item" href="mission.php">Mission</a>
-                <a class="dropdown-item" href="meetings.php">Meetings</a>
-                <a class="dropdown-item" href="group-areas.php">Group Areas</a>
-                <a class="dropdown-item" href="achievements.php">Achievements</a>
-                <a class="dropdown-item" href="partners.php">Partners</a>
-                <a class="dropdown-item" href="documents.php">Documents</a>
-                <a class="dropdown-item" href="contact.php">Contact</a>
+                <a class="dropdown-item" href="about">About</a>
+                <a class="dropdown-item" href="administration">Administration</a>
+                <a class="dropdown-item" href="membership">Membership</a>
+                <a class="dropdown-item" href="work">Work</a>
+                <a class="dropdown-item" href="strategy">Strategy</a>
+                <a class="dropdown-item" href="contribute">Contribute</a>
+                <a class="dropdown-item" href="mission">Mission</a>
+                <a class="dropdown-item" href="meetings">Meetings</a>
+                <a class="dropdown-item" href="group-areas">Group Areas</a>
+                <a class="dropdown-item" href="achievements">Achievements</a>
+                <a class="dropdown-item" href="partners">Partners</a>
+                <a class="dropdown-item" href="documents">Documents</a>
+                <a class="dropdown-item" href="contact">Contact</a>
             </div>
         </li>
 
@@ -135,17 +135,17 @@
                 Our Ridge
             </a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="location.php">Location</a>
-                <a class="dropdown-item" href="history.php">History</a>
-                <a class="dropdown-item" href="water.php">Water</a>
-                <a class="dropdown-item" href="fire.php">Fire</a>
-                <a class="dropdown-item" href="flora.php">Flora</a>
-                <a class="dropdown-item" href="fauna.php">Fauna</a>
-                <a class="dropdown-item" href="hills.php">Hills</a>
-                <a class="dropdown-item" href="trails.php">Trails</a>
-                <a class="dropdown-item" href="walks.php">Walks</a>
-                <a class="dropdown-item" href="plantations.php">Plantations</a>
-                <a class="dropdown-item" href="weeds.php">Weeds</a>
+                <a class="dropdown-item" href="location">Location</a>
+                <a class="dropdown-item" href="history">History</a>
+                <a class="dropdown-item" href="water">Water</a>
+                <a class="dropdown-item" href="fire">Fire</a>
+                <a class="dropdown-item" href="flora">Flora</a>
+                <a class="dropdown-item" href="fauna">Fauna</a>
+                <a class="dropdown-item" href="hills">Hills</a>
+                <a class="dropdown-item" href="trails">Trails</a>
+                <a class="dropdown-item" href="walks">Walks</a>
+                <a class="dropdown-item" href="plantations">Plantations</a>
+                <a class="dropdown-item" href="weeds">Weeds</a>
             </div>
         </li>
 
@@ -154,9 +154,9 @@
                 Our Activities
             </a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="walking-new.php">Walking</a>
-                <a class="dropdown-item" href="horseriding-new.php#">Horse Riding</a>
-                <a class="dropdown-item" href="bikeriding-new.php">Bike Riding</a>
+                <a class="dropdown-item" href="walking-new">Walking</a>
+                <a class="dropdown-item" href="horseriding-new#">Horse Riding</a>
+                <a class="dropdown-item" href="bikeriding-new">Bike Riding</a>
             </div>
         </li>-->
 
@@ -165,20 +165,20 @@
                 Our Surveys
             </a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="animal-survey.php">Animals</a>
-                <a class="dropdown-item" href="plant-survey.php">Plants</a>
-                <a class="dropdown-item" href="tree-survey.php">Trees</a>
-                <a class="dropdown-item" href="blackberry-survey.php">Blackberries</a>
-                <a class="dropdown-item" href="dam-survey.php">Dams</a>
+                <a class="dropdown-item" href="animal-survey">Animals</a>
+                <a class="dropdown-item" href="plant-survey">Plants</a>
+                <a class="dropdown-item" href="tree-survey">Trees</a>
+                <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
+                <a class="dropdown-item" href="dam-survey">Dams</a>
             </div>
         </li>
 
         <li class="nav-item">
-            <a class="nav-link" href="news.php">Our News</a>
+            <a class="nav-link" href="news">Our News</a>
         </li>
 
         <li class="nav-item">
-            <a class="nav-link" href="gallery.php">Our Gallery</a>
+            <a class="nav-link" href="gallery">Our Gallery</a>
         </li>
     </ul>
 </nav>

@@ -57,7 +57,7 @@
 
 <p>Please click on a coloured area for more information about each plantation.</p>
 
-<div id="plantationsmap" class="map"></div>
+<div id="plantations-map" class="map"></div>
 
 <script>
     let map;
@@ -73,7 +73,7 @@
             mapTypeId: google.maps.MapTypeId.SATELLITE
         };
 
-        map = new google.maps.Map(document.getElementById('plantationsmap'), mapOptions);
+        map = new google.maps.Map(document.getElementById('plantations-map'), mapOptions);
 
         var groups = new google.maps.KmlLayer({
 

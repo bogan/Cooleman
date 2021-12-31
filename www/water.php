@@ -42,7 +42,7 @@
     </p>
 
 
-    <div id="watermap" class="map"></div>
+    <div id="water-map" class="map"></div>
 
     <script>
         let map;
@@ -58,7 +58,7 @@
                 mapTypeId: google.maps.MapTypeId.SATELLITE
             };
 
-            map = new google.maps.Map(document.getElementById('watermap'), mapOptions);
+            map = new google.maps.Map(document.getElementById('water-map'), mapOptions);
 
             var groups = new google.maps.KmlLayer({
 

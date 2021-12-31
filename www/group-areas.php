@@ -77,7 +77,7 @@
     The following map displays the Group Areas. You can click on a coloured area for more specific information about each of the group areas.
 </p>
 
-<div id="areasmap" style="height: 600px" class="map"></div>
+<div id="areas-map" style="height: 600px" class="map"></div>
 
 <script>
     let map;
@@ -93,7 +93,7 @@
             mapTypeId: google.maps.MapTypeId.SATELLITE
         };
 
-        map = new google.maps.Map(document.getElementById('areasmap'), mapOptions);
+        map = new google.maps.Map(document.getElementById('areas-map'), mapOptions);
 
         var groups = new google.maps.KmlLayer({
 

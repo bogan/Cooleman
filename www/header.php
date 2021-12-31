@@ -75,23 +75,23 @@
             text-align: center;
         }
 
-        #plantationsmap {
+        #plantations-map {
             height: 100%;
         }
 
-        #areasmap {
+        #areas-map {
             height: 100%;
         }
 
-        #trailsmap {
+        #trails-map {
             height: 100%;
         }
 
-        #hillsmap {
+        #hills-map {
             height: 100%;
         }
 
-        #watermap {
+        #water-map {
             height: 100%;
         }
 

@@ -103,84 +103,102 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-    <!-- Brand -->
-    <a class="navbar-brand" href="#">Cooleman Ridge Parkcare Group</a>
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-3">
+    <div class="container">
 
-    <!-- Links -->
-    <ul class="navbar-nav">
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">
-                Our Group
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="about">About</a>
-                <a class="dropdown-item" href="administration">Administration</a>
-                <a class="dropdown-item" href="membership">Membership</a>
-                <a class="dropdown-item" href="work">Work</a>
-                <a class="dropdown-item" href="strategy">Strategy</a>
-                <a class="dropdown-item" href="contribute">Contribute</a>
-                <a class="dropdown-item" href="mission">Mission</a>
-                <a class="dropdown-item" href="meetings">Meetings</a>
-                <a class="dropdown-item" href="group-areas">Group Areas</a>
-                <a class="dropdown-item" href="achievements">Achievements</a>
-                <a class="dropdown-item" href="partners">Partners</a>
-                <a class="dropdown-item" href="documents">Documents</a>
-                <a class="dropdown-item" href="contact">Contact</a>
+        <!-- Brand -->
+        <a class="navbar-brand" href="#">Cooleman Ridge Parkcare Group</a>
+
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">Our Group</a>
+
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="about">About</a>
+                        <a class="dropdown-item" href="administration">Administration</a>
+                        <a class="dropdown-item" href="membership">Membership</a>
+                        <a class="dropdown-item" href="work">Work</a>
+                        <a class="dropdown-item" href="strategy">Strategy</a>
+                        <a class="dropdown-item" href="contribute">Contribute</a>
+                        <a class="dropdown-item" href="mission">Mission</a>
+                        <a class="dropdown-item" href="meetings">Meetings</a>
+                        <a class="dropdown-item" href="group-areas">Group Areas</a>
+                        <a class="dropdown-item" href="achievements">Achievements</a>
+                        <a class="dropdown-item" href="partners">Partners</a>
+                        <a class="dropdown-item" href="documents">Documents</a>
+                        <a class="dropdown-item" href="contact">Contact</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">Our Ridge</a>
+
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="location">Location</a>
+                        <a class="dropdown-item" href="history">History</a>
+                        <a class="dropdown-item" href="water">Water</a>
+                        <a class="dropdown-item" href="fire">Fire</a>
+                        <a class="dropdown-item" href="flora">Flora</a>
+                        <a class="dropdown-item" href="fauna">Fauna</a>
+                        <a class="dropdown-item" href="hills">Hills</a>
+                        <a class="dropdown-item" href="trails">Trails</a>
+                        <a class="dropdown-item" href="walks">Walks</a>
+                        <a class="dropdown-item" href="plantations">Plantations</a>
+                        <a class="dropdown-item" href="weeds">Weeds</a>
+                    </div>
+                </li>
+
+                <!--<li class="nav-item dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="activities" data-toggle="dropdown">Our Activities</a>
+
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="walking-new">Walking</a>
+                        <a class="dropdown-item" href="horseriding-new#">Horse Riding</a>
+                        <a class="dropdown-item" href="bikeriding-new">Bike Riding</a>
+                    </div>
+
+                </li>-->
+
+                <li class="nav-item dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Our Surveys</a>
+
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="animal-survey">Animals</a>
+                        <a class="dropdown-item" href="plant-survey">Plants</a>
+                        <a class="dropdown-item" href="tree-survey">Trees</a>
+                        <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
+                        <a class="dropdown-item" href="dam-survey">Dams</a>
+                    </div>
+
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="news">Our News</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="gallery">Our Gallery</a>
+                </li>
+
+            </ul>
+
+            <div class="ml-auto">
+                <script async src="https://cse.google.com/cse.js?cx=008804451297429151083:uvfpx0zrsak"></script>
+                <div class="gcse-search"></div>
             </div>
-        </li>
 
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">
-                Our Ridge
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="location">Location</a>
-                <a class="dropdown-item" href="history">History</a>
-                <a class="dropdown-item" href="water">Water</a>
-                <a class="dropdown-item" href="fire">Fire</a>
-                <a class="dropdown-item" href="flora">Flora</a>
-                <a class="dropdown-item" href="fauna">Fauna</a>
-                <a class="dropdown-item" href="hills">Hills</a>
-                <a class="dropdown-item" href="trails">Trails</a>
-                <a class="dropdown-item" href="walks">Walks</a>
-                <a class="dropdown-item" href="plantations">Plantations</a>
-                <a class="dropdown-item" href="weeds">Weeds</a>
-            </div>
-        </li>
-
-        <!--<li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="activities" data-toggle="dropdown">
-                Our Activities
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="walking-new">Walking</a>
-                <a class="dropdown-item" href="horseriding-new#">Horse Riding</a>
-                <a class="dropdown-item" href="bikeriding-new">Bike Riding</a>
-            </div>
-        </li>-->
-
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">
-                Our Surveys
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="animal-survey">Animals</a>
-                <a class="dropdown-item" href="plant-survey">Plants</a>
-                <a class="dropdown-item" href="tree-survey">Trees</a>
-                <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
-                <a class="dropdown-item" href="dam-survey">Dams</a>
-            </div>
-        </li>
-
-        <li class="nav-item">
-            <a class="nav-link" href="news">Our News</a>
-        </li>
-
-        <li class="nav-item">
-            <a class="nav-link" href="gallery">Our Gallery</a>
-        </li>
-    </ul>
+        </div>
+    </div>
 </nav>
 <br>
 

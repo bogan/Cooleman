@@ -2,7 +2,9 @@
 
 <?php include 'header.php'; ?>
 
-<h2>History</h2>
+<div class="col-sm-8">
+
+<h2 id="history">History</h2>
 
 <p>
     The Cooleman Ridge Parkcare Group maintains a history of the ridge, the homestead and the reserve. The group believes that it is important to preserve this history for future generations.
@@ -17,7 +19,7 @@
 </p>
 
 
-<h3>The Ridge</h3>
+<h3 id="ridge">The Ridge</h3>
 
 <p>
     Cooleman Ridge has been used as pastoral property since European settlement. It has been grazed by sheep and cattle for over a hundred years. As part of 'Yarralumla' property, 1899 maps indicate open forest. Latterly it was part of the 'Cooleman' grazing property when it was sown with <i>Phalaris</i> pasture grass and fertilised. It has been part of Canberra Nature Park formally since 1993 but was a reserve before that.
@@ -39,7 +41,7 @@
     From this time on the story of land occupation around Arawang was of swathes of country being divided into ever smaller parcels but still for use as rural properties. The 1,350 acres (547 hectares) known as “Arawang” extended from the Old Kambah Road to the Murrumbidgee River. It was a sheep and cattle property. Apparently the term “Arawang” means “deep water hole” and is assumed to have applied to aspects of the nearby Murrumbidgee. The term was used as a name for the property during the 1930s by the then owner, a Mr M Clothier.
 </p>
 
-<h3>The Homestead</h3>
+<h3 id="homestead">The Homestead</h3>
 
 <p>
     The Arawang Homestead is located on the southwestern side of Mt Arawang on the northern side of Kambah.
@@ -66,7 +68,7 @@
     (Sourced from documents provided by the current occupant of “Arawang” Mr Ross Bennett.)
 </p>
 
-<h3>The Reserve</h3>
+<h3 id="reserve">The Reserve</h3>
 
 <p>
     The ridge became a nature reserve in the 1980's and has been part of Canberra Nature Park formally since 1993.
@@ -95,5 +97,17 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+</div>
+<div class="col-sm-2">
+    <div class="sticky-top">
+        <div class="nav flex-column">
+            <a href="#history" class="nav-link">History</a>
+            <a href="#ridge" class="nav-link">Ridge</a>
+            <a href="#homestead" class="nav-link">Homestead</a>
+            <a href="#reserve" class="nav-link">Reserve</a>
+        </div>
+    </div>
+</div>
 
 <?php include 'footer.php'; ?>

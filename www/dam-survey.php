@@ -2,6 +2,8 @@
 
 <?php include 'header.php'; ?>
 
+<div class="col-sm-8">
+
 <h2>Dam Survey</h2>
 
 <!--<p>-->
@@ -1919,6 +1921,10 @@
     </div>
 </div>
 
+</div>
+<div class="col-sm-2">
+
+</div>
 
 <?php include 'footer.php'; ?>
 

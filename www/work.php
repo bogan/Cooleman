@@ -2,40 +2,47 @@
 
 <?php include 'header.php'; ?>
 
-<h2>Work</h2>
+<div class="col-sm-8">
 
-<p>The group performs a wide variety of work including:
+    <h2>Work</h2>
 
-<ul>
+    <p>The group performs a wide variety of work including:
 
-    <li>Weeding </li>
+    <ul>
 
-    <li>Planting </li>
+        <li>Weeding </li>
 
-    <li>Studying wildlife </li>
+        <li>Planting </li>
 
-    <li>Reporting sightings of wildlife </li>
+        <li>Studying wildlife </li>
 
-    <li>Hosting interest walks</li>
+        <li>Reporting sightings of wildlife </li>
 
-    <li>Surveying wildlife </li>
+        <li>Hosting interest walks</li>
 
-    <li>Monitoring wildlife </li>
+        <li>Surveying wildlife </li>
 
-    <li>Reducing fire fuel</li>
+        <li>Monitoring wildlife </li>
 
-    <li>Compiling a herbarium of our plants </li>
+        <li>Reducing fire fuel</li>
 
-    <li>Recording the ridge with photos</li>
+        <li>Compiling a herbarium of our plants </li>
 
-</ul>
+        <li>Recording the ridge with photos</li>
 
-</p>
+    </ul>
+
+    </p>
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+</div>
+<div class="col-sm-2">
+
+</div>
 
 <?php include 'footer.php'; ?>
 

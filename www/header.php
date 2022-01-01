@@ -103,11 +103,13 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-3">
-    <div class="container">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
+
 
         <!-- Brand -->
-        <a class="navbar-brand" href="#">Cooleman Ridge Parkcare Group</a>
+        <div class="navbar-brand" style="word-wrap: break-word;">
+            Cooleman Ridge Parkcare Group
+        </div>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
@@ -198,12 +200,12 @@
             </div>
 
         </div>
-    </div>
+
 </nav>
 <br>
 
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-2"></div>
-        <div class="col-sm-8">
+
 

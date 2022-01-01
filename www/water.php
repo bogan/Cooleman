@@ -2,11 +2,13 @@
 
 <?php include 'header.php'; ?>
 
-    <h2>Water</h2>
+<div class="col-sm-8">
+
+    <h2 id="water">Water</h2>
 
     <p>Water is an important part of the ecology of Cooleman Ridge. Unfortunately, water is one feature of the ridge that is not very common with little in the way of permanent natural water sources.</p>
 
-    <h3>Creeks</h3>
+    <h3 id="creeks">Creeks</h3>
 
     <p>Cooleman Ridge is the headwaters for four creeks.</p>
 
@@ -19,7 +21,7 @@
 
     <p>There are no permanent water courses found on the ridge. The creeks are intermittent and only flow for a short time after heavy rain.</p>
 
-    <h3>Dams</h3>
+    <h3 id="dams">Dams</h3>
 
     <p>
         These dams were created principally to support cattle grazing on the ridge, either prior to the ridge becoming a reserve (eg. The Old Dam and Dry Dams) or after it (e.g. Kathner Street Dam). A secondary reason for their creation was to help in firefighting in the event of a fire occuring on the ridge.
@@ -36,6 +38,9 @@
     <p>
         These dams are the focus of our Dam Survey which provides a photographic record of the dams over several years. Please see our <a href="dam-survey">Dam Survey</a> page for more details.
     </p>
+
+
+    <h3 id="map">Map</h3>
 
     <p>
         Please click on one of the markers to obtain more information about the various dams found on the ridge.
@@ -74,12 +79,24 @@
         <a href="/maps/water.kml">Export as KML file</a>
     </div>
 
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+</div>
+<div class="col-sm-2">
+    <div class="sticky-top">
+        <div class="nav flex-column">
+            <a href="#water" class="nav-link">Water</a>
+            <a href="#creeks" class="nav-link">Creeks</a>
+            <a href="#dams" class="nav-link">Dams</a>
+            <a href="#map" class="nav-link">Map</a>
+        </div>
+    </div>
+</div>
 
 <?php include 'googleapi.php'; ?>
+
+
 
 <?php include 'footer.php'; ?>

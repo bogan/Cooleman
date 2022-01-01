@@ -27,11 +27,11 @@
     <p>
         These ladies have now been replaced by a new generation of volunteers who carry on their hard <a href="work">work</a> and vision.
 
-        The group has now grown to have 50 registered members that <a href="contribute">contribute</a> in various ways to the groups objectives, with an active core of members that regularly <a href="meetings">meet</a> and <a href="work">work</a> on the ridge.
+        The group has now grown to have 50 registered members that <a href="work#contribute">contribute</a> in various ways to the groups objectives, with an active core of members that regularly <a href="meetings">meet</a> and <a href="work">work</a> on the ridge.
     </p>
 
     <p>
-        The group is also comprised of many informal members that do not regularly attend group activities but  <a href="contribute">contribute</a> to the groups work by doing private work in their own way and in their own time.
+        The group is also comprised of many informal members that do not regularly attend group activities but  <a href="work#contribute">contribute</a> to the groups work by doing private work in their own way and in their own time.
     </p>
 
     <p>

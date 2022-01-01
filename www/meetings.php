@@ -15,7 +15,7 @@
     </p>
 
     <p>
-        The meetings are normally held on the 3rd Sunday of the month and are held at one of our 6 designated <a href="group-areas">Group Areas</a>. The meetings in the hotter months (November to February) are held in the cool of the morning while during the cooler months (March to October) the meetings are held in the afternoon. The exact time and location is published the in the relevant months <a href="news">newsletter</a>.
+        The meetings are normally held on the 3rd Sunday of the month and are held at one of our 6 designated <a href="work#group-areas">Group Areas</a>. The meetings in the hotter months (November to February) are held in the cool of the morning while during the cooler months (March to October) the meetings are held in the afternoon. The exact time and location is published the in the relevant months <a href="news">newsletter</a>.
     </p>
 
     <p>
@@ -27,7 +27,7 @@
     </p>
 
     <ul>
-        <li>To work intensively on a specific <a href="group-areas">Group Area</a> of the ridge</li> as part of its <a href="strategy">strategy</a> to rehabilitate the ridge.
+        <li>To work intensively on a specific <a href="work#group-areas">Group Area</a> of the ridge</li> as part of its <a href="strategy">strategy</a> to rehabilitate the ridge.
         <li>To exchange group <a href="news">news</a> and gossip</li>
         <li>To motivate members and non members</li>
         <li>To introduce new members to the group and its <a href="work">work</a></li>
@@ -38,7 +38,7 @@
     <h3 id="weekly">Weekly Meetings</h3>
 
     <p>
-        The Cooleman Ridge Parkcare Group holds smaller weekly work groups that focus on just one <a href="group-areas">Group Area</a> of the nature reserve.
+        The Cooleman Ridge Parkcare Group holds smaller weekly work groups that focus on just one <a href="work#group-areas">Group Area</a> of the nature reserve.
 
         The weekly meetings are less formal and have a smaller attendance but perform many of the same <a href="work">activities</a> as the monthly meetings.
 
@@ -47,9 +47,9 @@
 
     <ul>
 
-        <li>Kathner Group - every Friday morning at the <a href="group-areas">Kathner Group Area</a></li>
+        <li>Kathner Group - every Friday morning at the <a href="work#group-areas">Kathner Group Area</a></li>
 
-        <li>Namatjira Group - every Wednesday morning at the <a href="group-areas">Namatjira Group Area</a></li>
+        <li>Namatjira Group - every Wednesday morning at the <a href="work#group-areas">Namatjira Group Area</a></li>
 
     </ul>
 

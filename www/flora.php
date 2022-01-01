@@ -16,7 +16,7 @@
 
     <!--Revegetation-->
     <p>
-        The <a href="organisation#mission">mission</a> of the Cooleman Ridge Park Care Group and <a href="strategy">works</a> to restore the native vegetation of the ridge. The group has cleared many of the better areas of weeds and these areas have show major improvement over approximately 25 year history of the group. In particular, the best areas of the ridge are generally our <a href="group-areas">Group Areas</a>, but many high quality areas also exist outside of the group areas.
+        The <a href="organisation#mission">mission</a> of the Cooleman Ridge Park Care Group and <a href="strategy">works</a> to restore the native vegetation of the ridge. The group has cleared many of the better areas of weeds and these areas have show major improvement over approximately 25 year history of the group. In particular, the best areas of the ridge are generally our <a href="work#group-areas">Group Areas</a>, but many high quality areas also exist outside of the group areas.
     </p>
 
     <h3 id="surveys">Surveys</h3>
@@ -360,7 +360,7 @@
             </p>
 
             <p>
-                The best examples of Dogwood are found on Mt Arawang and in  <a href="group-areas">Kathner Street Group Area</a>.
+                The best examples of Dogwood are found on Mt Arawang and in  <a href="work#group-areas">Kathner Street Group Area</a>.
             </p>
 
         </div>

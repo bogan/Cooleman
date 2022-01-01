@@ -163,7 +163,7 @@
             </p>
 
             <p>
-                Canary Grass is not very invasive and can be controlled either by <a href="strategy#hacking">hacking</a> or by <a href="strategy#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="group-areas">Group Areas</a> but large patches still remain elsewhere on the ridge.
+                Canary Grass is not very invasive and can be controlled either by <a href="strategy#hacking">hacking</a> or by <a href="strategy#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="work#group-areas">Group Areas</a> but large patches still remain elsewhere on the ridge.
             </p>
 
 
@@ -183,7 +183,7 @@
             </p>
 
             <p>
-                Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="group-areas">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
+                Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="work#group-areas">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
             </p>
 
             <p>
@@ -256,7 +256,7 @@
             </p>
 
             <p>
-                African Lovegrass is reasonably easy to control and can be <a href="strategy#hacked">hacked</a> out or <a href="strategy#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="group-areas">Group Areas</a> but remains a major problem outside of them.
+                African Lovegrass is reasonably easy to control and can be <a href="strategy#hacked">hacked</a> out or <a href="strategy#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="work#group-areas">Group Areas</a> but remains a major problem outside of them.
             </p>
 
         </div>

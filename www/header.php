@@ -126,10 +126,7 @@
                         <a class="dropdown-item" href="organisation.php">Organisation</a>
                         <a class="dropdown-item" href="work">Work</a>
                         <a class="dropdown-item" href="strategy">Strategy</a>
-                        <a class="dropdown-item" href="contribute">Contribute</a>
                         <a class="dropdown-item" href="meetings">Meetings</a>
-                        <a class="dropdown-item" href="group-areas">Group Areas</a>
-                        <a class="dropdown-item" href="achievements">Achievements</a>
                         <a class="dropdown-item" href="partners">Partners</a>
                         <a class="dropdown-item" href="documents">Documents</a>
                         <a class="dropdown-item" href="contact">Contact</a>

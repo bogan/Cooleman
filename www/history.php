@@ -11,7 +11,7 @@
 </p>
 
 <p>
-    This information has been compiled from many sources over the years, including from local historians, newspapers, landholders and the general community. If you think you can <a href="contribute">contribute</a> to the history in anyway, please <a href="contact">contact</a> us.
+    This information has been compiled from many sources over the years, including from local historians, newspapers, landholders and the general community. If you think you can <a href="work#contribute">contribute</a> to the history in anyway, please <a href="contact">contact</a> us.
 </p>
 
 <p>

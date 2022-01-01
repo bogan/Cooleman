@@ -56,7 +56,7 @@
     <h3 id="annual">Annual General Meeting</h3>
 
     <p>
-        The group holds an Annual General Meeting (AGM) for the <a href="administration">committee members</a> in accordance with its legal obligations as a incorporated organisation.
+        The group holds an Annual General Meeting (AGM) for the <a href="organisation#governance">committee members</a> in accordance with its legal obligations as a incorporated organisation.
     </p>
 
     <p>

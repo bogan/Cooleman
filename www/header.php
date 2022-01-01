@@ -123,13 +123,10 @@
                     <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">Our Group</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="about">About</a>
-                        <a class="dropdown-item" href="administration">Administration</a>
-                        <a class="dropdown-item" href="membership">Membership</a>
+                        <a class="dropdown-item" href="organisation.php">Organisation</a>
                         <a class="dropdown-item" href="work">Work</a>
                         <a class="dropdown-item" href="strategy">Strategy</a>
                         <a class="dropdown-item" href="contribute">Contribute</a>
-                        <a class="dropdown-item" href="mission">Mission</a>
                         <a class="dropdown-item" href="meetings">Meetings</a>
                         <a class="dropdown-item" href="group-areas">Group Areas</a>
                         <a class="dropdown-item" href="achievements">Achievements</a>

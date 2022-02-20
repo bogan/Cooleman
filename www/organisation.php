@@ -41,14 +41,14 @@
     <h3 id="mission">Mission</h3>
 
     <p>
-        The mission of the Cooleman Ridge Park Care Group is to restore the native flora and fauna of Cooleman Ridge.
+        The mission of the Cooleman Ridge Park Care Group is to maintain and increase native species of flora and fauna that are local to the area.
     </p>
 
 
     <h3 id="legalstatus">Legal Status</h3>
 
     <p>
-        The group is currently incorporated. It was <a target="_blank" href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=x518wr1ov_4">incorporated</a> in 2005 under the name COOLEMAN RIDGE PARK CARE GROUP. Our Registration Number is A02525.
+        The group was incorporated in 1995 is currently still incorporated. It was <a target="_blank" href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=x518wr1ov_4">incorporated</a> in 2005 under the name COOLEMAN RIDGE PARK CARE GROUP. Our Registration Number is A02525.
     </p>
 
     <h3 id="affiliation">Affiliation</h3>
@@ -97,15 +97,11 @@
 
     <h3 id="membership">Membership</h3>
 
-    <p>
-        Membership with the Cooleman Ridge Park Care Group is a free and easy.
-    </p>
+    <p>The Group has now grown to 70 members that contribute in various ways, with a small but active core who meet regularly to work on the Ridge.</p>
 
-    <p>
-        If you wish to join, you can either <a href="contact">contact</a> us or simply just turn up at one of regular monthly <a href="meetings">meetings</a>.
-    </p>
+    <p>New members are always welcome, even if they are unable to commit to regular attendance.</p>
 
-
+    <p>If you wish to join, you can either <a href="contact">contact</a> us or simply just turn up at one of regular monthly <a href="meetings">meetings</a>. There is no membership fee.</p>
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>

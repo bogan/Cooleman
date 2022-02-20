@@ -18,9 +18,29 @@
 
     <style type="text/css">
 
+        h4{
+            color:saddlebrown;
+        }
+
         td
         {
             padding:5px
+        }
+
+        table#rainfall
+        {
+            table-layout: fixed;
+            width: 600px;
+        }
+
+        table#rainfall th
+        {
+            text-align:center;
+        }
+
+        table#rainfall td
+        {
+            text-align:right;
         }
 
         table.news
@@ -80,25 +100,63 @@
         }
 
         #areas-map {
-            height: 100%;
+            height: 600px;
         }
 
         #trails-map {
-            height: 100%;
+            height: 600px;
         }
 
         #hills-map {
-            height: 100%;
+            height: 600px;
         }
 
         #water-map {
-            height: 100%;
+            height: 600px;
         }
 
-        #walksmap {
-            height: 100%;
+        #walks-map {
+            height: 600px;
         }
 
+        .walk-info{
+            display:inline;
+            border:2px;
+            width:100px;
+        }
+
+        .walk-info#green{
+            background-color: green;
+        }
+
+        .walk-info#yellow{
+            background-color: yellow;
+        }
+
+        .walk-info#purple{
+            background-color: purple;
+        }
+
+        .walk-info#blue{
+            background-color: blue;
+        }
+
+        .walk-info#red{
+            background-color: red;
+        }
+
+        .walk-info#pink{
+            background-color: pink;
+        }
+
+        a.brand{
+            color:lightgray;
+        }
+
+        a.brand:hover{
+            color:lightgray;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -108,7 +166,7 @@
 
         <!-- Brand -->
         <div class="navbar-brand" style="word-wrap: break-word;">
-            Cooleman Ridge Parkcare Group
+            <a href="/" class="brand">Cooleman Ridge Parkcare Group</a>
         </div>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
@@ -120,10 +178,11 @@
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">Our Group</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">The Group</a>
 
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="organisation.php">Organisation</a>
+                        <a class="dropdown-item" href="group-history">History</a>
                         <a class="dropdown-item" href="work">Work</a>
                         <a class="dropdown-item" href="strategy">Strategy</a>
                         <a class="dropdown-item" href="meetings">Meetings</a>
@@ -135,19 +194,16 @@
 
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">Our Ridge</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">The Ridge</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="location">Location</a>
-                        <a class="dropdown-item" href="history">History</a>
+                        <a class="dropdown-item" href="land">Land</a>
                         <a class="dropdown-item" href="water">Water</a>
                         <a class="dropdown-item" href="fire">Fire</a>
                         <a class="dropdown-item" href="flora">Flora</a>
                         <a class="dropdown-item" href="fauna">Fauna</a>
-                        <a class="dropdown-item" href="hills">Hills</a>
-                        <a class="dropdown-item" href="trails">Trails</a>
-                        <a class="dropdown-item" href="walks">Walks</a>
-                        <a class="dropdown-item" href="plantations">Plantations</a>
+                        <a class="dropdown-item" href="history">History</a>
+                        <a class="dropdown-item" href="activities">Activities</a>
                         <a class="dropdown-item" href="weeds">Weeds</a>
                     </div>
                 </li>
@@ -166,7 +222,7 @@
 
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Our Surveys</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Surveys</a>
 
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="animal-survey">Animals</a>
@@ -179,11 +235,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="news">Our News</a>
+                    <a class="nav-link" href="news">Newsletters</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="gallery">Our Gallery</a>
+                    <a class="nav-link" href="gallery">Gallery</a>
                 </li>
 
             </ul>

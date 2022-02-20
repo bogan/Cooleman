@@ -24,7 +24,7 @@
       href="../news.php"><IMG alt="" border=2
                               src="../../images/bench.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../walks.php"><IMG alt="" border=2
+      href="../walks1.php"><IMG alt="" border=2
                                src="../../images/damwalk.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../fauna.php"><IMG alt="" border=2
@@ -33,7 +33,7 @@
       href="../fire.php"><IMG alt="" border=2
                               src="../../images/silhiv.jpg" width=60 height=60></A></TD>
 	<TD width=76 align=center><A 
-      href="../walks.php"><IMG alt="" border=2
+      href="../walks1.php"><IMG alt="" border=2
                                src="../../images/alice.jpg" width=60 height=60></A></TD>
     <TD width=20>&nbsp;</TD></TR>
   <TR>
@@ -53,7 +53,7 @@
     <TD height="30" align="center"><A 
       href="../news.php">News</A></TD>
     <TD height="30" align="center"><A 
-      href="../walks.php">Walks</A></TD>
+      href="../walks1.php">Walks</A></TD>
     <TD height="30" align="center"><A 
       href="../fauna.php">Wildlife</A></TD>
     <TD height="30" align="center"><A 

@@ -6,7 +6,37 @@
 
     <h2 id="fauna">Fauna</h2>
 
-    <p>Cooleman Ridge has a surprising variety of animals. These include mammals, birds, reptiles, amphibians and insects.</p>
+    <p>Cooleman Ridge is rich in a variety of fauna. It is likely that most visitors will see kangaroos and wallaroos
+        every time they visit, and more rarely a wombat or echidna.</p>
+
+    <p>Birds can be seen and heard, especially around the dams. You are quite likely to see magpies, currawongs,
+        choughs, pee wees, kookaburras, ducks, wrens, cockatoos, galahs, crimson rosellas, eastern rosellas,
+        crows/ravens, kestrels, falcons, and red-rumped parrots.</p>
+
+    <p>Many of the reptiles (dragons, snakes, blue-tongue lizards, skinks) live amongst and under the rocks. So, it is
+        important not to disturb their habitat by moving rocks to make cairns or similar structures. Of particular
+        significance is the rare Pink-tailed Worm Lizard which looks like a combination of small snake and worm. It is
+        most likely found amongst rocky outcrops in the native grassland on the north-facing slopes of the Ridge where
+        exotic grasses have not been encouraged and there has not been extensive grazing.</p>
+
+    <p>Turtles and frogs can be found in and around the dams along with dragon flies, beetles, centipedes, millipedes,
+        snails etc.</p>
+
+    <p>Unfortunately the Ridge is also home to rabbits, foxes and cats.</p>
+
+    <p>No fauna should be handled. If you come across one that is injured, contact ACT Wildlife.</p>
+
+    <h3 id="restrictions">Restrictions</h3>
+
+    <p>Dogs are welcome on the Ridge but should be kept on a lead so as not to frighten the animals.</p>
+
+    <p>Horses are allowed only on the Bicentennial Trail.</p>
+
+    <h3 id="photos">Photos</h3>
+
+    <p>Further information about and photos of fauna found on the Ridge can be viewed in the Gallery.</p>
+
+    <p class="tbc">To Be Completed.</p>
 
     <h3 id="survey">Survey</h3>
 
@@ -14,7 +44,8 @@
         The group also conducts an animal survey that identifies all the fauna on the ridge. Please see the <a href="animal-survey">Animal Survey</a> page.
     </p>
 
-        <h3 id="species">Species</h3>
+    <h3 id="species">Species</h3>
+
     <p>
         The following list of animals is a featured summary of some of the more common and/or easily identified native species found on the ridge.
     </p>
@@ -53,14 +84,11 @@
 
             <p>
                 Over the years there have been only four record sightings of them.
-                University
             </p>
         </div>
     </div>
 
     <br>
-
-
 
     <div class="card card-success">
         <div class="card-header bg-default">Common Wombat <em>(Vombatus ursinus)</em></div>
@@ -711,6 +739,8 @@
     <div class="sticky-top">
         <div class="nav flex-column">
             <a href="#fauna" class="nav-link">Fauna</a>
+            <a href="#restrictions" class="nav-link">Restrictions</a>
+            <a href="#photos" class="nav-link">Photos</a>
             <a href="#survey" class="nav-link">Survey</a>
             <a href="#species" class="nav-link">Species</a>
             <a href="#links" class="nav-link">Links</a>

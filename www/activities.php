@@ -6,16 +6,21 @@
 
     <h2 id="activities">Activities</h2>
 
-    <p>Cooleman Ridge is a delightful place for walking, cycling, horse riding and admiring views of Canberra on one side and the Bullen, Tidbinbilla and Brindabella ranges on the other.</p>
+    <p>Cooleman Ridge is a delightful place for walking, cycling, horse riding and admiring views of Canberra on one side and the Brindabella, Tidbinbilla and Bullen ranges on the other. The Ridge can be accessed from many places in Chapman: Kathner St (northern end), Chauvel Circle, Monkman Cct, Titheridge Pl, Freebody Pl, Darrell Pl, Guinness Pl, Chapman Primary School green belt, Hertz Pl, Lincoln Pl, Pelham Cl, Namatjira Dr, Mt Arawang (southern end). Access from Kambah is via Fisken Cr, McGivern Cr and the Kambah Pony Club. (see <a href="https://www.google.com/maps/d/u/0/viewer?mid=1Yuo-h9YN4niHzF8BQ1L1pxT-hTqav0zJ&ll=-35.36077997884119%2C149.03538565&z=13">MAP</a>)
+    </p>
+
+    <p>Dogs are allowed on the Ridge but must be on lead.</p>
 
 
-    <h3 id="walking">Walking</h3>
+    <h3 id="walking">Walking and Running</h3>
 
-    <p>Cooleman Ridge has many nice walks. Here is a list of some of the best walks on the ridge that the group
-        recommends.</p>
+    <p>
+        There are many well established trails for walking and running. The Bicentennial National Trail (BNT)runs along the back of the Ridge, and the Cutoff Drain Fire Trail (FT) runs along the front behind the houses of Chapman. There are many connecting paths between the two so it is easy to construct different and varied loop walks. The circular loop around the whole Ridge from Kathner St in the north around Mt Arawang in the south and return takes just over two hours.
+    </p>
 
-    <p>Five suggested walks with specific directions are listed below. Each walk is also displayed on the map at the
-        bottom using the specific colour mentioned in the walk description.</p>
+    <p>
+        Five suggested walks are outlined in colours on this <a href="https://www.google.com/maps/d/u/0/viewer?mid=1Yuo-h9YN4niHzF8BQ1L1pxT-hTqav0zJ&ll=-35.36077997884119%2C149.03538565&z=12">MAP</a> with specific directions below. <a href="../docs/cooleman-walks.pdf">Here</a> is a pdf version of those directions if you wish to print them.
+    </p>
 
     <h4 id="mtarawangloop">Mt Arawang Loop</h4>
 
@@ -81,53 +86,13 @@
         including a map, can be found in a brochure which is available in boxes at Kathner St and the bottom of the
         Trig.</p>
 
-    <p>The following map displays the route of the above walks. You can click on a coloured area for more information about each walk.</p>
-
-    <div id="walks-map" style="height: 600px" class="map"></div>
-
-    <script>
-        let map;
-
-        function initMap() {
-
-
-            var mapOptions = {
-                zoom: 15,
-
-                center: { lat: -35.361451, lng: 149.033615 },
-
-                mapTypeId: google.maps.MapTypeId.SATELLITE
-            };
-
-            map = new google.maps.Map(document.getElementById('walks-map'), mapOptions);
-
-            var groups = new google.maps.KmlLayer({
-
-                url: 'http://www.coolemanridge.org.au/maps/walks.kmz?foo=1',
-
-                map: map
-
-            });
-        }
-    </script>
-
-    <div>
-        <a href="/maps/walks.kmz">Export as KML file</a>
-    </div>
-
-    <br>
-
     <h3 id="cycling">Cycling</h3>
 
     <p>The <a href="https://www.environment.act.gov.au/parks-conservation/parks-and-reserves/find-a-park/rural/canberra-centenary-trail">Centenary Trail</a> runs over Cooleman Ridge and is a good route for bike riders.</p>
 
-    <h3 id="birdwatching">Birdwatching</h3>
-
-    <p class="tbc">To Be Completed</p>
-
     <h3 id="horseriding">Horseriding</h3>
 
-    <p>Horse riders can access the Ridge from Kathner St at the northern end, and through the horse paddocks near Mt Arawang at the southern end. The only route available to horse riders on Cooleman Ridge is along the Bicentennial National Trail (BNT). The BNT was established for horse riders in 1988 and runs from Healesville in Victoria to Cooktown in Queensland.</p>
+    <p>Horse riders can access the Ridge from Kathner St at the northern end, and through the horse paddocks near Mt Arawang at the southern end. The only route available to horse riders on Cooleman Ridge is along the <a href="https://www.bicentennialnationaltrail.com.au/">Bicentennial National Trail (BNT)</a>. The BNT was established for horse riders in 1988 and runs from Healesville in Victoria to Cooktown in Queensland.</p>
 
     <p>Horse riding is not permitted on the other walking/cycling tracks on the Ridge.</p>
 
@@ -141,7 +106,6 @@
 
     <p>These are ideal spots for viewing and listening to wildlife and just contemplating nature.</p>
 
-
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -151,9 +115,8 @@
     <div class="sticky-top">
         <div class="nav flex-column">
             <a href="#activities" class="nav-link">Activities</a>
-            <a href="#walking" class="nav-link">Walking</a>
+            <a href="#walking" class="nav-link">Walking and Running</a>
             <a href="#cycling" class="nav-link">Cycling</a>
-            <a href="#birdwatching" class="nav-link">Birdwatching</a>
             <a href="#horse-riding" class="nav-link">Horseriding</a>
             <a href="#contemplating" class="nav-link">Contemplating</a>
         </div>

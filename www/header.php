@@ -2,6 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M8T7RFW');</script>
+    <!-- End Google Tag Manager -->
     <title>Cooleman Ridge Park Care Group</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -96,7 +103,7 @@
         }
 
         #plantations-map {
-            height: 100%;
+            height: 600px;
         }
 
         #areas-map {
@@ -178,14 +185,11 @@
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">The Group</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">About the Group</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="organisation.php">Organisation</a>
+                        <a class="dropdown-item" href="organisation.php">About</a>
                         <a class="dropdown-item" href="group-history">History</a>
-                        <a class="dropdown-item" href="work">Work</a>
-                        <a class="dropdown-item" href="strategy">Strategy</a>
-                        <a class="dropdown-item" href="meetings">Meetings</a>
                         <a class="dropdown-item" href="partners">Partners</a>
                         <a class="dropdown-item" href="documents">Documents</a>
                         <a class="dropdown-item" href="contact">Contact</a>
@@ -194,48 +198,24 @@
 
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">The Ridge</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">About the Ridge</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="land">Land</a>
+                        <a class="dropdown-item" href="location">Location</a>
+                        <a class="dropdown-item" href="history">History</a>
                         <a class="dropdown-item" href="water">Water</a>
                         <a class="dropdown-item" href="fire">Fire</a>
                         <a class="dropdown-item" href="flora">Flora</a>
                         <a class="dropdown-item" href="fauna">Fauna</a>
-                        <a class="dropdown-item" href="history">History</a>
-                        <a class="dropdown-item" href="activities">Activities</a>
-                        <a class="dropdown-item" href="weeds">Weeds</a>
                     </div>
-                </li>
-
-                <!--<li class="nav-item dropdown">
-
-                    <a class="nav-link dropdown-toggle" href="#" id="activities" data-toggle="dropdown">Our Activities</a>
-
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="walking-new">Walking</a>
-                        <a class="dropdown-item" href="horseriding-new#">Horse Riding</a>
-                        <a class="dropdown-item" href="bikeriding-new">Bike Riding</a>
-                    </div>
-
-                </li>-->
-
-                <li class="nav-item dropdown">
-
-                    <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Surveys</a>
-
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="animal-survey">Animals</a>
-                        <a class="dropdown-item" href="plant-survey">Plants</a>
-                        <a class="dropdown-item" href="tree-survey">Trees</a>
-                        <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
-                        <a class="dropdown-item" href="dam-survey">Dams</a>
-                    </div>
-
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="news">Newsletters</a>
+                    <a class="nav-link" href="activities">Visitor Activities</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="news">Newsletter</a>
                 </li>
 
                 <li class="nav-item">

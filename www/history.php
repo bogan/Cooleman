@@ -6,19 +6,19 @@
 
     <h2 id="history">History</h2>
 
-    <p>
-        The Cooleman Ridge Parkcare Group maintains a history of the ridge, the homestead and the reserve. The group believes that it is important to preserve this history for future generations.
+    <h3>Geology of Cooleman Ridge</h3>
+
+    <p>Canberra is built largely on rocks of Ordovician age (420 million years old). Cooleman Ridge sits almost entirely
+        on Ordovician volcanic rocks referred to as the Laidlaw Volcanic Suite. This suite is divided into two units or
+        formations which are slightly different in composition. The older unit is referred to as the Deakin Volcanics
+        and the younger unit as the Laidlaw Volcanics. The saddle between Narrabundah Hill and Cooleman Ridge forms the
+        boundary between the Deakin Volcanics and the Laidlaw Volcanics. The Laidlaw Volcanics underlie most of Cooleman
+        Ridge to Mount Arawang and beyond to the south. For further and more detailed information see Geology [link]
     </p>
 
-    <p>
-        This information has been compiled from many sources over the years, including from local historians, newspapers, landholders and the general community. If you think you can <a href="work#contribute">contribute</a> to the history in anyway, please <a href="contact">contact</a> us.
-    </p>
+    <p><cite>Dr. John F. Lindsay</cite></p>
 
-    <p>
-        The following is a summary of this history.
-    </p>
-
-    <h3 id="indigenous">Indigenous People</h3>
+    <h3 id="indigenous">Indigenous People and the Ridge</h3>
 
     <p>Cooleman Ridge is within an area rich in Aboriginal cultural heritage sites. However, there have been no
         significant discoveries of artifacts or cultural sites of importance on the Ridge. Most discoveries of such
@@ -38,7 +38,7 @@
 
     <p><cite>Mike Morriss</cite></p>
 
-    <h3 id="european-grazing">European Settlement</h3>
+    <h3 id="european-grazing">European Grazing</h3>
 
     <p>The area in which Mt Arawang and the current Arawang Homestead are located was included in a grant in 1841 to
         George Weston, a former captain of the East India Company.</p>
@@ -102,10 +102,6 @@
         In 1959, the property was taken over by Mr Burt Thornely. As part of managing the land, clover, lucerne and phalaris were planted and fertilised with superphosphate. The Thornelys handed back the lease to the government in 1975.
     </p>
 
-<!--    <p>-->
-<!--        The early 1970s saw withdrawal of several pockets of land for the development of Kambah. In addition urban development on the north side of Mt Arawang resulted in increased numbers of dog incursions and trespassing by Chapman residents on the agistment land on Mt Arawang. The Thornelys handed back the lease to the government in 1975.-->
-<!--    </p>-->
-
     <p>
         The current owner of the property is ACT Housing. Prior to Housing taking over the lease in 1984, the Department of Capital Territory’s Conservation and Agricultural Branch used the property as a Ranger’s residence.
     </p>
@@ -113,32 +109,6 @@
     <p>
         From photographs in the source documents the homestead looks unaltered from its early period and was fortunately saved from the 2003 fires.
     </p>
-
-    <h3 id="reserve">The Reserve</h3>
-
-    <p>
-        The ridge became a nature reserve in the 1980's and has been part of Canberra Nature Park formally since 1993.
-    </p>
-
-    <p>
-        The most significant change to result from becoming a reserve is that intensive grazing and clearing largely ceased on the ridge.
-    </p>
-
-    <p>
-        This removed significant pressure on the native flora and fauna and they have been slowly recovering since then.
-    </p>
-
-    <p>
-        The group is now trying to accelerate this natural regeneration via its <a href="strategy">strategy</a>.
-    </p>
-
-    <!--p>
-        The ridge has been part of various rural properties and the ecology of the ridge has been significantly changed to fit in with the thinking of the day.
-    </p>
-
-    <p>
-        The ridge has since became a nature reserve in the 1980's.
-    </p-->
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -148,12 +118,11 @@
 <div class="col-sm-2">
     <div class="sticky-top">
         <div class="nav flex-column">
-            <a href="#history" class="nav-link">History</a>
-            <a href="#indigenous" class="nav-link">Indigenous People</a>
-            <a href="#european-grazing" class="nav-link">European Settlement</a>
+            <a href="#history" class="nav-link">Geology of Cooleman Ridge</a>
+            <a href="#indigenous" class="nav-link">Indigenous People and the Ridge</a>
+            <a href="#european-grazing" class="nav-link">European Grazing</a>
             <a href="#homestead" class="nav-link">Homestead</a>
-            <a href="#reserve" class="nav-link">Reserve</a>
-        </div>
+         </div>
     </div>
 </div>
 

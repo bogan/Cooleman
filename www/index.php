@@ -104,7 +104,7 @@
         }
 
         #plantations-map {
-            height: 100%;
+            height: 600px;
         }
 
         #areas-map {
@@ -157,14 +157,11 @@
         <ul class="navbar-nav">
             <li class="nav-item dropdown">
 
-                <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">The Group</a>
+                <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">About the Group</a>
 
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="organisation.php">Organisation</a>
+                    <a class="dropdown-item" href="organisation.php">About</a>
                     <a class="dropdown-item" href="group-history">History</a>
-                    <a class="dropdown-item" href="work">Work</a>
-                    <a class="dropdown-item" href="strategy">Strategy</a>
-                    <a class="dropdown-item" href="meetings">Meetings</a>
                     <a class="dropdown-item" href="partners">Partners</a>
                     <a class="dropdown-item" href="documents">Documents</a>
                     <a class="dropdown-item" href="contact">Contact</a>
@@ -173,17 +170,15 @@
 
             <li class="nav-item dropdown">
 
-                <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">The Ridge</a>
+                <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">About the Ridge</a>
 
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="land">Land</a>
+                    <a class="dropdown-item" href="location">Location</a>
+                    <a class="dropdown-item" href="history">History</a>
                     <a class="dropdown-item" href="water">Water</a>
                     <a class="dropdown-item" href="fire">Fire</a>
                     <a class="dropdown-item" href="flora">Flora</a>
                     <a class="dropdown-item" href="fauna">Fauna</a>
-                    <a class="dropdown-item" href="history">History</a>
-                    <a class="dropdown-item" href="activities">Activities</a>
-                    <a class="dropdown-item" href="weeds">Weeds</a>
                 </div>
             </li>
 
@@ -199,22 +194,12 @@
 
             </li>-->
 
-            <li class="nav-item dropdown">
-
-                <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Surveys</a>
-
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="animal-survey">Animals</a>
-                    <a class="dropdown-item" href="plant-survey">Plants</a>
-                    <a class="dropdown-item" href="tree-survey">Trees</a>
-                    <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
-                    <a class="dropdown-item" href="dam-survey">Dams</a>
-                </div>
-
+            <li class="nav-item">
+                <a class="nav-link" href="activities">Visitor Activities</a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="news">Newsletters</a>
+                <a class="nav-link" href="news">Newsletter</a>
             </li>
 
             <li class="nav-item">

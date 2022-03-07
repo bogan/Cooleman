@@ -8,7 +8,7 @@
 
     <!--<p>Water is an important part of the ecology of Cooleman Ridge. Unfortunately, water is one feature of the ridge that is not very common with little in the way of permanent natural water sources.</p>-->
 
-    <p>Cooleman Ridge has various water features within its boundaries including watercourses, reservoirs and dams.
+    <p>There are numerous ephemeral watercourses over Cooleman Ridge, two reservoirs and two dams within its boundaries.  Kathner St Dam is found just inside the northern entrance, and the Old Dam is about 1 km south of the Kathner St entrance on the Bicentennial Nature Trail.</p>
 
     <h3 id="headwaters">Headwaters</h3>
 
@@ -22,34 +22,7 @@
         <li>The southeast aspect of the ridge drains into Lake Tuggeranong.</ul>
     </li>
 
-    <!--<ul>
-        <li><strong>Bulgar Creek</strong> - located on the north west of the ridge and flows to the Murrumbidgee River.</li>
-        <li><strong>Weston Creek</strong> - located on the north east side of the ridge and flows into the Molonglo River.</li>
-        <li><strong>Village Creek</strong> - located on the the south east end of the ridge and flows into Lake Tuggeranong.</li>
-        <li><strong>New Station Creek</strong> - located on the south west edge of the ridge and flows into the Murrumbidgee River.</li>
-    </ul>
--->
-    <p>There are no permanent water courses found on the ridge. The creeks are intermittent and only flow for a short time after heavy rain.</p>
-
     <h3 id="dams">Dams</h3>
-
-    <p>Cooleman Rige has two dams located within its boundaries - the Kathner St Dam and the Old Dam.</p>
-
-  <!--  <p>
-        These dams were created principally to support cattle grazing on the ridge, either prior to the ridge becoming a reserve (eg. The Old Dam and Dry Dams) or after it (e.g. Kathner Street Dam). A secondary reason for their creation was to help in firefighting in the event of a fire occuring on the ridge.
-    </p>
-
-    <p>
-        The main role these dams serve today is to act as artificial wetlands. They provide important habitats for various aquatic species including fish, frogs, ducks, turtles and insects. They play an important role in preserving the biodiversity of the ridge.
-    </p>
-
-    <p>
-        These dams are a major focus of the work that group does as they provide both important environmental and recreational benefits.
-    </p>
-
-    <p>
-        These dams are the focus of our Dam Survey which provides a photographic record of the dams over several years. Please see our <a href="dam-survey">Dam Survey</a> page for more details.
-    </p>-->
 
     <h4>Kathner St Dam</h4>
 
@@ -127,7 +100,7 @@
         from the octagonal reservoir was affected because power was down. A generator was brought in to maintain
         supply.</p>
 
-    <h3 id="monitoring">Monitoring</h3>
+    <h3 id="monitoring">Water Watch</h3>
 
     <p>A member of the CRPCG tests the water quality of the Kathner and Old on a monthly basis, and sends the results in to the
         <a href="https://www.act.waterwatch.org.au/">Waterwatch</a> database.</p>

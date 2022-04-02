@@ -195,7 +195,7 @@
     <ul>
         <li>Weeding when you are simply out enjoying the ridge</li>
         <li>Propagating plants for future planting on the ridge</li>
-        <li>Writing an article for our monthly <a href="news">newsletter</a></li>
+        <li>Writing an article for our monthly <a href="newsletters.php">newsletter</a></li>
         <li>Reporting interesting sightings of plants and animals found on the ridge to <a target="_blank" href="http://canberra.naturemapr.org">Canberra Nature Map</a></li>
         <li>Taking photos and sharing them with the group</li>
         <li>Collecting rubbish from the ridge</li>

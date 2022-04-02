@@ -15,7 +15,7 @@
     </p>
 
     <p>
-        The meetings are normally held on the 3rd Sunday of the month and are held at one of our 6 designated <a href="work#group-areas">Group Areas</a>. The meetings in the hotter months (November to February) are held in the cool of the morning while during the cooler months (March to October) the meetings are held in the afternoon. The exact time and location is published the in the relevant months <a href="news">newsletter</a>.
+        The meetings are normally held on the 3rd Sunday of the month and are held at one of our 6 designated <a href="work#group-areas">Group Areas</a>. The meetings in the hotter months (November to February) are held in the cool of the morning while during the cooler months (March to October) the meetings are held in the afternoon. The exact time and location is published the in the relevant months <a href="newsletters.php">newsletter</a>.
     </p>
 
     <p>
@@ -28,7 +28,7 @@
 
     <ul>
         <li>To work intensively on a specific <a href="work#group-areas">Group Area</a> of the ridge</li> as part of its <a href="strategy">strategy</a> to rehabilitate the ridge.
-        <li>To exchange group <a href="news">news</a> and gossip</li>
+        <li>To exchange group <a href="newsletters.php">news</a> and gossip</li>
         <li>To motivate members and non members</li>
         <li>To introduce new members to the group and its <a href="work">work</a></li>
         <li>To enjoy the ridge with have a cup of tea and cake!</li>
@@ -74,7 +74,7 @@
     </ul>
 
     <p>
-        The Annual General Meeting is normally held in the month of October. The exact time and location is published the months <a href="news">newsletter</a>.
+        The Annual General Meeting is normally held in the month of October. The exact time and location is published the months <a href="newsletters.php">newsletter</a>.
     </p>
 
     <p>&nbsp;</p>

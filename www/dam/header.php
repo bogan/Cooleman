@@ -21,8 +21,8 @@
       href="../members.php"><IMG alt="" border=2
                                  src="../../images/douglas.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../news.php"><IMG alt="" border=2
-                              src="../../images/bench.jpg" width=60 height=60></A></TD>
+      href="../newsletters.php"><IMG alt="" border=2
+                                     src="../../images/bench.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../walks.php"><IMG alt="" border=2
                                src="../../images/damwalk.jpg" width=60 height=60></A></TD>
@@ -51,7 +51,7 @@
     <TD height="30" align="center"><A 
       href="../members.php">Members</A></TD>
     <TD height="30" align="center"><A 
-      href="../news.php">News</A></TD>
+      href="../newsletters.php">News</A></TD>
     <TD height="30" align="center"><A 
       href="../walks.php">Walks</A></TD>
     <TD height="30" align="center"><A 

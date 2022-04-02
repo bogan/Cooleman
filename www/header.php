@@ -2,6 +2,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DMWFMDVZJ6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-DMWFMDVZJ6');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M8T7RFW');</script>
+    <!-- End Google Tag Manager -->
+
     <title>Cooleman Ridge Park Care Group</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -102,7 +120,6 @@
     </style>
 </head>
 <body>
-
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
 
 
@@ -127,7 +144,7 @@
                         <a class="dropdown-item" href="work">Work</a>
                         <a class="dropdown-item" href="strategy">Strategy</a>
                         <a class="dropdown-item" href="meetings">Meetings</a>
-                        <a class="dropdown-item" href="partners">Partners</a>
+                        <a class="dropdown-item" href="partners">Partners and Other Park Care Groups</a>
                         <a class="dropdown-item" href="documents">Documents</a>
                         <a class="dropdown-item" href="contact">Contact</a>
                     </div>
@@ -179,7 +196,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="news">Our News</a>
+                    <a class="nav-link" href="newsletters.php">Our News</a>
                 </li>
 
                 <li class="nav-item">

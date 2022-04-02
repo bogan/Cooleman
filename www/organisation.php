@@ -35,7 +35,7 @@
     </p>
 
     <p>
-        If you want to find out more about the group, a great resource is to read some of the group's <a href="news">newsletters</a> which provide a more detailed account of the activities of the group over the years.
+        If you want to find out more about the group, a great resource is to read some of the group's <a href="newsletters.php">newsletters</a> which provide a more detailed account of the activities of the group over the years.
     </p>
 
     <h3 id="mission">Mission</h3>

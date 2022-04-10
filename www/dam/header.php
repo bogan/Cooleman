@@ -6,7 +6,7 @@
       href="../index.php"><IMG alt="" border=2
                                src="../../images/treesil.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../organisation.php"><IMG alt="" border=2
+      href="../about.php"><IMG alt="" border=2
                                src="../../images/fernemb.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../ridge.php"><IMG alt="" border=2
@@ -41,7 +41,7 @@
     <TD height="30" align="center"><A 
       href="../index.php">Home</A></TD>
     <TD height="30" align="center"><A 
-      href="../organisation.php">About</A></TD>
+      href="../about.php">About</A></TD>
     <TD height="30" align="center"><A 
       href="../ridge.php">Ridge</A></TD>
     <TD height="30" align="center"><A 

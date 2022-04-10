@@ -6,7 +6,7 @@
 
     <h2 id="fire">Fire</h2>
     
-    <h3>Fire Management on Cooleman Ridge</h3>
+    <h3 id="management">Fire Management on Cooleman Ridge</h3>
 
     <p>The Ridge has always been affected by fires. Burning was introduced by Aborigines who regularly used low
         intensity fires to manage the land for their purposes.</p>
@@ -36,7 +36,7 @@
     <p>However, fire management on the Ridge is no match for the type of catastrophic fire that swept over it in
         2003.</p>
 
-    <h3>Fire on Cooleman Ridge, Saturday 18th January 2003</h3>
+    <h3 id="2003">Fire on Cooleman Ridge, Saturday 18th January 2003</h3>
 
     <p>A lightning strike started the fire at McIntyre’s Hut in southern NSW in the week before Saturday 18 January. It
         rapidly spread and by early afternoon on the Saturday it had swept up and over the Ridge and into the
@@ -58,6 +58,12 @@
 
 </div>
 <div class="col-sm-2">
+    <div class="sticky-top">
+        <div class="nav flex-column">
+            <a href="#managment" class="nav-link">Fire Management on Cooleman Ridge</a>
+            <a href="#2003" class="nav-link">Fire on Cooleman Ridge, Saturday 18th January 2003</a>
+        </div>
+    </div>
     
 </div>
 

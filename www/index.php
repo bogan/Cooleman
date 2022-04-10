@@ -160,10 +160,11 @@
                 <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">About the Group</a>
 
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="organisation.php">About</a>
-                    <a class="dropdown-item" href="group-history">History</a>
-                    <a class="dropdown-item" href="partners">Partners</a>
+                    <a class="dropdown-item" href="about.php">About</a>
+                    <a class="dropdown-item" href="members.php">Members</a>
+                    <a class="dropdown-item" href="group-history">History of the Cooleman Ridge Park Care Group (CRPCG) </a>
                     <a class="dropdown-item" href="documents">Documents</a>
+                    <a class="dropdown-item" href="partners">Partners and Other Park Care Groups</a>
                     <a class="dropdown-item" href="contact">Contact</a>
                 </div>
             </li>
@@ -194,8 +195,17 @@
 
             </li>-->
 
-            <li class="nav-item">
-                <a class="nav-link" href="activities">Visitor Activities</a>
+            <li class="nav-item dropdown">
+
+                <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">Visitor Activities</a>
+
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="activities">Visitor Activities</a>
+                    <a class="dropdown-item" href="walking">Walking and Running</a>
+                    <a class="dropdown-item" href="cycling">Cycling</a>
+                    <a class="dropdown-item" href="horseriding">Horse Riding</a>
+                    <a class="dropdown-item" href="contemplating">Contemplating</a>
+                </div>
             </li>
 
             <li class="nav-item">

@@ -100,6 +100,38 @@
         from the octagonal reservoir was affected because power was down. A generator was brought in to maintain
         supply.</p>
 
+    <div id="water-map" class="map"></div>
+
+    <script>
+        let map;
+
+        function initMap() {
+
+
+            var mapOptions = {
+                zoom: 15,
+
+                center: { lat: -35.361451, lng: 149.033615 },
+
+                mapTypeId: google.maps.MapTypeId.SATELLITE
+            };
+
+            map = new google.maps.Map(document.getElementById('water-map'), mapOptions);
+
+            var groups = new google.maps.KmlLayer({
+
+                url: 'http://www.coolemanridge.org.au/maps/water.kml',
+
+                map: map
+
+            });
+        }
+    </script>
+
+    <div>
+        <a href="/maps/water.kml">Export as KML file</a>
+    </div>
+
     <h3 id="monitoring">Water Watch</h3>
 
     <p>A member of the CRPCG tests the water quality of the Kathner and Old on a monthly basis, and sends the results in to the
@@ -193,44 +225,7 @@
     <p>*Approximate reading based on figures in Rivett</p>
 
 
-    <h3 id="map">Map</h3>
 
-    <p>
-        Please click on one of the markers to obtain more information about the various dams found on the ridge.
-    </p>
-
-
-    <div id="water-map" class="map"></div>
-
-    <script>
-        let map;
-
-        function initMap() {
-
-
-            var mapOptions = {
-                zoom: 15,
-
-                center: { lat: -35.361451, lng: 149.033615 },
-
-                mapTypeId: google.maps.MapTypeId.SATELLITE
-            };
-
-            map = new google.maps.Map(document.getElementById('water-map'), mapOptions);
-
-            var groups = new google.maps.KmlLayer({
-
-                url: 'http://www.coolemanridge.org.au/maps/water.kml',
-
-                map: map
-
-            });
-        }
-    </script>
-
-    <div>
-        <a href="/maps/water.kml">Export as KML file</a>
-    </div>
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>

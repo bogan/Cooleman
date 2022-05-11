@@ -399,9 +399,27 @@
         </div>
     </div>
 
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+    <p/>
+
+    <h3 id="links">Links</h3>
+
+    <ul>
+        <li><a href="https://canberra.naturemapr.org/Species/Lists/3">Nasty Weeds in the ACT</a></li>
+
+        <li><a href="https://www.iconwater.com.au/~/media/files/icon-water/environment/appendix-a-weed-management-sub-plan.pdf?la=en">Local Weed Management Plan</a></li>
+
+        <li><a href="https://www.dpi.nsw.gov.au/biosecurity/weeds">General Weed Information</a></li>
+
+        <li><a href="https://molonglo.org.au/Information/Weeds">Local weed info</a></li>
+
+        <li><a href="https://molonglo.org.au/sites/default/files/Fact%20sheets/Weeds/04%20ControlCalendar.pdf">Calendar of when to treat weeds</a></li>
+
+        <li><a href="https://www.anbg.gov.au/weeds/">Australian Weeds</a></li>
+    </ul>
+
+    <p/>
+    <p/>
+    <p/>
 
 </div>
 <div class="col-sm-2">
@@ -412,6 +430,7 @@
             <a href="#history" class="nav-link">History</a>
             <a href="#distribution" class="nav-link">Distribution</a>
             <a href="#types" class="nav-link">Types</a>
+            <a href="#links" class="nav-link">Links</a>
         </div>
     </div>
 </div>

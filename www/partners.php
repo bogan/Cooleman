@@ -10,10 +10,9 @@
         The group works with a number of other organisations to help care for the Cooleman Ridge Nature Reserve. These include:
     </p>
 
-    <h3 id="parksandconservation">ACT Parks and Conservation Service</h3>
+    <h3 id="parks-and-conservation">ACT Parks and Conservation Service</h3>
 
     <img src="images/parks.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px "/>
-
 
     <p>The <a target="_blank" href="http://www.environment.act.gov.au/ACT-parks-conservation">ACT Parks and Conservation Service</a> is the main government agency responsible for the daily management of the nature reserve.</p>
 
@@ -23,7 +22,7 @@
 
     <br/>
 
-    <h3>Southern ACT Catchment Group</h3>
+    <h3 id="sactcg">Southern ACT Catchment Group</h3>
 
     <img src="images/sactcg.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -33,7 +32,7 @@
 
     <br/>
 
-    <h3>Green Army</h3>
+    <h3 id="green-army">Green Army</h3>
 
     <img src="images/greenarmy.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -47,7 +46,7 @@
 
     <br/>
 
-    <h3>Landcare Australia</h3>
+    <h3 id="landcare-australia">Landcare Australia</h3>
 
     <img src="images/landcare.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -59,7 +58,7 @@
 
     <br/>
 
-    <h3>Canberra Nature Map</h3>
+    <h3 id="canberra-nature-map">Canberra Nature Map</h3>
 
     <img src="images/canberranaturemap.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -69,7 +68,7 @@
 
     <br/>
 
-    <h3>Australian National Botanical Gardens</h3>
+    <h3 id="botanical-gardens">Australian National Botanical Gardens</h3>
 
     <img src="images/anbg.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -77,13 +76,52 @@
 
     <p>The group often liaises with the Australian National Botanic Gardens to help identify plant species found on the ridge.</p>
 
+    <br>
+
+    <br>
+
+    <h3 id="water-watch">Upper Murrumbidgee Waterwatch</h3>
+
+    <img src="images/waterwatch.png" style="height:100px;width:200px;float:left;padding:5px;margin: 5px; background-color: rgba(1, 75, 148, 1)"/>
+
+    <p><a target="_blank" href="https://www.act.waterwatch.org.au/">Upper Murrumbidgee Waterwatch</a> engages the community in the environment through monitoring and caring for our catchments.</p>
+
+    <p>The group collaborates with Waterwatch to monitor the health of the dams on the ridge.</p>
+
+    <br>
+
+    <br>
+
+    <h3 id="other-parkcare-groups">Other Parkcare Groups</h3>
+
+    <p>The group often liaises with the other Parkcare groups that are located nearby. These include:</p>
+
+    <ul>
+        <li><a href="https://www.facebook.com/urambihillsgroup/">Friends of Urambi Hills</a></li>
+        <li><a href="http://taylorparkcare.50webs.com/">Mt Taylor Parkcare Group</a></li>
+        <li><a href="https://www.facebook.com/OakeyHillParkcare/">Oakey Hill Parkcare Group</a></li>
+        <li><a href="http://redhillregenerators.org.au/">Red Hill Regeneration Group</a></li>
+    </ul>
+
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 
 </div>
 <div class="col-sm-2">
-
+    <div class="sticky-top">
+        <div class="nav flex-column">
+            <a href="#partners" class="nav-link">Partners</a>
+            <a href="#parks-and-conservation" class="nav-link">Parks and Conservation</a>
+            <a href="#sactcg" class="nav-link">Southern ACT Catchment Group</a>
+            <a href="#green-army" class="nav-link">Green Army</a>
+            <a href="#landcare-australia" class="nav-link">Landcare Australia</a>
+            <a href="#canberra-nature-map" class="nav-link">Canberra Nature Map</a>
+            <a href="#botanical-gardens" class="nav-link">Botanical Gardens</a>
+            <a href="#water-watch" class="nav-link">Waterwatch</a>
+            <a href="#other-parkcare-groups" class="nav-link">Other Parkcare Groups</a>
+        </div>
+    </div>
 </div>
 
 <?php include 'footer.php'; ?>

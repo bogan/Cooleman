@@ -6,7 +6,7 @@
       href="../index.php"><IMG alt="" border=2
                                src="../../images/treesil.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../organisation.php"><IMG alt="" border=2
+      href="../about.php"><IMG alt="" border=2
                                src="../../images/fernemb.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../ridge.php"><IMG alt="" border=2
@@ -24,7 +24,7 @@
       href="../newsletters.php"><IMG alt="" border=2
                                      src="../../images/bench.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../walks.php"><IMG alt="" border=2
+      href="../walks1.php"><IMG alt="" border=2
                                src="../../images/damwalk.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../fauna.php"><IMG alt="" border=2
@@ -33,7 +33,7 @@
       href="../fire.php"><IMG alt="" border=2
                               src="../../images/silhiv.jpg" width=60 height=60></A></TD>
 	<TD width=76 align=center><A 
-      href="../walks.php"><IMG alt="" border=2
+      href="../walks1.php"><IMG alt="" border=2
                                src="../../images/alice.jpg" width=60 height=60></A></TD>
     <TD width=20>&nbsp;</TD></TR>
   <TR>
@@ -41,7 +41,7 @@
     <TD height="30" align="center"><A 
       href="../index.php">Home</A></TD>
     <TD height="30" align="center"><A 
-      href="../organisation.php">About</A></TD>
+      href="../about.php">About</A></TD>
     <TD height="30" align="center"><A 
       href="../ridge.php">Ridge</A></TD>
     <TD height="30" align="center"><A 
@@ -53,7 +53,7 @@
     <TD height="30" align="center"><A 
       href="../newsletters.php">News</A></TD>
     <TD height="30" align="center"><A 
-      href="../walks.php">Walks</A></TD>
+      href="../walks1.php">Walks</A></TD>
     <TD height="30" align="center"><A 
       href="../fauna.php">Wildlife</A></TD>
     <TD height="30" align="center"><A 

@@ -2,16 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DMWFMDVZJ6"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-DMWFMDVZJ6');
-    </script>
-
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -19,7 +9,6 @@
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-M8T7RFW');</script>
     <!-- End Google Tag Manager -->
-
     <title>Cooleman Ridge Park Care Group</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,9 +25,29 @@
 
     <style type="text/css">
 
+        h4{
+            color:saddlebrown;
+        }
+
         td
         {
             padding:5px
+        }
+
+        table#rainfall
+        {
+            table-layout: fixed;
+            width: 600px;
+        }
+
+        table#rainfall th
+        {
+            text-align:center;
+        }
+
+        table#rainfall td
+        {
+            text-align:right;
         }
 
         table.news
@@ -94,38 +103,77 @@
         }
 
         #plantations-map {
-            height: 100%;
+            height: 600px;
         }
 
         #areas-map {
-            height: 100%;
+            height: 600px;
         }
 
         #trails-map {
-            height: 100%;
+            height: 600px;
         }
 
         #hills-map {
-            height: 100%;
+            height: 600px;
         }
 
         #water-map {
-            height: 100%;
+            height: 600px;
         }
 
-        #walksmap {
-            height: 100%;
+        #walks-map {
+            height: 600px;
         }
 
+        .walk-info{
+            display:inline;
+            border:2px;
+            width:100px;
+        }
+
+        .walk-info#green{
+            background-color: green;
+        }
+
+        .walk-info#yellow{
+            background-color: yellow;
+        }
+
+        .walk-info#purple{
+            background-color: purple;
+        }
+
+        .walk-info#blue{
+            background-color: blue;
+        }
+
+        .walk-info#red{
+            background-color: red;
+        }
+
+        .walk-info#pink{
+            background-color: pink;
+        }
+
+        a.brand{
+            color:lightgray;
+        }
+
+        a.brand:hover{
+            color:lightgray;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
+
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
 
 
         <!-- Brand -->
         <div class="navbar-brand" style="word-wrap: break-word;">
-            Cooleman Ridge Parkcare Group
+            <a href="/" class="brand">Cooleman Ridge Parkcare Group</a>
         </div>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
@@ -137,22 +185,21 @@
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">Our Group</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="group" data-toggle="dropdown">About the Group</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="organisation.php">Organisation</a>
-                        <a class="dropdown-item" href="work">Work</a>
-                        <a class="dropdown-item" href="strategy">Strategy</a>
-                        <a class="dropdown-item" href="meetings">Meetings</a>
-                        <a class="dropdown-item" href="partners">Partners and Other Park Care Groups</a>
+                        <a class="dropdown-item" href="about.php">About</a>
+                        <a class="dropdown-item" href="members.php">Members</a>
+                        <a class="dropdown-item" href="group-history">History of the Cooleman Ridge Park Care Group (CRPCG) </a>
                         <a class="dropdown-item" href="documents">Documents</a>
+                        <a class="dropdown-item" href="partners">Partners and Other Park Care Groups</a>
                         <a class="dropdown-item" href="contact">Contact</a>
                     </div>
                 </li>
 
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">Our Ridge</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">About the Ridge</a>
 
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="location">Location</a>
@@ -161,46 +208,28 @@
                         <a class="dropdown-item" href="fire">Fire</a>
                         <a class="dropdown-item" href="flora">Flora</a>
                         <a class="dropdown-item" href="fauna">Fauna</a>
-                        <a class="dropdown-item" href="hills">Hills</a>
-                        <a class="dropdown-item" href="trails">Trails</a>
-                        <a class="dropdown-item" href="walks">Walks</a>
-                        <a class="dropdown-item" href="plantations">Plantations</a>
-                        <a class="dropdown-item" href="weeds">Weeds</a>
                     </div>
                 </li>
-
-                <!--<li class="nav-item dropdown">
-
-                    <a class="nav-link dropdown-toggle" href="#" id="activities" data-toggle="dropdown">Our Activities</a>
-
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="walking-new">Walking</a>
-                        <a class="dropdown-item" href="horseriding-new#">Horse Riding</a>
-                        <a class="dropdown-item" href="bikeriding-new">Bike Riding</a>
-                    </div>
-
-                </li>-->
 
                 <li class="nav-item dropdown">
 
-                    <a class="nav-link dropdown-toggle" href="#" id="surveys" data-toggle="dropdown">Our Surveys</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="ridge" data-toggle="dropdown">Visitor Activities</a>
 
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="animal-survey">Animals</a>
-                        <a class="dropdown-item" href="plant-survey">Plants</a>
-                        <a class="dropdown-item" href="tree-survey">Trees</a>
-                        <a class="dropdown-item" href="blackberry-survey">Blackberries</a>
-                        <a class="dropdown-item" href="dam-survey">Dams</a>
+                        <a class="dropdown-item" href="activities">Visitor Activities</a>
+                        <a class="dropdown-item" href="walking">Walking and Running</a>
+                        <a class="dropdown-item" href="cycling">Cycling</a>
+                        <a class="dropdown-item" href="horseriding">Horse Riding</a>
+                        <a class="dropdown-item" href="contemplating">Contemplating</a>
                     </div>
-
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="newsletters.php">Our News</a>
+                    <a class="nav-link" href="newsletters.php">Newsletter</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="gallery">Our Gallery</a>
+                    <a class="nav-link" href="gallery">Gallery</a>
                 </li>
 
             </ul>

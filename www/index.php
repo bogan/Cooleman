@@ -209,7 +209,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="news">Newsletter</a>
+                <a class="nav-link" href="newsletters">Newsletter</a>
             </li>
 
             <li class="nav-item">

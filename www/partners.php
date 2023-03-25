@@ -4,7 +4,7 @@
 
 <div class="col-sm-8">
 
-    <h2>Partners</h2>
+    <h2>Partners and other groups</h2>
 
     <p>
         The group works with a number of other organisations to help care for the Cooleman Ridge Nature Reserve. These include:
@@ -32,20 +32,6 @@
 
     <br/>
 
-    <h3 id="green-army">Green Army</h3>
-
-    <img src="images/greenarmy.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
-
-    <p>
-        The <a target="_blank" href="http://www.environment.gov.au/land/green-army">Green Army</a> was a hands-on, practical environmental action program that supported local environment and heritage conservation projects across Australia. The Program delivered over 1,000 projects across Australia and engaged with over 11,000 young Australian’s as participants.
-    </p>
-
-    <p>
-        The Green Army assists the group by performing many hands on jobs such as weeding, spraying, and planting.
-    </p>
-
-    <br/>
-
     <h3 id="landcare-australia">Landcare Australia</h3>
 
     <img src="images/landcare.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
@@ -64,7 +50,7 @@
 
     <p><a target="_blank" href="https://canberra.naturemapr.org/">Canberra Nature Map</a> is a web site run by volunteers that records sightings of various plants, animals, etc in the various nature reserves throughout the ACT and its adjoining areas.</p>
 
-    <p>Canberra Nature Map assists the group by allowing the group to track the location of various species found on the ridge. It also complements several of our own surveys such as the <a href="plant-survey">Plant Survery</a> and the <a href="animal-survey">Animal Survey</a>.</p>
+    <p>Canberra Nature Map assists the group by allowing the group to track the location of various species found on the ridge. It also complements several of our own lists such as the <a href="plant-list.php">Plant List</a> and the <a href="animal-list.php">Animal List</a>.</p>
 
     <br/>
 
@@ -82,7 +68,7 @@
 
     <h3 id="water-watch">Upper Murrumbidgee Waterwatch</h3>
 
-    <img src="images/waterwatch.png" style="height:100px;width:200px;float:left;padding:5px;margin: 5px; background-color: rgba(1, 75, 148, 1)"/>
+    <img src="images/waterwatch.webp" style="height:100px;width:200px;float:left;padding:5px;margin: 5px; background-color: rgba(1, 75, 148, 1)"/>
 
     <p><a target="_blank" href="https://www.act.waterwatch.org.au/">Upper Murrumbidgee Waterwatch</a> engages the community in the environment through monitoring and caring for our catchments.</p>
 

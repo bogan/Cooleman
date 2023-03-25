@@ -164,7 +164,7 @@
                     <a class="dropdown-item" href="members.php">Members</a>
                     <a class="dropdown-item" href="group-history">History of the Cooleman Ridge Park Care Group (CRPCG) </a>
                     <a class="dropdown-item" href="documents">Documents</a>
-                    <a class="dropdown-item" href="partners">Partners and Other Park Care Groups</a>
+                    <a class="dropdown-item" href="partners">Partners and other groups</a>
                     <a class="dropdown-item" href="contact">Contact</a>
                 </div>
             </li>
@@ -175,11 +175,11 @@
 
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="location">Location</a>
+                    <a class="dropdown-item" href="flora">Flora</a>
+                    <a class="dropdown-item" href="fauna">Fauna</a>
                     <a class="dropdown-item" href="history">History</a>
                     <a class="dropdown-item" href="water">Water</a>
                     <a class="dropdown-item" href="fire">Fire</a>
-                    <a class="dropdown-item" href="flora">Flora</a>
-                    <a class="dropdown-item" href="fauna">Fauna</a>
                 </div>
             </li>
 
@@ -205,6 +205,19 @@
                     <a class="dropdown-item" href="cycling">Cycling</a>
                     <a class="dropdown-item" href="horseriding">Horse Riding</a>
                     <a class="dropdown-item" href="contemplating">Contemplating</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown">
+
+                <a class="nav-link dropdown-toggle" href="#" id="surveysandlists" data-toggle="dropdown">Surveys/Lists</a>
+
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="plant-list.php">Plant List</a>
+                    <a class="dropdown-item" href="animal-list.php">Animal List</a>
+                    <a class="dropdown-item" href="tree-survey.php">Tree Survey</a>
+                    <a class="dropdown-item" href="blackberry-survey.php">Blackberry Survey</a>
+                    <a class="dropdown-item" href="dam-survey.php">Dam Survey</a>
                 </div>
             </li>
 

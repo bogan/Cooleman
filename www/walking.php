@@ -47,7 +47,8 @@
     <p><strong>Duration: 10 mins</strong><br>
         <strong>Colour: Purple</strong>&nbsp;<span id="purple" class="walk-info">&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 
-    <p>Proceed through the gate on the left hand side of the end of Kathner St. A short way up the fire trail go right at the Nature Trail sign.</p>
+    <p>Proceed through the gate on the left hand side of the end of Kathner St. A short way up the fire trail go right at the Nature Trail sign.
+        See the <a href="/docs/CoolemanRidgeNatureTrail.pdf">Cooleman Ridge Nature Trail brochure</a> for more details</p>
 
     <h3 id="ridgeline-loop">The Ridge Line Loop</h3>
 
@@ -71,12 +72,12 @@
 
     <h3 id="cooleman-trig">Cooleman Trig Trail</h3>
 
-    <p><strong>Duration: allow one to two hours</strong><br>
+    <p><strong>Duration: Allow 1 hour</strong><br>
         <strong>Colour: Pink</strong>&nbsp;<span id="pink" class="walk-info">&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 
     <p>This walk proceeds from the northern end of the Ridge at Kathner St up to Cooleman Trig and return. Details,
         including a map, can be found in a brochure which is available in boxes at Kathner St and the bottom of the
-        Trig.</p>
+        Trig. See the <a href="/docs/CoolemanTrigNatureTrail.pdf">Cooleman Trig Walking Trail brochure</a> for more details</p>
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>

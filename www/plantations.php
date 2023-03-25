@@ -59,6 +59,8 @@
 
     <p>Please click on a coloured area for more information about each plantation.</p>
 
+    <p><cite>Note: Not all plantings have been shown on the map.</cite></p>
+
     <div id="plantations-map" class="map"></div>
 
     <script>

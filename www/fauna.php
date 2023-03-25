@@ -28,7 +28,7 @@
 
     <p>No fauna should be handled. If you come across one that is injured, contact ACT Wildlife.</p>
 
-    <p>For a full list of the fauna seen on the Ridge, see the <a href="animal-survey.php">Animal Survey</a>. Further information about and photos of fauna found on the Ridge can be viewed in the <a href="gallery.php">Gallery</a>.</p>
+    <p>For a full list of the fauna seen on the Ridge, see the <a href="animal-list.php">Animal List</a>. Further information about and photos of fauna found on the Ridge can be viewed in the <a href="gallery.php">Gallery</a>.</p>
 
     <p>The <a href="https://canberra.naturemapr.org/">Canberra Nature Map</a> is another good source to help identify fauna in the Canberra region.</p>
 

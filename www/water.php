@@ -134,7 +134,7 @@
 
     <h3 id="monitoring">Water Watch</h3>
 
-    <p>A member of the CRPCG tests the water quality of the Kathner and Old on a monthly basis, and sends the results in to the
+    <p>Members of the group test the water quality of the Kathner and Old dams on a monthly basis, and sends the results in to the
         <a href="https://www.act.waterwatch.org.au/">Waterwatch</a> database.</p>
 
     <p>This data reflects the health of the catchment area, which can be affected by changes in

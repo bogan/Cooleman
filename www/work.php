@@ -160,7 +160,7 @@
     <ul>
         <li>Reduced or eliminated many <a href="weeds">weeds</a>.</li>
         <li>Planted thousands of <a href="plantations">trees, shurbs, forbs and grasses</a>.</li>
-        <li>Surveyed the ridges <a href="plant-survey">plants</a>, <a href="animal-survey">animals</a>, <a href="tree-survey">trees</a>, <a href="dam-survey">dams</a> and <a href="blackberry-survey">blackberries</a>.</li>
+        <li>Surveyed the ridges <a href="plant-list.php">plants</a>, <a href="animal-list.php">animals</a>, <a href="tree-survey">trees</a>, <a href="dam-survey">dams</a> and <a href="blackberry-survey">blackberries</a>.</li>
         <li>Developed various <a href="trails">nature trails</a> for educational purposes.</li>
         <li>Documented the <a href="history">history</a> of the ridge.</li>
         <li>Petitioned for better infrastructure on the ridge (eg. signage, fencing, roads, track improvements, foot bridges, etc).</li>

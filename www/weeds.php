@@ -54,7 +54,7 @@
     </p>
 
     <p>
-        The best way to determine what species is a weed and what species is not a weed according to the group is to consult our <a href="plant-survey">Plant Survey</a>. This survey clearly identifies the status of the plant as either a Native or a Non Native (ie. weed)
+        The best way to determine what species is a weed and what species is not a weed according to the group is to consult our <a href="plant-list.php">Plant Survey</a>. This survey clearly identifies the status of the plant as either a Native or a Non Native (ie. weed)
     </p>
 
     <h3 id="history">History</h3>

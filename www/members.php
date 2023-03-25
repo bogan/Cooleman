@@ -11,10 +11,8 @@
 
     <p>New members are always welcome, even if they are unable to commit to regular attendance.</p>
 
-    <p>If you wish to join the Group, contact us through contact@coolemanridge.org.au, and you will receive our monthly
+    <p>If you wish to join the Group, contact us through <a href="mail:contact@coolemanridge.org.au">contact@coolemanridge.org.au</a>, and you will receive our monthly
         newsletter. There is no membership fee.</p>
-
-    <p>Further information for new members is available here.[Linda has this on Word]</p>
 
     <h3 id="regular">Regular Volunteer Opportunities</h3>
 
@@ -23,7 +21,7 @@
         removing invasive exotic species by various methods. Our latest Newsletter has specific details of our next
         meeting.</p>
 
-    <p>There is also a smaller group which meets every Friday morning near the Kather Street Dam.</p>
+    <p>There is also a smaller group which meets every Friday morning near the Kathner Street Dam.</p>
 
     <p>Individuals are encouraged to work on chosen areas in their own time once they have gained an understanding of
         methods of weeding and are able to distinguish the different weed species.</p>

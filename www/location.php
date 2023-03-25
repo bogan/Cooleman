@@ -12,7 +12,7 @@
         of 600 m above sea level. The ridge offers extensive views east and north over
         Canberra and west over the Bullen, Tidbinbilla and Brindabella ranges.</p>
 
-    <p>Access to the Ridge can be made from various points/streets (see <a href="https://www.google.com/maps/d/viewer?mid=1Yuo-h9YN4niHzF8BQ1L1pxT-hTqav0zJ&usp=sharing">MAP</a>.</p>
+    <p>Access to the Ridge can be made from various points/streets (see <a href="https://www.google.com/maps/d/viewer?mid=1Yuo-h9YN4niHzF8BQ1L1pxT-hTqav0zJ&usp=sharing">MAP</a>).</p>
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>

@@ -16,10 +16,8 @@
 
     <p>The Cooleman Ridge Park Care Group maintains an updated list of native and exotic species of plants that can be
         found on the Ridge.
-        Please see the <a href="plant-survey.php">Plant List</a> page for a complete list of identified species. Please note that you can vary your
-        options on the <a href="plant-survey.php">Plant List</a> and bring up more or less information.</p>
-
-    <p>The following list is some of the more common or easily identified native species found on the ridge.</p>
+        Please see the <a href="plant-list.php">Plant List</a> page for a complete list of identified species. Please note that you can vary your
+        options on the <a href="plant-list.php">Plant List</a> and bring up more or less information.</p>
 
     <h3 id="identification">Identification</h3>
 
@@ -29,9 +27,9 @@
     <p>Useful Flora identification links:</p>
 
     <p>Tree species guides which were collated by the Group for the species found on the Ridge. </p>
-    <p><a href="#">Tree Notes and Eucalyptus Key pages.</a></p>
+    <p><a href="tree-survey.php">Tree Notes and Eucalyptus Key pages.</a></p>
     <p><a href="https://plantnet.rbgsyd.nsw.gov.au/">Plantnet</a></p>
-    <p><a href="http://canberra.naturemapr.org.au">Canberra Nature Map</a></p>
+    <p><a href="http://canberra.naturemapr.org">Canberra Nature Map</a></p>
 
     <h3 id="plantings">Plantings</h3>
 
@@ -46,6 +44,8 @@
         plantings have included ground cover (Hardenbergia) and bushes (Bursaria).</p>
 
     <p>Please click on a coloured area in the map below for more information.</p>
+
+    <p><cite>Note: Not all plantings have been shown on the map.</cite></p>
 
     <div id="plantations-map" class="map"></div>
 
@@ -66,7 +66,7 @@
 
             var groups = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/maps/plantations.kml',
+                url: 'http://www.coolemanridge.org.au/maps/plantations-temp.kml',
 
                 map: map
 
@@ -75,7 +75,7 @@
     </script>
 
     <div>
-        <a href="/maps/plantations.kml">Export as KML file</a>
+        <a href="/maps/plantations-temp.kml">Export as KML file</a>
     </div>
 
     <h3 id="weeds">Weeds</h3>
@@ -115,13 +115,7 @@
     <p>The group uses the Collector app to notify the Parks and Conservation weeds officer where weeds have been found,
         and to also map any weed management on the ridge. Collector can also be used to map rabbit warrens.</p>
 
-    <p>For a short list with photos of weeds on the Ridge, go to Types of Weeds</p>
-
-    <h3 id="links">Links</h3>
-
-    <p>For Weeding Methods used on the Ridge click
-        <here>
-    </p>
+    <h3 id="links">Further information on weeds</h3>
 
     <p>For <a href="https://canberra.naturemapr.org/Species/Lists/3">Weeds in the ACT</a></p>
 
@@ -142,20 +136,19 @@
     </p>
 
     <ul>
-        <li>Tree Surveys in 1997, 2005, 2009, 2013
-        </li`>
+        <li>Tree Surveys in 1997, 2005, 2009, 2013</li>
         <li>Blackberry Surveys in 2016 and 2017</li>
         <li>A survey following a prescribed burn in 2009.</li>
     </ul>
-
-    <p>More recently the Group has been involved in Vegwatch, which has involved monitoring 2 sites on the ridge yearly
-        since 2016.</p>
 
     <p><a href="tree-survey.php">Tree Survey</a></p>
     <p><a href="blackberry-survey.php">Blackberry Survey</a></p>
     <p><a href="#">Kathner St Regeneration Survey</a></p>
     <p><a href="https://www.molonglo.org.au/act-vegwatch">Vegwatch</a></p>
-    
+
+    <p>More recently the Group has been involved in Vegwatch, which has involved monitoring 2 sites on the ridge yearly
+        since 2016.</p>
+
     <P></P>
     <p></p>
 

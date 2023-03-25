@@ -448,8 +448,8 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Foo Plantation</name>
-			<description>The Foo Plantation was an unknown origin. It is comprised of various exotic eucalyptus species. The long term plan is to have this plantation removed.</description>
+			<name>Long Plantation</name>
+			<description>The Long Plantation was an unknown origin. It is comprised of various exotic eucalyptus species. The long term plan is to have this plantation removed.</description>
 			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>

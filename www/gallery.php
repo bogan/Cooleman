@@ -128,6 +128,91 @@
             <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
                 <img src="/images/rosella3.jpg" alt="buh">
             </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/blue_tongue.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/brown_snake1.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/brown_snake2.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/butcherbird.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/butterfly.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/cockatoo1.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/cockatoo2.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/cockatoos.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/crimson_rosella.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/ducks.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/eastern_rosella.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/gang_gang.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/grebe.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/kangaroo2.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/kite.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/landscape19.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/landscape20.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/landscape21.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/landscape22.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/landscape23.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/lily.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/owl.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella2.jpg')">
+                <img src="/images/skink.jpg" alt="buh">
+            </div>
+            <div class="carousel-item" style="background-image: url('images/rosella3.jpg')">
+                <img src="/images/wallaroo.jpg" alt="buh">
+            </div>
+
+            <div class="carousel-item" style="background-image: url('images/landscape13.jpg')">
+                <img src="/images/woodswallow.jpg" alt="buh">
+            </div>
+
         </div>
 
 
